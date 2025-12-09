@@ -1,0 +1,26 @@
+(i)	Navn på den meldepliktige
+EIRIK WESTERGÅRD HOGSTAD
+
+(ii)	Bakgrunnen for handelen
+Kjøpt aksjer i aksjekjøpsprogram i november 2018, selger for å finansiere deltakelse her
+
+(iii)	Navn på utsteder
+Multiconsult. Ticker: MULTI
+
+(iv)	Beskrivelse av det finansielle instrumentet
+Aksje
+
+(v)	Type transaksjon
+Salg
+
+(vi)	Tidspunkt og marked for transaksjonen
+Solgt på børsen via Nordnet. 11.01.2019. 09:01:30
+
+
+ 
+
+(vii)	Kurs og volum på transaksjonen
+1594 aksjer solgt til 61 kr/aksje
+
+(viii)	Beholdning etter transaksjonen
+2076

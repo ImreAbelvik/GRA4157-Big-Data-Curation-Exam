@@ -1,0 +1,42 @@
+[
+  {
+    "date": "17.12.2024 10:11",
+    "market": "MERK",
+    "IssuerID": "WEST",
+    "message": "Mandatory notification of trade – Western Bulk Chartering AS\nMandatory notification of trade – Western Bulk Chartering AS\nW\nW\nMandatory notification of trade – Western Bulk Chartering AS",
+    "link": "/message/634926",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.12.2023 18:16",
+    "market": "MERK",
+    "IssuerID": "WEST",
+    "message": "Mandatory notification of trade – Western Bulk Chartering AS\nMandatory notification of trade – Western Bulk Chartering AS\nW\nW\nMandatory notification of trade – Western Bulk Chartering AS",
+    "link": "/message/607786",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.11.2022 12:06",
+    "market": "MERK",
+    "IssuerID": "WEST",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/576358",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.09.2021 13:55",
+    "market": "MERK",
+    "IssuerID": "WEST",
+    "message": "WEST - Mandatory notification of trade\nWEST - Mandatory notification of trade\nW\nW\nWEST - Mandatory notification of trade",
+    "link": "/message/542353",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

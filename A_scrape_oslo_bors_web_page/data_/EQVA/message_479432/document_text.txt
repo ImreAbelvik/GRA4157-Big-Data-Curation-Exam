@@ -1,0 +1,8 @@
+Name: Helge Simonnes
+Reason for notification: Trading by close associates (Kamato AS)
+Name of issuer: Havyard Group ASA
+Type of transaction: Share purchase
+Time for the transaction: 13 June 2019 at 14:35
+Price per share: 7,90
+Transaction volume: 4,693
+New holding after the transaction: 118,693

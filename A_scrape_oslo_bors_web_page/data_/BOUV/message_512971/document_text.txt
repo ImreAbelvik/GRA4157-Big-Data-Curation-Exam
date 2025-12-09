@@ -1,0 +1,19 @@
+Navn meldepliktig: Eirik Vefsnmo
+
+Bakgrunn for melding: Salg av aksjer fra primærinnsider
+
+Utsteder av finansielt instrument: Bouvet ASA
+
+Beskrivelse av det finansielle instrumentet: Aksjer
+
+Type transaksjon: Salg
+
+Dato: 04.09.2020
+
+Markedsplass for transaksjonen: Oslo Børs
+
+Gjennomsnittlig kurs: 586,26 NOK
+
+Antall: 4462
+
+Ny beholdning etter transaksjonen: 52606

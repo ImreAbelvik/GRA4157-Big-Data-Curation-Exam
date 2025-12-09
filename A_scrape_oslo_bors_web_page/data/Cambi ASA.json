@@ -1,0 +1,32 @@
+[
+  {
+    "date": "21.08.2024 12:01",
+    "market": "MERK",
+    "IssuerID": "CAMBI",
+    "message": "Cambi ASA: Notifiable trading\nCambi ASA: Notifiable trading\nW\nW\nCambi ASA: Notifiable trading",
+    "link": "/message/625805",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.03.2023 16:16",
+    "market": "MERK",
+    "IssuerID": "CAMBI",
+    "message": "Shares purchase as part of the incentive program for key personnel\nShares purchase as part of the incentive program for key personnel\nW\nW\nShares purchase as part of the incentive program for key personnel",
+    "link": "/message/585815",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.12.2022 12:15",
+    "market": "MERK",
+    "IssuerID": "CAMBI",
+    "message": "Cambi ASA: Notifiable trading\nCambi ASA: Notifiable trading\nW\nW\nCambi ASA: Notifiable trading",
+    "link": "/message/577456",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

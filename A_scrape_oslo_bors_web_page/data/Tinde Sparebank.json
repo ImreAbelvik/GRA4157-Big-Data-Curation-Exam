@@ -1,0 +1,72 @@
+[
+  {
+    "date": "20.02.2025 16:52",
+    "market": "XOAM, MERK",
+    "IssuerID": "TINDE",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/639373",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.04.2024 15:46",
+    "market": "XOAM, MERK",
+    "IssuerID": "TINDE",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/616158",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.04.2024 15:41",
+    "market": "XOAM, MERK",
+    "IssuerID": "TINDE",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/615511",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.04.2024 14:46",
+    "market": "XOAM, MERK",
+    "IssuerID": "TINDE",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/615098",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.04.2024 10:08",
+    "market": "XOAM, MERK",
+    "IssuerID": "TINDE",
+    "message": "Romsdal Sparebank - Meldepliktig handel vedrørende fortrinnsrettsemisjon - korrigert\nRomsdal Sparebank - Meldepliktig handel vedrørende fortrinnsrettsemisjon - korrigert\nW\nW\nRomsdal Sparebank - Meldepliktig handel vedrørende fortrinnsrettsemisjon - korrigert",
+    "link": "/message/615038",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.04.2024 08:00",
+    "market": "XOAM, MERK",
+    "IssuerID": "TINDE",
+    "message": "Romsdal Sparebank - Meldepliktig handel vedrørende fortrinnsrettsemisjon\nRomsdal Sparebank - Meldepliktig handel vedrørende fortrinnsrettsemisjon\nW\nW\nRomsdal Sparebank - Meldepliktig handel vedrørende fortrinnsrettsemisjon",
+    "link": "/message/615006",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.12.2020 09:59",
+    "market": "XOAM, MERK",
+    "IssuerID": "TINDE",
+    "message": "Meldepliktig handel for primærinnsider\nMeldepliktig handel for primærinnsider\nW\nW\nMeldepliktig handel for primærinnsider",
+    "link": "/message/521637",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

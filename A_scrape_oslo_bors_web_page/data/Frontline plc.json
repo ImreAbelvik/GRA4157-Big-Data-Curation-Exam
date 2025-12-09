@@ -1,0 +1,482 @@
+[
+  {
+    "date": "12.09.2025 22:30",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/655317",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.09.2025 22:46",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/654905",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.03.2025 15:12",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/640850",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.12.2024 23:00",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/635304",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.01.2024 22:08",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/608791",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2023 19:22",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Notification of trade\nFRO - Notification of trade\nW\nW\nFRO - Notification of trade",
+    "link": "/message/585505",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.03.2023 21:39",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/584047",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.10.2022 22:02",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/572962",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.07.2022 08:26",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Notification of trade\nFRO - Notification of trade\nW\nW\nFRO - Notification of trade",
+    "link": "/message/566844",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.12.2021 18:18",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Notification of trade\nFRO - Notification of trade\nW\nW\nFRO - Notification of trade",
+    "link": "/message/549972",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.12.2021 17:54",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Notification of trade\nFRO - Notification of trade\nW\nW\nFRO - Notification of trade",
+    "link": "/message/548617",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.09.2021 16:48",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Notification of trade\nFRO - Notification of trade\nW\nW\nFRO - Notification of trade",
+    "link": "/message/543067",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.09.2021 17:18",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/541724",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.07.2021 08:00",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Notification of trade\nFRO - Notification of trade\nW\nW\nFRO - Notification of trade",
+    "link": "/message/537422",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.06.2021 20:06",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/535185",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.03.2021 07:44",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO – Notification of trade\nFRO – Notification of trade\nW\nW\nFRO – Notification of trade",
+    "link": "/message/526917",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.12.2020 17:06",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/519888",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.12.2020 17:28",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO Meldepliktig handel\nFRO Meldepliktig handel\nW\nW\nFRO Meldepliktig handel",
+    "link": "/message/519778",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.09.2020 16:47",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/514314",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.09.2020 16:54",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/513037",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.07.2020 16:41",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "Notification of trade\nNotification of trade\nW\nW\nNotification of trade",
+    "link": "/message/509406",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.06.2020 15:19",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRONTLINE Ltd.\nFRONTLINE Ltd.\nW\nW\nFRONTLINE Ltd.",
+    "link": "/message/507754",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.06.2020 17:31",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/507399",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.03.2020 08:02",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO Meldepliktig handel\nFRO Meldepliktig handel\nW\nW\nFRO Meldepliktig handel",
+    "link": "/message/497580",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.03.2020 17:13",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/497552",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.12.2019 16:47",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/491211",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.12.2019 08:10",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/491132",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.12.2019 16:52",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO Meldepliktig handel\nFRO Meldepliktig handel\nW\nW\nFRO Meldepliktig handel",
+    "link": "/message/491110",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.11.2019 17:05",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/490604",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.09.2019 16:50",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/484726",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.09.2019 16:44",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "Mandatory Notification of Trade\nMandatory Notification of Trade\nW\nW\nMandatory Notification of Trade",
+    "link": "/message/484655",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.06.2019 17:16",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "NOTIFICATION OF TRADE\nNOTIFICATION OF TRADE\nW\nW\nNOTIFICATION OF TRADE",
+    "link": "/message/478957",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.06.2019 17:13",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/478955",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2019 17:06",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "Mandatory notification of transaction - primary insiders\nMandatory notification of transaction - primary insiders\nW\nW\nMandatory notification of transaction - primary insiders",
+    "link": "/message/472800",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.03.2019 19:59",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Primary insider transaction\nFRO - Primary insider transaction\nW\nW\nFRO - Primary insider transaction",
+    "link": "/message/471627",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.03.2019 16:56",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Primary insider transaction\nFRO - Primary insider transaction\nW\nW\nFRO - Primary insider transaction",
+    "link": "/message/471624",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.11.2018 16:43",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Primary insider transaction\nFRO - Primary insider transaction\nW\nW\nFRO - Primary insider transaction",
+    "link": "/message/464174",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.11.2018 17:35",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Primary insider transaction\nFRO - Primary insider transaction\nW\nW\nFRO - Primary insider transaction",
+    "link": "/message/463938",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.07.2018 19:36",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Primary insider transaction\nFRO - Primary insider transaction\nW\nW\nFRO - Primary insider transaction",
+    "link": "/message/456226",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.03.2018 17:10",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Insider transaction\nFRO - Insider transaction\nW\nW\nFRO - Insider transaction",
+    "link": "/message/447842",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.09.2017 08:32",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Primary insider transaction\nFRO - Primary insider transaction\nW\nW\nFRO - Primary insider transaction",
+    "link": "/message/433997",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.12.2016 08:57",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO: Disclosure of Shareholding\nFRO: Disclosure of Shareholding\nW\nW\nFRO: Disclosure of Shareholding",
+    "link": "/message/415595",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.09.2016 16:28",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Insider transaction\nFRO - Insider transaction\nW\nW\nFRO - Insider transaction",
+    "link": "/message/408747",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.07.2016 08:17",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Grant of share options to members of the Board of Directors and management\nFRO - Grant of share options to members of the Board of Directors and management\nW\nW\nFRO - Grant of share options to members of the Board of Directors and management",
+    "link": "/message/405492",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.04.2016 16:28",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Insider transaction\nFRO - Insider transaction\nW\nW\nFRO - Insider transaction",
+    "link": "/message/398902",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.03.2016 12:33",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Insider transaction\nFRO - Insider transaction\nW\nW\nFRO - Insider transaction",
+    "link": "/message/398085",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.01.2016 12:54",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Insider transaction\nFRO - Insider transaction\nW\nW\nFRO - Insider transaction",
+    "link": "/message/392730",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.12.2015 15:48",
+    "market": "XOSL",
+    "IssuerID": "FRO",
+    "message": "FRO - Insider transaction\nFRO - Insider transaction\nW\nW\nFRO - Insider transaction",
+    "link": "/message/390703",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

@@ -1,0 +1,356 @@
+Luxembourg - 6 October 2022 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY)
+announces mandatory notification of the following share transactions by primary
+insiders:
+
++----+-------------------------------------------------------------------------+
+|1   |Details of the person discharging managerial responsibilities/person     |
+|    |closely associated                                                       |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |John Evans                            |
++----+----------------------------------+--------------------------------------+
+|2   |Reason for the notification                                              |
++----+----------------------------------+--------------------------------------+
+|a)  |Position/status                   |Chief Executive Officer               |
++----+----------------------------------+--------------------------------------+
+|b)  |Initial notification/ Amendment   |Initial notification                  |
++----+----------------------------------+--------------------------------------+
+|3   |Details of the issuer, emission allowance market participant, auction    |
+|    |platform, auctioneer or auction monitor                                  |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Subsea 7 S.A.                         |
++----+----------------------------------+--------------------------------------+
+|b)  |LEI                               |222100AIF0CBCY80AH62                  |
++----+----------------------------------+--------------------------------------+
+|4   |Details of the transaction(s): section to be repeated for (i) each type  |
+|    |of instrument; (ii) each type of transaction; (iii) each date; and (iv)  |
+|    |each place where transactions have been conducted                        |
++----+----------------------------------+--------------------------------------+
+|a)  |Description of the financial      |Subsea 7 S.A. shares                  |
+|    |instrument, type of instrument    |                                      |
+|    |Identification code               |Oslo Børs: SUBC                       |
+|    |                                  |                                      |
+|    |                                  |ISIN LU0075646355                     |
+|    |                                  |                                      |
++----+----------------------------------+--------------------------------------+
+|b)1.|Nature of the transaction         |Vesting (award) of shares under the   |
+|    |                                  |issuers Long Term Incentive Plan      |
+|    |                                  |(LTIP)                                |
++----+----------------------------------+--------------------------------------+
+|c)1.|Price(s) and volume(s)            |Volume: 17,342                        |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|b)2.|Nature of the transaction         |Sale of shares to satisfy tax charge  |
+|    |                                  |on vesting of shares                  |
++----+----------------------------------+--------------------------------------+
+|c)2.|Price(s) and volume(s)            |Volume: 8,418                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|d)  |Aggregated information            |N/A                                   |
++----+----------------------------------+--------------------------------------+
+|e)  |Date of the transaction           |2022-10-03 (3 October 2022)           |
++----+----------------------------------+--------------------------------------+
+|f)  |Place of the transaction          |Vesting - outside a trading venue     |
+|    |                                  |Share Sale - Oslo Børs                |
++----+----------------------------------+--------------------------------------+
+
+
++----+-------------------------------------------------------------------------+
+|1   |Details of the person discharging managerial responsibilities/person     |
+|    |closely associated                                                       |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Olivier Blaringhem                    |
++----+----------------------------------+--------------------------------------+
+|2   |Reason for the notification                                              |
++----+----------------------------------+--------------------------------------+
+|a)  |Position/status                   |Executive Vice President - Subsea &   |
+|    |                                  |Conventional                          |
++----+----------------------------------+--------------------------------------+
+|b)  |Initial notification/ Amendment   |Initial notification                  |
++----+----------------------------------+--------------------------------------+
+|3   |Details of the issuer, emission allowance market participant, auction    |
+|    |platform, auctioneer or auction monitor                                  |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Subsea 7 S.A.                         |
++----+----------------------------------+--------------------------------------+
+|b)  |LEI                               |222100AIF0CBCY80AH62                  |
++----+----------------------------------+--------------------------------------+
+|4   |Details of the transaction(s): section to be repeated for (i) each type  |
+|    |of instrument; (ii) each type of transaction; (iii) each date; and (iv)  |
+|    |each place where transactions have been conducted                        |
++----+----------------------------------+--------------------------------------+
+|a)  |Description of the financial      |Subsea 7 S.A. shares                  |
+|    |instrument, type of instrument    |                                      |
+|    |Identification code               |Oslo Børs: SUBC                       |
+|    |                                  |                                      |
+|    |                                  |ISIN LU0075646355                     |
+|    |                                  |                                      |
++----+----------------------------------+--------------------------------------+
+|b)1.|Nature of the transaction         |Vesting (award) of shares under the   |
+|    |                                  |issuers Long Term Incentive Plan      |
+|    |                                  |(LTIP)                                |
++----+----------------------------------+--------------------------------------+
+|c)1.|Price(s) and volume(s)            |Volume: 8,691                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 92.7204                    |
++----+----------------------------------+--------------------------------------+
+|b)2.|Nature of the transaction         |Sale of shares to satisfy tax charge  |
+|    |                                  |on vesting of shares                  |
++----+----------------------------------+--------------------------------------+
+|c)2.|Price(s) and volume(s)            |Volume: 4,125                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 92.7204                    |
++----+----------------------------------+--------------------------------------+
+|d)  |Aggregated information            |N/A                                   |
++----+----------------------------------+--------------------------------------+
+|e)  |Date of the transaction           |2022-10-04 (4 October 2022)           |
++----+----------------------------------+--------------------------------------+
+|f)  |Place of the transaction          |Vesting - outside a trading venue     |
+|    |                                  |Share Sale - Oslo Børs                |
++----+----------------------------------+--------------------------------------+
+
+
++----+-------------------------------------------------------------------------+
+|1   |Details of the person discharging managerial responsibilities/person     |
+|    |closely associated                                                       |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Phillip Simons                        |
++----+----------------------------------+--------------------------------------+
+|2   |Reason for the notification                                              |
++----+----------------------------------+--------------------------------------+
+|a)  |Position/status                   |Executive Vice President - Projects & |
+|    |                                  |Operations                            |
++----+----------------------------------+--------------------------------------+
+|b)  |Initial notification/ Amendment   |Initial notification                  |
++----+----------------------------------+--------------------------------------+
+|3   |Details of the issuer, emission allowance market participant, auction    |
+|    |platform, auctioneer or auction monitor                                  |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Subsea 7 S.A.                         |
++----+----------------------------------+--------------------------------------+
+|b)  |LEI                               |222100AIF0CBCY80AH62                  |
++----+----------------------------------+--------------------------------------+
+|4   |Details of the transaction(s): section to be repeated for (i) each type  |
+|    |of instrument; (ii) each type of transaction; (iii) each date; and (iv)  |
+|    |each place where transactions have been conducted                        |
++----+----------------------------------+--------------------------------------+
+|a)  |Description of the financial      |Subsea 7 S.A. shares                  |
+|    |instrument, type of instrument    |                                      |
+|    |Identification code               |Oslo Børs: SUBC                       |
+|    |                                  |ISIN LU0075646355                     |
++----+----------------------------------+--------------------------------------+
+|b)1.|Nature of the transaction         |Vesting (award) of shares under the   |
+|    |                                  |issuers Long Term Incentive Plan      |
+|    |                                  |(LTIP)                                |
++----+----------------------------------+--------------------------------------+
+|c)1.|Price(s) and volume(s)            |Volume: 8,300                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|b)2.|Nature of the transaction         |Sale of shares to satisfy tax charge  |
+|    |                                  |on vesting of shares                  |
++----+----------------------------------+--------------------------------------+
+|c)2.|Price(s) and volume(s)            |Volume: 4,113                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|d)  |Aggregated information            |N/A                                   |
++----+----------------------------------+--------------------------------------+
+|e)  |Date of the transaction           |2022-10-03 (3 October 2022)           |
++----+----------------------------------+--------------------------------------+
+|f)  |Place of the transaction          |Vesting - outside a trading venue     |
+|    |                                  |Share Sale - Oslo Børs                |
++----+----------------------------------+--------------------------------------+
+
+
++----+-------------------------------------------------------------------------+
+|1   |Details of the person discharging managerial responsibilities/person     |
+|    |closely associated                                                       |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Nathalie Louys                        |
++----+----------------------------------+--------------------------------------+
+|2   |Reason for the notification                                              |
++----+----------------------------------+--------------------------------------+
+|a)  |Position/status                   |General Counsel                       |
++----+----------------------------------+--------------------------------------+
+|b)  |Initial notification/ Amendment   |Initial notification                  |
++----+----------------------------------+--------------------------------------+
+|3   |Details of the issuer, emission allowance market participant, auction    |
+|    |platform, auctioneer or auction monitor                                  |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Subsea 7 S.A.                         |
++----+----------------------------------+--------------------------------------+
+|b)  |LEI                               |222100AIF0CBCY80AH62                  |
++----+----------------------------------+--------------------------------------+
+|4   |Details of the transaction(s): section to be repeated for (i) each type  |
+|    |of instrument; (ii) each type of transaction; (iii) each date; and (iv)  |
+|    |each place where transactions have been conducted                        |
++----+----------------------------------+--------------------------------------+
+|a)  |Description of the financial      |Subsea 7 S.A. shares                  |
+|    |instrument, type of instrument    |                                      |
+|    |Identification code               |Oslo Børs: SUBC                       |
+|    |                                  |                                      |
+|    |                                  |ISIN LU0075646355                     |
+|    |                                  |                                      |
++----+----------------------------------+--------------------------------------+
+|b)1.|Nature of the transaction         |Vesting (award) of shares under the   |
+|    |                                  |issuers Long Term Incentive Plan      |
+|    |                                  |(LTIP)                                |
++----+----------------------------------+--------------------------------------+
+|c)1.|Price(s) and volume(s)            |Volume: 8,715                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|b)2.|Nature of the transaction         |Sale of shares to satisfy tax charge  |
+|    |                                  |on vesting of shares                  |
++----+----------------------------------+--------------------------------------+
+|c)2.|Price(s) and volume(s)            |Volume: 4,231                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|d)  |Aggregated information            |N/A                                   |
++----+----------------------------------+--------------------------------------+
+|e)  |Date of the transaction           |2022-10-03 (3 October 2022)           |
++----+----------------------------------+--------------------------------------+
+|f)  |Place of the transaction          |Vesting - outside a trading venue     |
+|    |                                  |Share Sale - Oslo Børs                |
++----+----------------------------------+--------------------------------------+
+
+
++----+-------------------------------------------------------------------------+
+|1   |Details of the person discharging managerial responsibilities/person     |
+|    |closely associated                                                       |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Katherine Lyne                        |
++----+----------------------------------+--------------------------------------+
+|2   |Reason for the notification                                              |
++----+----------------------------------+--------------------------------------+
+|a)  |Position/status                   |Executive Vice President - Human      |
+|    |                                  |Resources                             |
++----+----------------------------------+--------------------------------------+
+|b)  |Initial notification/ Amendment   |Initial notification                  |
++----+----------------------------------+--------------------------------------+
+|3   |Details of the issuer, emission allowance market participant, auction    |
+|    |platform, auctioneer or auction monitor                                  |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Subsea 7 S.A.                         |
++----+----------------------------------+--------------------------------------+
+|b)  |LEI                               |222100AIF0CBCY80AH62                  |
++----+----------------------------------+--------------------------------------+
+|4   |Details of the transaction(s): section to be repeated for (i) each type  |
+|    |of instrument; (ii) each type of transaction; (iii) each date; and (iv)  |
+|    |each place where transactions have been conducted                        |
++----+----------------------------------+--------------------------------------+
+|a)  |Description of the financial      |Subsea 7 S.A. shares                  |
+|    |instrument, type of instrument    |                                      |
+|    |Identification code               |Oslo Børs: SUBC                       |
+|    |                                  |                                      |
+|    |                                  |ISIN LU0075646355                     |
+|    |                                  |                                      |
++----+----------------------------------+--------------------------------------+
+|b)1.|Nature of the transaction         |Vesting (award) of shares under the   |
+|    |                                  |issuers Long Term Incentive Plan      |
+|    |                                  |(LTIP)                                |
++----+----------------------------------+--------------------------------------+
+|c)1.|Price(s) and volume(s)            |Volume: 5,790                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|b)2.|Nature of the transaction         |Sale of shares to satisfy tax charge  |
+|    |                                  |on vesting of shares                  |
++----+----------------------------------+--------------------------------------+
+|c)2.|Price(s) and volume(s)            |Volume: 2,811                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|d)  |Aggregated information            |N/A                                   |
++----+----------------------------------+--------------------------------------+
+|e)  |Date of the transaction           |2022-10-03 (3 October 2022)           |
++----+----------------------------------+--------------------------------------+
+|f)  |Place of the transaction          |Vesting - outside a trading venue     |
+|    |                                  |Share Sale - Oslo Børs                |
++----+----------------------------------+--------------------------------------+
+
+
++----+-------------------------------------------------------------------------+
+|1   |Details of the person discharging managerial responsibilities/person     |
+|    |closely associated                                                       |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Marcelo Lopes Xavier                  |
++----+----------------------------------+--------------------------------------+
+|2   |Reason for the notification                                              |
++----+----------------------------------+--------------------------------------+
+|a)  |Position/status                   |Executive Vice President - Strategy & |
+|    |                                  |Sustainability                        |
++----+----------------------------------+--------------------------------------+
+|b)  |Initial notification/ Amendment   |Initial notification                  |
++----+----------------------------------+--------------------------------------+
+|3   |Details of the issuer, emission allowance market participant, auction    |
+|    |platform, auctioneer or auction monitor                                  |
++----+----------------------------------+--------------------------------------+
+|a)  |Name                              |Subsea 7 S.A.                         |
++----+----------------------------------+--------------------------------------+
+|b)  |LEI                               |222100AIF0CBCY80AH62                  |
++----+----------------------------------+--------------------------------------+
+|4   |Details of the transaction(s): section to be repeated for (i) each type  |
+|    |of instrument; (ii) each type of transaction; (iii) each date; and (iv)  |
+|    |each place where transactions have been conducted                        |
++----+----------------------------------+--------------------------------------+
+|a)  |Description of the financial      |Subsea 7 S.A. shares                  |
+|    |instrument, type of instrument    |                                      |
+|    |Identification code               |Oslo Børs: SUBC                       |
+|    |                                  |                                      |
+|    |                                  |ISIN LU0075646355                     |
+|    |                                  |                                      |
++----+----------------------------------+--------------------------------------+
+|b)1.|Nature of the transaction         |Vesting (award) of shares under the   |
+|    |                                  |issuers Long Term Incentive Plan      |
+|    |                                  |(LTIP)                                |
++----+----------------------------------+--------------------------------------+
+|c)1.|Price(s) and volume(s)            |Volume: 5,982                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|b)2.|Nature of the transaction         |Sale of shares to satisfy tax charge  |
+|    |                                  |on vesting of shares                  |
++----+----------------------------------+--------------------------------------+
+|c)2.|Price(s) and volume(s)            |Volume: 1,655                         |
+|    |                                  |                                      |
+|    |                                  |                                      |
+|    |                                  |Price: NOK 89.923481                  |
++----+----------------------------------+--------------------------------------+
+|d)  |Aggregated information            |N/A                                   |
++----+----------------------------------+--------------------------------------+
+|e)  |Date of the transaction           |2022-10-03 (3 October 2022)           |
++----+----------------------------------+--------------------------------------+
+|f)  |Place of the transaction          |Vesting - outside a trading venue     |
+|    |                                  |Share Sale - Oslo Børs                |
++----+----------------------------------+--------------------------------------+
+
+******************************************************************************
+Subsea 7 is a global leader in the delivery of offshore projects and services
+for the evolving energy industry, creating sustainable value by being the
+industry's partner and employer of choice in delivering the efficient offshore
+solutions the world needs.
+
+Subsea 7 is listed on the Oslo Børs (SUBC), ISIN LU0075646355, LEI
+222100AIF0CBCY80AH62.
+******************************************************************************
+Contact for investment community enquiries:
+Katherine Tonks
+Investor Relations Director
+Tel +44 20 8210 5568
+ir@subsea7.com (mailto:ir@subsea7.com)
+www.subsea7.com

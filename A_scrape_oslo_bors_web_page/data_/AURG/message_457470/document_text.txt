@@ -1,0 +1,11 @@
+Grunnet gjenbruk av historisk melding ble de forrige utsendte feil på først
+antall og pris, deretter dato.
+
+Korrekt melding er:
+
+- I dag 17. august 2018 har adm. banksjef Odd Nordli kjøpt 200 egenkapitalbevis
+i Aurskog Sparebank til kurs NOK 185,00. Oslo Børs var marked for transaksjonen.
+Ny beholdning for primærinnsider er 1.969 egenkapitalbevis.
+
+
+Denne opplysningen er informasjonspliktig etter verdipapirhandelloven §5-12

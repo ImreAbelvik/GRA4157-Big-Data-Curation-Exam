@@ -1,0 +1,82 @@
+[
+  {
+    "date": "23.12.2024 17:04",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/635635",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.01.2024 13:54",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/609330",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.01.2024 13:27",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/609324",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.11.2022 08:20",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/577015",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.05.2022 14:40",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/563788",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.03.2022 18:31",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/557368",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2022 16:39",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/557227",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.03.2022 15:47",
+    "market": "MERK",
+    "IssuerID": "OCEAN",
+    "message": "Ocean GeoLoop AS: Mandatory notification of trades\nOcean GeoLoop AS: Mandatory notification of trades\nW\nW\nOcean GeoLoop AS: Mandatory notification of trades",
+    "link": "/message/555974",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

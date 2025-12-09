@@ -1,0 +1,7 @@
+Navn: Geir Johnsen
+Bakgrunn for meldingen: Innsiders handel.
+Aktuell aksje: Nordic Semiconductor ASA
+Type transaksjon: Salg
+Tidspunkt og marked: Oslo børs kl. 14:10
+Kurs og volum: 2000 aksjer til kurs 48,10
+Ny beholdning: 0

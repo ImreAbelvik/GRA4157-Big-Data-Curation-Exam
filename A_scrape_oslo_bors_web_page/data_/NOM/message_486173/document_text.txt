@@ -1,0 +1,34 @@
+The following primary insiders have subscribed for shares in the ongoing Rights
+Issue in Nordic Mining as follows:
+
++-----------+--------+------------+----------+-----------+----------------+
+|Name       |Position|Number of   |Shares    |Shares     |Options in share|
+|           |        |allocated   |subscribed|owned prior|option scheme(1)|
+|           |        |subscription|          |to the     |                |
+|           |        |rights      |          |transaction|                |
++-----------+--------+------------+----------+-----------+----------------+
+|Lars K.    |Sr.     |269,486     |175,000   |1,550,000  |400,000         |
+|Grøndahl(2)|Advisor |            |          |           |                |
++-----------+--------+------------+----------+-----------+----------------+
+|Eva        |Board   |16,362      |16,362    |94,110     |0               |
+|Kaijser(3) |member  |            |          |           |                |
++-----------+--------+------------+----------+-----------+----------------+
+
+(1) Each option gives the right to subscribe for one share in Nordic Mining at a
+subscription price of NOK 2.63 per share. The options must be exercised within
+the earlier of date of the general meeting of Nordic Mining in 2022 and 30 June
+2022
+
+(2) The shares are subscribed through, and existing shares are owned by, the
+company Magil AS
+
+(3) The shares are subscribed through, and existing shares are owned by, the
+company Fågelsangen AB
+
+The subscription price is NOK 1.40 per share. Shares subscribed based on
+subscription rights will be allocated to the subscriber.
+
+Lars K. Grøndahl has sold 94,486 subscription rights at an average price of NOK
+0.30 per subscription right.
+
+Oslo, 30 September 2019

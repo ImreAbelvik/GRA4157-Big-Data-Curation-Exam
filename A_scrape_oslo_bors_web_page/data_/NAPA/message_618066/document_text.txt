@@ -1,0 +1,24 @@
+Reference is made to the stock exchange announcement published by Napatech A/S (the "Company") on 7 May 2024 regarding the completion of a private placement of 9,000,000 new shares in the Company (the “Private Placement”).  
+
+For the purpose of facilitating delivery-versus-payment (DVP) of the shares allocated to investors in the Private Placement with existing shares in the Company already listed on the Oslo Stock Exchange (the “Share Lending”), Verdane Capital VIII K/S (“Verdane”), a closely associated legal person of chairman Christian Jebsen, will lend 9,000,000 shares in the Company to ABG Sundal Collier ASA (the “Settlement Agent”) acting as Settlement Agent for the managers in the Private Placement. 
+
+Please see the transaction notification form for the transaction from Verdane attached to this release.
+
+Further, in connection with the Share Lending, the Company has received a major shareholder notification pursuant to Section 38 of the Danish Capital Markets Act and section 55 of the Danish Companies Act, respectively, regarding direct holdings of shares in the Company. As a result of the Share Lending, Verdane currently holds 6,213,618 shares in the Company of a nominal value of DKK 0.25 each, corresponding to approximately 6.88% (previously approximately 16.85%) of the total share capital and voting rights. Verdane will thereby fall below the 10% and 15% thresholds pursuant to section 38 of the Danish Capital Markets Act.
+
+Shares of an identical amount as part of the Share Lending, i.e. 9,000,000 shares in the Company, are expected to be redelivered to Verdane from the Settlement Agent following registration of the share capital increase in connection with the Private Placement. Following completion of (i) registration of the share capital increase in the Company pertaining to the Private Placement, and (ii) redelivery of the shares from the Share Lending, Verdane is expected to hold 15,213,618 shares in the Company of a nominal value of DKK 0.25 each, corresponding to approximately 15.32% of the total share capital and voting rights in the Company after the share capital increase.
+
+For additional information, please contact:
+
+Lars Boilesen, CEO
+Phone: +45 45961500
+E-mail: larsb@napatech.com 
+
+or 
+
+Heine Thorsgaard, CFO
+Phone: +45 4596 1500
+E-mail: htg@napatech.com
+
+About:
+Napatech is a leading supplier of programmable FPGA-based SmartNIC solutions used in telecom, cloud, enterprise, cybersecurity and financial applications worldwide. Through commercial-grade software suites integrated with robust, high-performance hardware, Napatech accelerates telecom, networking and security workloads to deliver best-in-class system-level performance while maximizing the availability of server compute resources for running applications and services.

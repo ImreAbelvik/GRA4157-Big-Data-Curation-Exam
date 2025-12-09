@@ -1,0 +1,88 @@
+Copenhagen, 2016-02-12 09:13 CET (GLOBE NEWSWIRE) --
+Announcement no. 03
+
+
+
+In accordance with section 28a of the Danish Securities Trading Act, DFDS A/S
+is disclosing information on trading in the shares and associated securities of
+DFDS A/S undertaken by senior employees or their related parties. 
+
+
+
+Niels Smedegaard
+
+Sale of shares
+
+Name:              Niels Smedegaard
+
+Cause:              CEO of DFDS
+
+
+Issuer:              DFDS A/S
+
+ISIN:                DK0060655629
+
+Designation:     Share options
+
+Transaction:      Exercise of share options
+
+Trading date:    12 February 2016
+
+
+
+
+
+NAME              TRANSACTION              NO.  PRICE  TOTAL VALUE, DKK
+-----------------------------------------------------------------------
+Niels Smedegaard  Exercise of options  313,580   58.8        18,438,504
+-----------------------------------------------------------------------
+
+
+
+Torben Carlsen
+
+Exercise of options
+
+Name:              Torben Carlsen
+
+Cause:              CFO of DFDS
+
+
+Issuer:              DFDS A/S
+
+ISIN:                DK0060655629
+Designation:     Share options
+
+Transaction:      Exercise of share options
+
+Trading date:    12 February 2016
+
+
+
+NAME            TRANSACTION                    NO.  PRICE  TOTAL VALUE, DKK
+---------------------------------------------------------------------------
+Torben Carlsen  Exercise of share options  235,185   58.8        13,828,878
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Contact
+         Niels Smedegaard, CEO
+         +45 3342 3400
+         
+         Torben Carlsen, CFO
+         +45 3342 3201
+         
+         Søren Brøndholt Nielsen, IR
+         +45 3342 3359

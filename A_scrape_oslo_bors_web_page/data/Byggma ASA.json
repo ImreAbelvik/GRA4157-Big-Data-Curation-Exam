@@ -1,0 +1,332 @@
+[
+  {
+    "date": "01.01.2024 19:37",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/607802",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.03.2022 10:12",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "BMA: Meldepliktig handel\nBMA: Meldepliktig handel\nW\nW\nBMA: Meldepliktig handel",
+    "link": "/message/557613",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.07.2021 16:09",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/537550",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.03.2021 16:58",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/528306",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2020 14:38",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/520505",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.04.2019 17:45",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "BMA - Meldepliktig handel\nBMA - Meldepliktig handel\nW\nW\nBMA - Meldepliktig handel",
+    "link": "/message/474077",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.03.2019 18:33",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "BMA - Meldepliktig handel\nBMA - Meldepliktig handel\nW\nW\nBMA - Meldepliktig handel",
+    "link": "/message/473103",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.03.2019 14:47",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "BMA - Meldepliktig handel\nBMA - Meldepliktig handel\nW\nW\nBMA - Meldepliktig handel",
+    "link": "/message/471284",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.01.2019 17:06",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "BMA - Meldepliktig handel\nBMA - Meldepliktig handel\nW\nW\nBMA - Meldepliktig handel",
+    "link": "/message/467200",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.01.2019 08:33",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "BMA - Meldepliktig handel - Korreksjon\nBMA - Meldepliktig handel - Korreksjon\nW\nW\nBMA - Meldepliktig handel - Korreksjon",
+    "link": "/message/467148",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.01.2019 08:23",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "BMA - Meldepliktig handel\nBMA - Meldepliktig handel\nW\nW\nBMA - Meldepliktig handel",
+    "link": "/message/467146",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.10.2018 08:13",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/460407",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.09.2018 08:14",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/459982",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.09.2018 07:38",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/459906",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.09.2018 08:22",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/459428",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.04.2017 08:02",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/424266",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.04.2017 13:14",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/424117",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.04.2017 21:53",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/424058",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.04.2017 08:14",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/423976",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.03.2017 17:04",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/423473",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.03.2017 08:04",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig Handel\nMeldepliktig Handel\nW\nW\nMeldepliktig Handel",
+    "link": "/message/422957",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.03.2017 18:02",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Innsidemelding Byggma ASA\nInnsidemelding Byggma ASA\nW\nW\nInnsidemelding Byggma ASA",
+    "link": "/message/422676",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.03.2017 14:20",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/422033",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.03.2017 07:54",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/421958",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.02.2017 16:07",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/421236",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.12.2016 12:11",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/416231",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.06.2016 14:52",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/404351",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.05.2016 14:48",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/403020",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.03.2016 15:09",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/398361",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.11.2015 20:35",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/390328",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.11.2015 23:01",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/389612",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.09.2015 08:04",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/385046",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.06.2015 13:04",
+    "market": "XOSL",
+    "IssuerID": "BMA",
+    "message": "MELDEPLIKTIG HANDEL\nMELDEPLIKTIG HANDEL\nW\nW\nMELDEPLIKTIG HANDEL",
+    "link": "/message/380603",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

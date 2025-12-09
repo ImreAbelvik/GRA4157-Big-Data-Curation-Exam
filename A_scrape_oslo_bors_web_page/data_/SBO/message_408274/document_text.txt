@@ -1,0 +1,35 @@
+Selskap (utsteder:)
+Selvaag Bolig ASA
+
+Primærinnsiders navn (nærståendes, dersom det er 
+nærstående som handler):
+Christopher Brunvoll
+
+Stilling/verv:	
+Varamedlem styret Selvaag Bolig ASA
+
+Type transaksjon (kjøp, salg, tegning, bytte etc):
+Salg
+
+Antall aksjer (andre finansielle instrumenter):
+1.497
+
+Kurs (NOK):
+38,70
+
+Marked (Oslo Børs/annet marked):
+Oslo Børs
+
+Primærinnsiders beholdning etter handelen:
+2.503
+
+Nærståendes beholdning etter handelen:
+	
+Opsjoner, angi:
+-	Opsjonspremie
+-	Strikekurs
+-	Kjøp-/salgsopsjon
+-	Tidspunkt for utøvelse	
+
+
+Oslo, 26.08.2016

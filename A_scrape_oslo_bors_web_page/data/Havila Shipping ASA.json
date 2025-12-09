@@ -1,0 +1,62 @@
+[
+  {
+    "date": "18.07.2017 12:53",
+    "market": "XOSL, XOAM",
+    "IssuerID": "HAVI",
+    "message": "Havila Shipping ASA: Mandatory notification of trade\nHavila Shipping ASA: Mandatory notification of trade\nW\nW\nHavila Shipping ASA: Mandatory notification of trade",
+    "link": "/message/431525",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.07.2017 12:53",
+    "market": "XOSL, XOAM",
+    "IssuerID": "HAVI",
+    "message": "Havila Shipping ASA: Meldepliktig handel\nHavila Shipping ASA: Meldepliktig handel\nW\nW\nHavila Shipping ASA: Meldepliktig handel",
+    "link": "/message/431524",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2017 08:03",
+    "market": "XOSL, XOAM",
+    "IssuerID": "HAVI",
+    "message": "Havila Shipping ASA: Mandatory notification of trade\nHavila Shipping ASA: Mandatory notification of trade\nW\nW\nHavila Shipping ASA: Mandatory notification of trade",
+    "link": "/message/423129",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2017 08:03",
+    "market": "XOSL, XOAM",
+    "IssuerID": "HAVI",
+    "message": "Havila Shipping ASA: Meldepliktig handel\nHavila Shipping ASA: Meldepliktig handel\nW\nW\nHavila Shipping ASA: Meldepliktig handel",
+    "link": "/message/423128",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.02.2015 14:13",
+    "market": "XOSL",
+    "IssuerID": "HAVI",
+    "message": "Havila Shipping ASA : Havila Holding AS kjøper aksjer\nHavila Shipping ASA : Havila Holding AS kjøper aksjer\nW\nW\nHavila Shipping ASA : Havila Holding AS kjøper aksjer",
+    "link": "/message/370392",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.02.2015 14:13",
+    "market": "XOSL",
+    "IssuerID": "HAVI",
+    "message": "Havila Shipping ASA : Havila Holding AS purchases shares\nHavila Shipping ASA : Havila Holding AS purchases shares\nW\nW\nHavila Shipping ASA : Havila Holding AS purchases shares",
+    "link": "/message/370391",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

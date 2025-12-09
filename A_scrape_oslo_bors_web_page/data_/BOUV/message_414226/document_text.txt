@@ -1,0 +1,19 @@
+Navn meldepliktig: Torgeir Nilsen
+
+Bakgrunn for melding: Egen handel
+
+Utsteder av finansielt instrument: Bouvet ASA
+
+Beskrivelse av det finansielle instrumentet: BOUVET
+
+Type transaksjon: Kjøp
+
+Dato: 21.november 2016
+
+Markedsplass for transaksjonen: Oslo Børs
+
+Kurs: 126,0
+
+Antall: 400
+
+Ny beholdning etter transaksjonen: 20710 

@@ -1,0 +1,112 @@
+Reference is made to the annual general meeting of Circio Holding ASA (the
+"Company") on 22 May 2023 (the "AGM") where election of members to the board of
+directors was according to the nomination committee's proposal. At the same AGM
+of the Company the board of directors was authorized to extend the Company's
+restricted stock unit ("RSU") program and to issue RSUs to the board members.
+The RSUs are non-transferable and each RSU gives the right and obligation to
+acquire one share in the Company at a price of NOK 0.10 per share (corresponding
+to the nominal value of the shares) subject to satisfaction of the applicable
+vesting conditions.
+
+If the board members choose to receive the board remuneration in RSUs they must
+elect to either (i) receive 100% of the compensation in RSUs, (ii) receive 1/3
+of the compensation in cash and 2/3 in RSUs, or (iii) receive 2/3 of the
+compensation in cash and 1/3 in RSUs. The number of RSUs is calculated on the
+basis of a board remuneration of NOK 535 000 to the chairperson of the board and
+NOK 320,000 to the other board members, divided by the market price of the
+Company's shares calculated as the volume weighted average share price for the
+10 trading days prior to the AGM being NOK 0.59 per share.
+
+Damian Marron has resolved to receive 1/3 of the board remuneration, as
+determined by the Company's annual general meeting in 2023, in the form of RSUs
+and the board of directors has resolved to issue 302,670 RSUs to Damian Marron.
+Damian Marron holds 400,435 RSUs, no options and no shares in the Company.
+
+Diane Mellett has resolved to receive 2/3 of the board remuneration, as
+determined by the Company's annual general meeting in 2023, in the form of RSUs
+and the board of directors has resolved to issue 362,072 RSUs to Diane Mellett.
+Diane Mellett holds 466,460 RSUs, no options and 122,948 shares in the Company.
+
+Sonia Quaratino has resolved to receive 2/3 of the board remuneration, as
+determined by the Company's annual general meeting in 2023, in the form of RSUs
+and the board of directors has resolved to issue 362,072 RSUs to Sonia
+Quaratino. Sonia Quaratino holds 506,242 RSUs, no options and no shares in the
+Company.
+
+Thomas Falck has resolved to receive 1/3 of the board remuneration, as
+determined by the Company's annual general meeting in 2023, in the form of RSUs
+and the board of directors has resolved to issue 181,037 RSUs to Thomas Falck.
+Thomas Falck holds 296,493 RSUs, no options and no shares in the Company.
+
+Raphael Clynes has resolved to receive 100% of the board remuneration, as
+determined by the Company's annual general meeting in 2023, in the form of RSUs
+and the board of directors has resolved to issue 543,109 RSUs to Raphael Clynes.
+Raphael Clynes holds 658,565 RSUs, no options and no shares in the Company.
+
+Bente-Lill B Romøren has resolved to receive 1/3 of the board remuneration, as
+determined by the Company's annual general meeting in 2023, in the form of RSUs
+and the board of directors has resolved to issue 181,037 RSUs to Bente-Lill B
+Romøren. Bente-Lill B Romøren holds 195,394 RSUs, no options and 35,577 shares
+in the Company.
+
+Notifications by Primary Insiders
+22.05.23.pdf (https://mb.cision.com/Public/17093/3785177/b06c2fe754f8a149.pdf)
+
+For further information, please contact:
+Erik Digman Wiklund, CEO
+Phone: +47 413 33 536
+Email: erik.wiklund@circio.com (erik.wiklund@targovax.com)
+
+Renate Birkeli, Investor Relations
+Phone: +47 922 61 624
+Email: renate.birkeli@circio.com (renate.birkeli@targovax.com)
+
+Media enquires:
+Andreas Tinglum - Corporate Communications (Norway)
+Phone: +47 9300 1773
+Email: andreas.tinglum@corpcom.no
+
+About Circio
+
+Building next generation RNA therapeutics
+
+Circio Holding ASA is a biotechnology company developing novel circular RNA and
+immunotherapy medicines.
+
+Building on deep experience in RNA biology, immunotherapy and viral vector
+engineering, Circio has established a unique circular RNA (circRNA) platform to
+develop novel circRNA medicines for cancer, vaccines, protein replacement for
+genetic disorders and cell therapy. The proprietary circVec technology is based
+on a modular genetic cassette design for efficient biogenesis of multifunctional
+circRNA from DNA-based vectors that can be deployed for multiple purposes. The
+most advanced therapeutic concept, circAde, builds on the company´s experience
+in oncolytic viruses to use engineered adenoviruses for delivery of circRNA to
+cancer cells. This unique approach is the only currently known circRNA program
+targeting solid tumors. Circio´s strategy is to develop novel circAde cancer
+medicines in-house and seek partnerships in other therapeutic areas to
+demonstrate the broad potential of the circVec platform and accelerate our
+circRNA pipeline development. The circRNA R&D activities are being conducted by
+the wholly owned subsidiary Circio AB based at the Karolinska Institute in
+Stockholm, Sweden.
+
+Circio´s clinical immunotherapy programs are designed to activate the patient´s
+own immune system to fight cancer cells and provide benefit to patients with no
+or few treatment alternatives. Lead candidate ONCOS-102 is an oncolytic
+adenovirus (AdV5) carrying a genetic cassette for mRNA-based expression of the
+cytokine GM-CSF, designed to selectively target cancer cells and drive an anti
+-tumor immune response. ONCOS-102 has demonstrated an excellent safety profile,
+strong immune responses and clinical efficacy in several cancer types in Phase
+1/2 studies, both as monotherapy and in combinations with checkpoint inhibitors
+or standard-of-care chemotherapy. Circio is aiming to progress ONCOS-102 into a
+phase 2 trial in melanoma patients resistant to PD-1 checkpoint inhibitor
+treatment, subject to additional external financing and/or partnerships to
+support the program.
+
+Circio's second clinical stage program is an immunotherapy targeting KRAS driver
+mutations. Lead candidate TG01 has previously shown robust immune responses and
+encouraging clinical benefit in surgically resected pancreatic cancer, and is
+currently being tested in two clinical trials in RAS-mutated pancreatic cancer
+and multiple myeloma in the USA and Norway. These studies are being run through
+industry and academic collaborative networks, supported by prestigious research
+grants from Innovation Norway and the Norwegian Research Council, creating broad
+future optionality for the TG01 program at low cost to Circio.

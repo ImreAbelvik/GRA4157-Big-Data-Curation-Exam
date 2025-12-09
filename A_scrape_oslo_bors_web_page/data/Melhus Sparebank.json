@@ -1,0 +1,392 @@
+[
+  {
+    "date": "02.04.2025 09:03",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/642814",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.06.2023 09:53",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/593080",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.05.2022 11:42",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Overføring av egne egenkapitalbevis til ansatte\nOverføring av egne egenkapitalbevis til ansatte\nW\nW\nOverføring av egne egenkapitalbevis til ansatte",
+    "link": "/message/561996",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.03.2021 08:51",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/527907",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.02.2021 21:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Kjøp egne egenkapitalbevis\nKjøp egne egenkapitalbevis\nW\nW\nKjøp egne egenkapitalbevis",
+    "link": "/message/526242",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.01.2021 17:11",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Melhusbanken- Meldepliktig salg Schløsser-Møller Gruppen AS\nMelhusbanken- Meldepliktig salg Schløsser-Møller Gruppen AS\nW\nW\nMelhusbanken- Meldepliktig salg Schløsser-Møller Gruppen AS",
+    "link": "/message/522602",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.09.2020 08:34",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/513995",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.06.2020 14:58",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Kjøp egenkapitalbevis\nKjøp egenkapitalbevis\nW\nW\nKjøp egenkapitalbevis",
+    "link": "/message/507003",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.02.2020 16:01",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Kjøp av egenkapitalbevis\nKjøp av egenkapitalbevis\nW\nW\nKjøp av egenkapitalbevis",
+    "link": "/message/496564",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.10.2019 10:24",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Salg egenkapitalbevis i Melhus Sparebank\nSalg egenkapitalbevis i Melhus Sparebank\nW\nW\nSalg egenkapitalbevis i Melhus Sparebank",
+    "link": "/message/486449",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.10.2019 08:58",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Salg egenkapitalbevis i Melhus Sparebank\nSalg egenkapitalbevis i Melhus Sparebank\nW\nW\nSalg egenkapitalbevis i Melhus Sparebank",
+    "link": "/message/486279",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.02.2019 08:13",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Kjøp av egenkapitalbevis\nKjøp av egenkapitalbevis\nW\nW\nKjøp av egenkapitalbevis",
+    "link": "/message/469963",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.02.2019 11:22",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "KJØP EGNE EGENKAPITALBEVIS\nKJØP EGNE EGENKAPITALBEVIS\nW\nW\nKJØP EGNE EGENKAPITALBEVIS",
+    "link": "/message/469872",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.02.2018 14:04",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Salg egenkapitalbevis\nSalg egenkapitalbevis\nW\nW\nSalg egenkapitalbevis",
+    "link": "/message/444450",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.02.2018 11:17",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "KJØP EGNE EGENKAPITALBEVIS\nKJØP EGNE EGENKAPITALBEVIS\nW\nW\nKJØP EGNE EGENKAPITALBEVIS",
+    "link": "/message/444118",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2017 15:04",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "KJØP EGNE EGENKAPITALBEVIS\nKJØP EGNE EGENKAPITALBEVIS\nW\nW\nKJØP EGNE EGENKAPITALBEVIS",
+    "link": "/message/441537",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2017 10:00",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Kjøp egenkapitalbevis\nKjøp egenkapitalbevis\nW\nW\nKjøp egenkapitalbevis",
+    "link": "/message/440733",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.12.2017 09:01",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "MELG - Endelig tildeling til primærinnsidere i reparasjonsemisjonen\nMELG - Endelig tildeling til primærinnsidere i reparasjonsemisjonen\nW\nW\nMELG - Endelig tildeling til primærinnsidere i reparasjonsemisjonen",
+    "link": "/message/440616",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.12.2017 15:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel (tegning)\nMeldepliktig handel (tegning)\nW\nW\nMeldepliktig handel (tegning)",
+    "link": "/message/440050",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.11.2017 15:50",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel (tegning)\nMeldepliktig handel (tegning)\nW\nW\nMeldepliktig handel (tegning)",
+    "link": "/message/439771",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.11.2017 15:14",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel (tegning)\nMeldepliktig handel (tegning)\nW\nW\nMeldepliktig handel (tegning)",
+    "link": "/message/439494",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.11.2017 14:27",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel (tegning)\nMeldepliktig handel (tegning)\nW\nW\nMeldepliktig handel (tegning)",
+    "link": "/message/439288",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.03.2017 09:14",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Salg egenkapitalbevis i Melhus Sparebank\nSalg egenkapitalbevis i Melhus Sparebank\nW\nW\nSalg egenkapitalbevis i Melhus Sparebank",
+    "link": "/message/421589",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.03.2017 09:03",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Salg egenkapitalbevis i Melhus Sparebank\nSalg egenkapitalbevis i Melhus Sparebank\nW\nW\nSalg egenkapitalbevis i Melhus Sparebank",
+    "link": "/message/421588",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.02.2017 09:26",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Børsmelding insidehandel\nBørsmelding insidehandel\nW\nW\nBørsmelding insidehandel",
+    "link": "/message/420810",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.02.2017 13:52",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "KJØP EGNE EGENKAPITALBEVIS\nKJØP EGNE EGENKAPITALBEVIS\nW\nW\nKJØP EGNE EGENKAPITALBEVIS",
+    "link": "/message/419939",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.12.2016 08:56",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/415321",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.11.2016 08:08",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "MELDEPLIKTIG HANDEL\nMELDEPLIKTIG HANDEL\nW\nW\nMELDEPLIKTIG HANDEL",
+    "link": "/message/414598",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.11.2016 08:35",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/414488",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.11.2016 14:26",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/413816",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.11.2016 11:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/413681",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.06.2016 11:36",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "MELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS\nMELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS\nW\nW\nMELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS",
+    "link": "/message/403614",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.05.2016 14:23",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "MELG - Endelig tildeling til primærinnsidere i reparasjonsemisjonen\nMELG - Endelig tildeling til primærinnsidere i reparasjonsemisjonen\nW\nW\nMELG - Endelig tildeling til primærinnsidere i reparasjonsemisjonen",
+    "link": "/message/400974",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.04.2016 10:12",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel (tegning)\nMeldepliktig handel (tegning)\nW\nW\nMeldepliktig handel (tegning)",
+    "link": "/message/400601",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.04.2016 09:49",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel (tegning)\nMeldepliktig handel (tegning)\nW\nW\nMeldepliktig handel (tegning)",
+    "link": "/message/399893",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.11.2015 14:04",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/389583",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.11.2015 10:46",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/388825",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.02.2015 15:05",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "MELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS\nMELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS\nW\nW\nMELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS",
+    "link": "/message/371418",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2015 12:58",
+    "market": "XOSL, XOAM",
+    "IssuerID": "MELG",
+    "message": "MELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS\nMELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS\nW\nW\nMELDEPLIKTIG HANDEL EGNE EGENKAPITALBEVIS",
+    "link": "/message/371289",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

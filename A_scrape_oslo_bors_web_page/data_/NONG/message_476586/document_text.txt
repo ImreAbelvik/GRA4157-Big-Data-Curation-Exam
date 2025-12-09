@@ -1,0 +1,4 @@
+Reference is made to anoncement made today regarding SpareBank 1 Nord-Norge's
+purchase of own equity certificates for allocation to employees. The
+specified closing balance of NONG for was wrong for some of the primary
+insiders. An updated specification is attached.

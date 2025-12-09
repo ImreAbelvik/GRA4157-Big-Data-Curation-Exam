@@ -1,0 +1,10 @@
+As a primary insider, I am reporting as  required by section 4-2 of the Securities Trading Act to notify Oslo Børs, immediately and no later than the start of trading the next trading day, in any transaction in the company where you are a primary
+
+Name of the person subject to the notification requirement: Rikard Appelgren
+Background for the Notification: Purchase of shares
+Name of the issuer: Multiconsult ASA
+Description of the financial instrument: Shares
+Type of transaction: Over XOSL(Oslo Börs)Limited Order
+Timing of and market for the transaction: 2019-03-22 Oslo Börs
+Price and volume of the transaction: Average 63,46 NOK 5000 shares
+Holding after the transaction: 20 000 shares

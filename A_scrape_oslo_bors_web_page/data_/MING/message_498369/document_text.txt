@@ -1,0 +1,6 @@
+Inge Lindseth som er Styremedlem i SpareBank 1 SMN, kjøpte Verdipapir i SpareBank 1 SMN den 12.03.2020.
+
+Antall                    2.250
+Snittkurs             70,500000
+
+Beholdning etter kjøp: 6424

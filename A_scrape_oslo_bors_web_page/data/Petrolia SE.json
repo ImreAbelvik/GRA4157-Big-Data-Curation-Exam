@@ -1,0 +1,72 @@
+[
+  {
+    "date": "25.10.2023 16:07",
+    "market": "XOSL",
+    "IssuerID": "PSE",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/602104",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.03.2023 16:46",
+    "market": "XOSL",
+    "IssuerID": "PSE",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/585317",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.07.2018 12:34",
+    "market": "XOSL",
+    "IssuerID": "PSE",
+    "message": "TIME CRITICAL PETROLIEUM RESOURCES AS, exercise Bearer Share Option Agreement of 3.730.486 Petrolia SE shares (6,31%)\nTIME CRITICAL PETROLIEUM RESOURCES AS, exercise Bearer Share Option Agreement of 3.730.486 Petrolia SE shares (6,31%)\nW\nW\nTIME CRITICAL PETROLIEUM RESOURCES AS, exercise Bearer Share Option Agreement of 3.730.486 Petrolia SE shares (6,31%)",
+    "link": "/message/456342",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.06.2018 21:56",
+    "market": "XOSL",
+    "IssuerID": "PSE",
+    "message": "Private Placement, mandatory notifications\nPrivate Placement, mandatory notifications\nW\nW\nPrivate Placement, mandatory notifications",
+    "link": "/message/453223",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.04.2018 17:51",
+    "market": "XOSL",
+    "IssuerID": "PSE",
+    "message": "TIME CRITICAL PETROLEUM RESOURCES AS purchased 6,000 PDR shares at NOK 2.90\nTIME CRITICAL PETROLEUM RESOURCES AS purchased 6,000 PDR shares at NOK 2.90\nW\nW\nTIME CRITICAL PETROLEUM RESOURCES AS purchased 6,000 PDR shares at NOK 2.90",
+    "link": "/message/448737",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.04.2018 20:56",
+    "market": "XOSL",
+    "IssuerID": "PSE",
+    "message": "TIME CRITICAL PETROLEUM RESOURCES AS purchased 28,469 PDR shares at NOK 2.5861\nTIME CRITICAL PETROLEUM RESOURCES AS purchased 28,469 PDR shares at NOK 2.5861\nW\nW\nTIME CRITICAL PETROLEUM RESOURCES AS purchased 28,469 PDR shares at NOK 2.5861",
+    "link": "/message/448664",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.04.2018 08:42",
+    "market": "XOSL",
+    "IssuerID": "PSE",
+    "message": "TIME CRITICAL PETROLEUM RESOURCES AS purchased 1100 PDR shares at NOK 2.30\nTIME CRITICAL PETROLEUM RESOURCES AS purchased 1100 PDR shares at NOK 2.30\nW\nW\nTIME CRITICAL PETROLEUM RESOURCES AS purchased 1100 PDR shares at NOK 2.30",
+    "link": "/message/448476",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

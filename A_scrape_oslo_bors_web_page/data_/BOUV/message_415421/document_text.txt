@@ -1,0 +1,10 @@
+Navn meldepliktig: Åge Danielsen Holding AS
+Bakgrunn for melding: Egen handel
+Utsteder av finansielt instrument: Bouvet ASA
+Beskrivelse av det finansielle instrumentet: BOUVET
+Type transaksjon: Kjøp
+Dato: 7.12.2016
+Markedsplass for transaksjon: Oslo Børs
+Kur: 127,962
+Antall: 4000
+Ny beholdning etter transaksjon: 8400

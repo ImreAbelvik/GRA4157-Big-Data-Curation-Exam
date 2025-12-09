@@ -1,0 +1,11 @@
+Oliver Berchtold, Chief Operating Officer and primary insider of SoftwareOne Holding AG, has carried out the following transactions in call options in SoftwareOne Holding AG:
+
+- Call option: Expiry: June 18, 2027, Strike: CHF 10.00,  Contract size: 100, Quantity 900, price CHF 1,75
+- Call option: Expiry: June 18, 2027, Strike: CHF 10.00,  Contract size: 100, Quantity:100, price CHF 1.45
+
+Total call option contracts acquired: 1,000 contracts, representing 100,000 underlying shares in SoftwareOne Holding AG. Aggregate transaction value amounts to CHF 172,544.
+
+The transactions represent the purchase of call options which grant the holder the right, but not the obligation, to purchase shares in SoftwareOne Holding AG at the specified strike prices until the expiry date. 
+
+Please refer to the attached notification of the transactions for further details.
+This information is subject to the disclosure requirements pursuant to the EU Market Abuse Regulation Article 19 no. 3 and section 5-12 of the Norwegian Securities Trading Act.

@@ -1,0 +1,8 @@
+(i)	Navn på den meldepliktige                    Mirza Koristovic
+(ii)	Bakgrunnen for handelen                      Avsluttet arbeidsforhold
+(iii)	Navn på utsteder                             Multiconsult ASA
+(iv)	Beskrivelse av det finansielle instrumentet  MULTI 
+(v)	Type transaksjon                             Salg        
+(vi)	Tidspunkt og marked for transaksjonen        08.01.2020           
+(vii)	Kurs og volum på transaksjonen               68.00 kr per aksje, 1847 aksjer
+(viii)	Beholdning etter transaksjonen               1981

@@ -1,0 +1,10 @@
+Navn: Jochen Müller 
+Bakgrunn for melding: Salg av aksjer fra primærinnsider i Bouvet 
+Utsteder av finansielt instrument: Bouvet ASA 
+Beskrivelse av finansielt instrument: Bouvet 
+Type transaksjon: Salg 
+Dato: 26.05.2020 
+Markedsplass for transaksjon: Oslo Børs 
+Kurs: 490
+Antall: 500 
+Ny beholdning: 2.068

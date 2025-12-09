@@ -1,0 +1,32 @@
+[
+  {
+    "date": "30.09.2025 16:11",
+    "market": "XOSL",
+    "IssuerID": "SWON",
+    "message": "Mandatory Notification of Trade by Primary Insiders\nMandatory Notification of Trade by Primary Insiders\nW\nW\nMandatory Notification of Trade by Primary Insiders",
+    "link": "/message/656445",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.09.2025 12:15",
+    "market": "XOSL",
+    "IssuerID": "SWON",
+    "message": "Mandatory notification of trade?\nMandatory notification of trade?\nW\nW\nMandatory notification of trade?",
+    "link": "/message/656102",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.09.2025 14:59",
+    "market": "XOSL",
+    "IssuerID": "SWON",
+    "message": "Mandatory Notification of Trade by Primary Insiders\nMandatory Notification of Trade by Primary Insiders\nW\nW\nMandatory Notification of Trade by Primary Insiders",
+    "link": "/message/655505",
+    "Corr": "",
+    "Attach": "4",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

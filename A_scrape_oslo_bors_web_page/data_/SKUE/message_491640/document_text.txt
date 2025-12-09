@@ -1,0 +1,8 @@
+1.navn på den meldepliktige: Per Skøien.
+2.bakgrunn for meldingen: Kjøp av egenkapitalbevis i Skue Sparebank.
+3.navn på utsteder: Skue Sparebank.
+4.beskrivelse av det finansielle instrumentet: Egenkapitalbevis.
+5.type transaksjon: Meldepliktig handel av primær-insider.
+6.tidspunkt og marked for transaksjonen: 121219 på Oslo Børs.
+7.kurs og volum på transaksjonen: Kurs: 168 NOK – Volum: 180 egenkapitalbevis.
+8.beholdning etter transaksjonen: 180 egenkapitalbevis.

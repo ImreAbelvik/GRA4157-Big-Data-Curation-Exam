@@ -1,0 +1,77 @@
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: SPOBK.OL"}}}
+
+1 Failed download:
+['SPOBK.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: NHC.OL"}}}
+
+1 Failed download:
+['NHC.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['PLH.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['EISP.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['CSS.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['BFISH.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['CRAYN.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['VGM.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['EWIND.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['G2MNO.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['XXL.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['KLPBK.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['NPRO.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['OCY.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['STORB.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['HOIN.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['STORK.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['DNBNB.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['AIDR.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['SKL.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['TRYG.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['KDSB.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['TORM.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['DFDS.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')
+
+1 Failed download:
+['REECK.OL']: YFPricesMissingError('possibly delisted; no price data found  (period=11y) (Yahoo error = "No data found, symbol may be delisted")')

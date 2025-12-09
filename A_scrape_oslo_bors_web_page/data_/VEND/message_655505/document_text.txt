@@ -1,0 +1,15 @@
+Raphael Erb, Chief Executive Officer and primary insider of SoftwareOne Holding AG, has carried out the following transactions in call options in SoftwareOne Holding AG:
+
+- Call option: Expiry: December 18, 2026, Strike: CHF 8.00,  Contract size: 100, Quantity 500, price CHF 1,65
+- Call option: Expiry: December 18, 2026, Strike: CHF 8.00,  Contract size: 100, Quantity:1,000, price CHF 1.15
+- Call option: Expiry: December 18, 2026, Strike: CHF 8.00,  Contract size: 100, Quantity: 500, price CHF 1.10
+- Call option: Expiry: December 18, 2026, Strike: CHF 10.00, Contract size: 100, Quantity: 500, price CHF 0,.625
+
+Total call option contracts acquired: 2,500 contracts, representing 250,000 underlying shares in SoftwareOne Holding AG. Aggregate transaction value amounts to CHF 283,750.
+
+The transactions represent the purchase of call options which grant the holder the right, but not the obligation, to purchase shares in SoftwareOne Holding AG at the specified strike prices until the expiry date. 
+
+Please refer to the attached notification of the transactions for further details.
+This information is subject to the disclosure requirements pursuant to the EU Market Abuse Regulation Article 19 no. 3 and section 5-12 of the Norwegian Securities Trading Act.
+
+

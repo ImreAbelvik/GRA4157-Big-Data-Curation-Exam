@@ -1,0 +1,54 @@
+Luxembourg - 08 January 2020 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY)
+announced today mandatory notification of the following share transaction by a
+primary insider:
+
+1 Details of the person discharging managerial responsibilities/person closely
+associated
+a) Name Jean Cahuzac
+
+2 Reason for the notification
+a) Position/status Non-Executive Director
+b) Initial notification/ Amendment Initial Notification
+
+3 Details of the issuer, emission allowance market participant, auction
+platform, auctioneer or auction monitor
+a) Name Subsea 7 S.A.
+b) LEI 222100AIF0CBCY80AH62
+
+4 Details of the transaction(s): section to be repeated for (i) each type of
+instrument; (ii) each type of transaction; (iii) each date; and (iv) each place
+where transactions have been conducted
+a) Description of the financial instrument, type of instrument, Identification
+code: Subsea 7 S.A. Shares, Oslo Børs: SUBC, ISIN LU0075646355
+b (i) Nature of the transaction Vesting (award) of performance shares
+c (i) Price(s) and volume(s) Volume: 34,867, Price: NOK 106.30
+b (ii) Nature of the transaction Sale of Shares to satisfy tax charge on vesting
+of performance shares
+c (ii) Price(s) and volume(s) Volume: 15,715, Price: NOK 106.30
+d) Aggregated information: Aggregate volume: 25,291, Aggregate price: NOK 106.30
+e) Date of the transaction: 2020 - 01 - 06 (6 January 2020)
+f) Place of the transaction:
+(i): Outside a trading venue
+(ii): The Oslo Bors Stock Exchange OSE
+Instruments owned by Primary Insider after the transaction completed
+Owned Shares: 170,471
+Performance Shares: 115,001
+Restricted Shares: Nil
+Options: Nil
+
+*********************************************************************************
+Subsea 7 is a global leader in the delivery of offshore projects and services
+for the evolving energy industry, creating sustainable value by being the
+industry's partner and employer of choice in delivering the efficient offshore
+solutions the world needs.
+Subsea 7 is listed on the Oslo Børs (SUBC), ISIN LU0075646355, LEI
+222100AIF0CBCY80AH62.
+*********************************************************************************
+
+Contact for investment community enquiries:
+
+Katherine Tonks
+Head of Investor Relations
+Tel +44 208 210 5568
+katherine.tonks@subsea7.com
+www.subsea7.com (http://www.subsea7.com)

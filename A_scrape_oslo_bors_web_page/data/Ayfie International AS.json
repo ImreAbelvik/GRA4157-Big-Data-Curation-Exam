@@ -1,0 +1,152 @@
+[
+  {
+    "date": "04.09.2025 09:05",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/654625",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.09.2025 17:32",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/654599",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.08.2025 10:22",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/654077",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2025 18:17",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/645945",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2025 17:26",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/645944",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.01.2025 15:02",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/636562",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.12.2024 16:12",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/635776",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.10.2024 22:52",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Ayfie International AS: Notification of transactions by primary insiders and their close associates\nAyfie International AS: Notification of transactions by primary insiders and their close associates\nW\nW\nAyfie International AS: Notification of transactions by primary insiders and their close associates",
+    "link": "/message/630790",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.09.2024 19:41",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "AIX: Mandatory notification of trade\nAIX: Mandatory notification of trade\nW\nW\nAIX: Mandatory notification of trade",
+    "link": "/message/627171",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.04.2024 15:23",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Ayfie Group AS: Meldepliktig handel – Tilbakelevering av utlånte aksjer til primærinnsidere\nAyfie Group AS: Meldepliktig handel – Tilbakelevering av utlånte aksjer til primærinnsidere\nW\nW\nAyfie Group AS: Meldepliktig handel – Tilbakelevering av utlånte aksjer til primærinnsidere",
+    "link": "/message/615216",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.04.2024 15:23",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Ayfie Group AS: Notification of transactions by primary insiders and their close associates – Redelivery of shares\nAyfie Group AS: Notification of transactions by primary insiders and their close associates – Redelivery of shares\nW\nW\nAyfie Group AS: Notification of transactions by primary insiders and their close associates – Redelivery of shares",
+    "link": "/message/615215",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.03.2024 09:47",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Ayfie Group AS: Notification of transactions by primary insiders and their close associates\nAyfie Group AS: Notification of transactions by primary insiders and their close associates\nW\nW\nAyfie Group AS: Notification of transactions by primary insiders and their close associates",
+    "link": "/message/613572",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.11.2023 08:05",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Ayfie Group: Mandatory notification of trade\nAyfie Group: Mandatory notification of trade\nW\nW\nAyfie Group: Mandatory notification of trade",
+    "link": "/message/603332",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2021 16:07",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Ayfie Group AS: Styremedlemmer øker i Ayfie\nAyfie Group AS: Styremedlemmer øker i Ayfie\nW\nW\nAyfie Group AS: Styremedlemmer øker i Ayfie",
+    "link": "/message/549347",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.09.2021 08:30",
+    "market": "MERK",
+    "IssuerID": "AIX",
+    "message": "Mandatory notification of trade in Ayfie Group AS\nMandatory notification of trade in Ayfie Group AS\nW\nW\nMandatory notification of trade in Ayfie Group AS",
+    "link": "/message/542309",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

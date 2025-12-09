@@ -1,0 +1,8 @@
+1. navn på den meldepliktig- vibeke Strømme
+2. bakgrunn for meldingen- primærinnsider, styremedlem
+3, navn på utsteder- Goodtech ASA
+4. beskrivelse av det finansielle instrumentet - aksjer
+5. type transaksjon- kjøp
+6. tidspunkt og marked for transaksjonen - oslo børs den 2/10
+7. kurs og volum på transaksjonen – 10 000 aksjer til kurs 7,50 kroner
+8. beholdning etter transaksjonen - 10 000 aksjer

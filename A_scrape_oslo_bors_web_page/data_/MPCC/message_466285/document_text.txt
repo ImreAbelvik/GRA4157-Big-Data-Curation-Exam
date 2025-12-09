@@ -1,0 +1,10 @@
+Name of listed entity: MPC Container Ships ASA
+ISIN number: NO0010791353
+Stock ticker: MPCC
+Name of primary insider: Harald Wilke
+Relation to listed entity: Chief Financial Officer
+Trade: 4,045 shares purchased
+Date: 19.12.2018
+Average price: NOK 33.40 per share
+Primary insider’s total shareholdings post-trade: 4,045 shares
+Primary insider’s percentage shareholding post-trade: 0.005%

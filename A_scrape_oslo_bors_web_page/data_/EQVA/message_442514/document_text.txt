@@ -1,0 +1,13 @@
+Name of notifier: Frank-Levi Kvalsund
+
+Name of issuer of the financial instrument: Havyard Group ASA
+
+Type of transaction: Kjøp
+
+Time for the transaction: 17.01.2018
+
+Price per share: 12.10
+
+Transaction volume: 2156
+
+New holding after the transaction: 2156

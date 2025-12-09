@@ -1,0 +1,19 @@
+Name of listed entity:	MPC Container Ships ASA
+
+ISIN number:	NO0010791353
+
+Stock ticker:	MPCC
+
+Name of primary insider	Dr. Axel Schroeder
+
+Relation to listed entity:	Member of the Board of Directors
+
+Trade:	25,647 shares purchased
+
+Date:	17.12.2018
+
+Average price:	NOK 34.81 per share
+
+Primary insider’s total shareholdings post-trade:	272,647 shares
+
+Primary insider’s percentage shareholding post-trade:	0.3236%

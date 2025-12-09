@@ -1,0 +1,11 @@
+Nærståendes handel:
+Selskap: Selvaag Bolig ASA
+Primærinnsiders navn: Sissel Kristensen
+Stilling/verv: Regnskapssjef/Styremedlem 
+ 
+Type transaksjon: Kjøp
+Antall aksjer: 400
+Kurs (NOK): 64,00
+Marked: Oslo Børs
+Primærinnsiders beholdning etter handelen: 0
+Nærståendes beholdning etter handelen: 400

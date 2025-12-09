@@ -1,0 +1,86 @@
+Today, primary insider Gisle Løhre Johansen, Executive Vice President (EVP),
+exercised 15,000 stock options at a strike price of NOK 94.06 per share.
+
+1.            Details of the person discharging managerial
+responsibilities/person closely associated
+
+a)            Name: Gisle Løhre Johansen
+
+2.            Reason for the notification
+
+a)            Position/status: Executive Vice President
+b)            Initial notification/Amendment: Initial notification
+
+3.            Details of the issuer, emission allowance market participant,
+auction platform, auctioneer or auction monitor
+
+a)            Name: Borregaard ASA
+b)            LEI: 5967007LIEEXZXGYXC05
+
+4.            Details of the transactions: section to be repeated for (i) each
+type of instrument; (ii) each type of transaction; (iii) each date; and (iv)
+each place where transactions have been conducted
+
+Transaction 1:
+a)            Description of the financial instrument, type of instrument: Stock
+option
+Identification code: N/A
+
+b)            Nature of the transaction: Exercise of stock option linked to a
+share option programme
+
+c)            Price and volume: NOK 94.06 and 15,000
+
+d)            Aggregated information: N/A
+
+e)            Date of the transaction: 2021-03-18; 15:30 CET
+
+f)             Place of the transaction: Outside a trading venue
+
+Transaction 2:
+a)            Description of the financial instrument, type of instrument: Share
+Identification code: NO0010657505
+
+b)            Nature of the transaction: Purchase of shares linked to a share
+option programme
+
+c)            Price and volume: NOK 94.06 and 15,000
+
+d)            Aggregated information: N/A
+
+e)            Date of the transaction: 2021-03-18; 15:30 CET
+
+f)             Place of the transaction: Outside a trading venue
+
+Transaction 3:
+a)            Description of the financial instrument, type of instrument: Share
+Identification code: NO0010657505
+
+b)            Nature of the transaction: Sale of shares linked to a share option
+programme
+
+c)            Price and volume: NOK 180.96 and 15,000
+
+d)            Aggregated information: N/A
+
+e)            Date of the transaction: 2021-03-18; 15:30 CET
+
+f)             Place of the transaction: Outside a trading venue
+
+After these transactions, Gisle Løhre Johansen owns 21,476 shares and holds
+60,000 stock options in Borregaard.
+
+The total number of outstanding Borregaard stock options following this
+transaction is 1,599,000. Borregaard owns 455,636 treasury shares, representing
+0.46% of the total number of shares outstanding.
+
+Borregaard ASA
+Sarpsborg, 18 March 2021
+
+Contact:
+Lotte Kvinlaug, Investor Relations Officer, + 47 922 86 909
+
+This information is subject to the disclosure requirements pursuant to Section
+3-1 of the Norwegian Securities Trading Act, cf. Regulation (EU) No 596/2014 of
+the European Parliament and of the Council of 16 April 2014 on market abuse
+(market abuse regulation) Article 19.

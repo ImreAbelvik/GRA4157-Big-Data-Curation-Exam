@@ -1,0 +1,19 @@
+Navn meldepliktig: Anders Volle
+ 
+Bakgrunn for melding: Egen handel
+ 
+Utsteder av finansielt instrument: Bouvet ASA
+ 
+Beskrivelse av det finansielle instrumentet: BOUVET
+ 
+Type transaksjon: Salg
+ 
+Dato: 14.6.2017
+ 
+Markedsplass for transaksjonen: Oslo Børs
+ 
+Kurs: 162.00
+ 
+Antall: 2107
+ 
+Ny beholdning etter transaksjonen: 119 590

@@ -1,0 +1,10 @@
+- Navn på meldepliktige Eva Monica Hestvik
+- Bakgrunn for melding Styremedlem
+- Navn på utsteder HELG
+- Beskrivelse av det finansielle instrument 
+Egenkapitalbevis
+- Type transaksjon Kjøp
+- Tidspunkt og marked for transaksjonen 28.11.2016 
+Oslo Børs
+- Kurs og volum på transaksjonen 300 bevis  à kr. 75,-
+- Beholdning etter transaksjonen 300 bevis

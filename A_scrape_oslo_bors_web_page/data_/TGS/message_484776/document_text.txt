@@ -1,0 +1,8 @@
+1. name of the person subject to the notification requirement: Whitney Marie Eaton
+2. background for the notification: Primary Insider at TGS-NOPEC Geophysical Company
+3. name of the issuer: TGS-NOPEC Geophysical Company
+4. description of the financial instrument: TGS shares
+5. type of transaction: sale of TGS shares
+6. timing of and market for the transaction:   September 9, 2019
+7. price and volume of the transaction: 1468 shares of TGS stock valued at 227.5 NOK each
+8. holding after the transaction: no shares

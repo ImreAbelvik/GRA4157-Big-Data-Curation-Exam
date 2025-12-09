@@ -1,0 +1,10 @@
+Navn på meldepliktig: Fredrik Gaarder
+Gjelder: Meldepliktig handel
+Utsteder: Protector Forsikring ASA
+Instrument: Aksjer
+Transaksjonstype; Salg
+Tidspunkt/marked for transaksjonen: kl. 09:00, 
+12.03.15, Oslo Børs. 
+Kurs og volum: Solgt 6 400 aksjer til 
+gjennomsnittskurs lik NOK 64,25 per aksje.
+Beholdning etter transaksjonen er 13 700 aksjer

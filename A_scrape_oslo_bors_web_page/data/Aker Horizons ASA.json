@@ -1,0 +1,52 @@
+[
+  {
+    "date": "01.09.2025 22:21",
+    "market": "XOSL",
+    "IssuerID": "AKH",
+    "message": "Aker Horizons ASA: Mandatory notification of trade\nAker Horizons ASA: Mandatory notification of trade\nW\nW\nAker Horizons ASA: Mandatory notification of trade",
+    "link": "/message/654457",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.07.2024 14:00",
+    "market": "XOSL",
+    "IssuerID": "AKH",
+    "message": "Aker Horizons ASA: Settlement of share program\nAker Horizons ASA: Settlement of share program\nW\nW\nAker Horizons ASA: Settlement of share program",
+    "link": "/message/623897",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.11.2021 13:20",
+    "market": "XOSL",
+    "IssuerID": "AKH",
+    "message": "AKER HORIZONS ASA: REPORTING OF TRANSACTIONS MADE BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES AND PERSONS CLOSELY ASSOCIATED WITH THEM IN AKER HORIZONS ASA'S SHARES…\nAKER HORIZONS ASA: REPORTING OF TRANSACTIONS MADE BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES AND PERSONS CLOSELY ASSOCIATED WITH THEM IN AKER HORIZONS ASA'S SHARES\nW\nW\nAKER HORIZONS ASA: REPORTING OF TRANSACTIONS MADE BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES AND PERSONS …",
+    "link": "/message/546768",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.11.2021 15:26",
+    "market": "XOSL",
+    "IssuerID": "AKH",
+    "message": "AKER HORIZONS ASA: REPORTING OF TRANSACTIONS MADE BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES AND PERSONS CLOSELY ASSOCIATED WITH THEM IN AKER HORIZONS ASA'S SHARES…\nAKER HORIZONS ASA: REPORTING OF TRANSACTIONS MADE BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES AND PERSONS CLOSELY ASSOCIATED WITH THEM IN AKER HORIZONS ASA'S SHARES\nW\nW\nAKER HORIZONS ASA: REPORTING OF TRANSACTIONS MADE BY PERSONS DISCHARGING MANAGERIAL RESPONSIBILITIES AND PERSONS CLOSELY …",
+    "link": "/message/546130",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.04.2021 11:17",
+    "market": "MERK",
+    "IssuerID": "AKH",
+    "message": "Aker Horizons AS: Reporting of transactions made by person closely associated with a primary insider\nAker Horizons AS: Reporting of transactions made by person closely associated with a primary insider\nW\nW\nAker Horizons AS: Reporting of transactions made by person closely associated with a primary insider",
+    "link": "/message/529685",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

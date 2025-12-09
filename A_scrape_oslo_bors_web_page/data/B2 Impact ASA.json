@@ -1,0 +1,762 @@
+[
+  {
+    "date": "08.09.2025 08:00",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2 Impact ASA: Mandatory notification of trade\nB2 Impact ASA: Mandatory notification of trade\nW\nW\nB2 Impact ASA: Mandatory notification of trade",
+    "link": "/message/654823",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.06.2025 22:55",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2 Impact ASA: Exercise of employee share options under long term incentive program\nB2 Impact ASA: Exercise of employee share options under long term incentive program\nW\nW\nB2 Impact ASA: Exercise of employee share options under long term incentive program",
+    "link": "/message/649979",
+    "Corr": "",
+    "Attach": "4",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.06.2025 11:20",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2 Impact ASA: mandatory notification of trade\nB2 Impact ASA: mandatory notification of trade\nW\nW\nB2 Impact ASA: mandatory notification of trade",
+    "link": "/message/649106",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.04.2025 11:09",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/643041",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.12.2024 12:45",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2 IMPACT ASA: Grant of Share Options (LTIP)\nB2 IMPACT ASA: Grant of Share Options (LTIP)\nW\nW\nB2 IMPACT ASA: Grant of Share Options (LTIP)",
+    "link": "/message/633720",
+    "Corr": "",
+    "Attach": "6",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.06.2023 13:16",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/593823",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.05.2023 15:10",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by related party to Primary Insiders\nMandatory notification of trade by related party to Primary Insiders\nW\nW\nMandatory notification of trade by related party to Primary Insiders",
+    "link": "/message/591190",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2023 10:21",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/585373",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.03.2023 16:14",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/585103",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.03.2023 17:04",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by related party to Primary Insiders\nMandatory notification of trade by related party to Primary Insiders\nW\nW\nMandatory notification of trade by related party to Primary Insiders",
+    "link": "/message/584949",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.08.2022 15:27",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/569870",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.08.2022 13:52",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by related party to Primary Insiders\nMandatory notification of trade by related party to Primary Insiders\nW\nW\nMandatory notification of trade by related party to Primary Insiders",
+    "link": "/message/569848",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.08.2022 17:32",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by related party to Primary Insiders\nMandatory notification of trade by related party to Primary Insiders\nW\nW\nMandatory notification of trade by related party to Primary Insiders",
+    "link": "/message/569759",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.08.2022 12:32",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/569397",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.08.2022 11:49",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/569392",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.07.2022 08:59",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding ASA: Share buy-back\nB2Holding ASA: Share buy-back\nW\nW\nB2Holding ASA: Share buy-back",
+    "link": "/message/566374",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.05.2022 14:49",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/562306",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.03.2022 16:03",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/555757",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.03.2022 12:50",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/555718",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.02.2022 10:27",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/553463",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.02.2022 11:26",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/553228",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.02.2022 11:18",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/553227",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.02.2022 09:43",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/553208",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.11.2021 11:50",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding ASA: Notification of Primary insider transaction\nB2Holding ASA: Notification of Primary insider transaction\nW\nW\nB2Holding ASA: Notification of Primary insider transaction",
+    "link": "/message/546750",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.09.2021 14:37",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding: Options granted under the Long-Term Incentive Program\nB2Holding: Options granted under the Long-Term Incentive Program\nW\nW\nB2Holding: Options granted under the Long-Term Incentive Program",
+    "link": "/message/543531",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.11.2020 15:25",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/517061",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.11.2020 13:12",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of share transfer by Primary Insider\nMandatory notification of share transfer by Primary Insider\nW\nW\nMandatory notification of share transfer by Primary Insider",
+    "link": "/message/517050",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.09.2020 14:14",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/514533",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.09.2020 14:17",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of share transfer by Primary Insider\nMandatory notification of share transfer by Primary Insider\nW\nW\nMandatory notification of share transfer by Primary Insider",
+    "link": "/message/513023",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.09.2020 12:59",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/512925",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.08.2020 15:33",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of share transfer by Primary Insider\nMandatory notification of share transfer by Primary Insider\nW\nW\nMandatory notification of share transfer by Primary Insider",
+    "link": "/message/512110",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.08.2020 10:51",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/511728",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.08.2020 09:58",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/511717",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.05.2020 10:05",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/505031",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.05.2020 16:37",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/504963",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.03.2020 15:08",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/498293",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.03.2020 07:30",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/496978",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.12.2019 14:41",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/492576",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.12.2019 14:40",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/492407",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.09.2019 11:46",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/484477",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.09.2019 17:01",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/484370",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.09.2019 13:19",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/484335",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.08.2019 18:32",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of transfer of shares by Primary Insider\nMandatory notification of transfer of shares by Primary Insider\nW\nW\nMandatory notification of transfer of shares by Primary Insider",
+    "link": "/message/484281",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.08.2019 17:06",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/484277",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.08.2019 16:00",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/484264",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.03.2019 12:27",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/471769",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.03.2019 22:13",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/471740",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.02.2019 17:40",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/470996",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.01.2019 15:31",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding ASA: Primary insider's exercise of employee share options\nB2Holding ASA: Primary insider's exercise of employee share options\nW\nW\nB2Holding ASA: Primary insider's exercise of employee share options",
+    "link": "/message/466886",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2018 16:05",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/465877",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2018 07:30",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/465816",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.12.2018 12:37",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/465675",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.12.2018 12:42",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/465571",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.12.2018 11:55",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/465290",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.11.2018 16:06",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/464858",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.11.2018 12:01",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/464819",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.11.2018 08:28",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/464643",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.11.2018 16:46",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/464620",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.10.2018 09:38",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/460888",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.09.2018 14:05",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Primary insider's exercise of employee share options\nPrimary insider's exercise of employee share options\nW\nW\nPrimary insider's exercise of employee share options",
+    "link": "/message/458687",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.07.2018 08:00",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/455841",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.07.2018 13:35",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding ASA: Primary insider's exercise of employee share options\nB2Holding ASA: Primary insider's exercise of employee share options\nW\nW\nB2Holding ASA: Primary insider's exercise of employee share options",
+    "link": "/message/455791",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.06.2018 13:50",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/454804",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.06.2018 13:55",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/453543",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.06.2018 07:00",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/452843",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.06.2018 07:00",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/452748",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.03.2018 00:17",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Private Placement - Allocation of shares to primary insiders\nPrivate Placement - Allocation of shares to primary insiders\nW\nW\nPrivate Placement - Allocation of shares to primary insiders",
+    "link": "/message/446433",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.11.2017 08:57",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding ASA: Primary insider's exercise of employee share options\nB2Holding ASA: Primary insider's exercise of employee share options\nW\nW\nB2Holding ASA: Primary insider's exercise of employee share options",
+    "link": "/message/438144",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.06.2017 08:45",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/429159",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.03.2017 08:43",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/423214",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.01.2017 13:27",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/417559",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.09.2016 15:45",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/409162",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.06.2016 11:52",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "CORRECTION - MANDATORY NOTIFICATION OF TRADE BY PRIMARY INSIDERS\nCORRECTION - MANDATORY NOTIFICATION OF TRADE BY PRIMARY INSIDERS\nW\nW\nCORRECTION - MANDATORY NOTIFICATION OF TRADE BY PRIMARY INSIDERS",
+    "link": "/message/403797",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.06.2016 10:47",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding ASA - MANDATORY NOTIFICATION OF TRADE\nB2Holding ASA - MANDATORY NOTIFICATION OF TRADE\nW\nW\nB2Holding ASA - MANDATORY NOTIFICATION OF TRADE",
+    "link": "/message/403793",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.06.2016 08:56",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "B2Holding ASA - Mandatory notification of trade\nB2Holding ASA - Mandatory notification of trade\nW\nW\nB2Holding ASA - Mandatory notification of trade",
+    "link": "/message/403785",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.05.2016 16:40",
+    "market": "XOSL",
+    "IssuerID": "B2I",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/401705",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

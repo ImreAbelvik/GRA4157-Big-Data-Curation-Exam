@@ -1,0 +1,8 @@
+• navn på den meldepliktige: Renete Kaarvik
+• bakgrunn for meldingen: kjøp av aksjer av primærinnsider
+• navn på utsteder: Grieg Seafood ASA
+• beskrivelse av det finansielle instrumentet: aksjer
+• type transaksjon: kjøp av aksjer
+• tidspunkt og marked for transaksjonen: 15.02.2020, Euronext via Sbanken
+• kurs og volum på transaksjonen: 144 aksjer a kr 75,34 snittkurs inkl omkostninger
+• beholdning etter transaksjonen: 633 aksjer

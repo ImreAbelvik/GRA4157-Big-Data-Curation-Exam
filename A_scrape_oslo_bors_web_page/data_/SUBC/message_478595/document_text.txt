@@ -1,0 +1,94 @@
+Luxembourg - 04 June 2019 - Subsea 7 S.A. (Oslo Børs: SUBC, ADR: SUBCY)
+announces mandatory notification of the following share transaction by a primary
+insider:
+
+MANDATORY NOTIFICATION OF MANAGERS' TRANACTIONS
+
+Identification of the notifying person:
+(a) Name and first name(s) of the person making the notification; if legal
+person: Company name and registered office
+(b) If the notifying person is a Primary Insider, please specify the functions
+within the issuer
+(c) If the notifying person is a Close Associate of a Primary Insider please
+indicate "one of the persons closely associated with" and the name, first name
+and functions of the person with whom they are closely associated.
+Siem Industries Inc., P.O. Box 309, South Church Street, George Town, Grand
+Cayman, KYl -1104, Cayman Islands
+Chairman of Siem Industries Inc. is the Chairman of the issuer
+
+Name if the issuer
+Subsea 7 S.A.
+
+Reason for notification
+Mandatory notification of trade
+
+Description of the financial instrument
+Shares
+
+Nature of the transaction
+?         Acquisition - i.e. a purchase/ any other transaction the purpose of
+which is the acquisition of financial instruments.
+?         Disposal - i.e. a sale/ any othertransaction the purpose of which is
+the transfer of financial instruments.
+Put and call options on Subsea 7 SA shares
+
+Date of the transaction
+3 June 2019
+
+Place of the transaction
+i.e. Any useful information concerning the place of transaction, mainly the
+concerned market.
+OTC (See further details below)
+
+Negotiated quantity
+See further details below
+
+Price per security
+See further details below
+
+Total amount of the transaction (fees excluded)
+See further details below
+
+Further details of the transaction
+Siem Industries Inc. (the "Company") announces that it has today entered into an
+OTC Option structure with 8 legs and the underlying shares being Subsea 7 S.A.
+("SUBC") shares. Two of the legs represent bought Calls for an aggregate
+4,560,000 SUBC shares and 6 of the legs represent sold Puts for an aggregate
+7,600,000 SUBC shares with the details as follows:
+
+                Bought Call      Sold Put   Strike
+
+                 Underlying    Underlying    Price
+
+       Expiry        Shares        Shares      NOK
+
+  2019 Aug 16                   1,140,000       90
+
+  2019 Nov 15                   1,140,000       90
+
+  2020 Feb 21                   1,140,000       90
+
+  2020 May 15                   1,140,000       90
+
+  2020 Dec 18                   1,520,000       85
+
+  2020 Dec 18     2,280,000                    103
+
+  2021 May 23                   1,520,000       83
+
+  2021 May 23     2,280,000                    103
+
+ In the event that all options are exercised, the number of Subsea 7 shares
+beneficially-owned by the Company will increase from 71,712,977 shares to
+83,872,977 shares, or approximately 26.9% of Subsea 7's issued shares.
+
+Siem Industries is represented on the Board of Directors of Subsea 7 S.A. by
+Kristian Siem and Eystein Eriksrud, the Company's Chairman and Deputy CEO,
+respectively.
+
+Contact for investment community enquiries:
+Isabel Green
+Investor Relations Director
+Tel +44 20 8210 5568
+isabel.green@subsea7.com
+www.subsea7.com

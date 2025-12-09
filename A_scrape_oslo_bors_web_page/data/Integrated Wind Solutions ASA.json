@@ -1,0 +1,82 @@
+[
+  {
+    "date": "28.08.2025 22:12",
+    "market": "XOSL",
+    "IssuerID": "IWS",
+    "message": "IWS - Mandatory notification of trade - primary insiders\nIWS - Mandatory notification of trade - primary insiders\nW\nW\nIWS - Mandatory notification of trade - primary insiders",
+    "link": "/message/654165",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.08.2025 08:59",
+    "market": "XOSL",
+    "IssuerID": "IWS",
+    "message": "IWS - Mandatory notification of trade - primary insiders\nIWS - Mandatory notification of trade - primary insiders\nW\nW\nIWS - Mandatory notification of trade - primary insiders",
+    "link": "/message/654068",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.08.2025 08:56",
+    "market": "XOSL",
+    "IssuerID": "IWS",
+    "message": "IWS - Mandatory notification of trade - primary insiders\nIWS - Mandatory notification of trade - primary insiders\nW\nW\nIWS - Mandatory notification of trade - primary insiders",
+    "link": "/message/654067",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.06.2025 19:26",
+    "market": "XOSL",
+    "IssuerID": "IWS",
+    "message": "IWS - Mandatory notification of trade - primary insiders\nIWS - Mandatory notification of trade - primary insiders\nW\nW\nIWS - Mandatory notification of trade - primary insiders",
+    "link": "/message/650180",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.06.2025 16:14",
+    "market": "XOSL",
+    "IssuerID": "IWS",
+    "message": "IWS - Mandatory notification of trade - primary insiders\nIWS - Mandatory notification of trade - primary insiders\nW\nW\nIWS - Mandatory notification of trade - primary insiders",
+    "link": "/message/649152",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.12.2022 17:30",
+    "market": "MERK",
+    "IssuerID": "IWS",
+    "message": "Mandatory notification of trade - primary insiders\nMandatory notification of trade - primary insiders\nW\nW\nMandatory notification of trade - primary insiders",
+    "link": "/message/577755",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2022 17:17",
+    "market": "MERK",
+    "IssuerID": "IWS",
+    "message": "IWS – Primary insider notification\nIWS – Primary insider notification\nW\nW\nIWS – Primary insider notification",
+    "link": "/message/557234",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2021 18:32",
+    "market": "MERK",
+    "IssuerID": "IWS",
+    "message": "IWS: Mandatory notification of trade\nIWS: Mandatory notification of trade\nW\nW\nIWS: Mandatory notification of trade",
+    "link": "/message/528436",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

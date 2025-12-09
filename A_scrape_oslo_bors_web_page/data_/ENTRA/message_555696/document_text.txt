@@ -1,0 +1,206 @@
+7.3.2022 09:18:01 CET | Entra ASA | Mandatory notification of trade primary
+insiders
+
+Reference is made to the stock exchange releases dated 4 March 2022 regarding
+the share buy-back under the Long-Term Incentive Program. The following PDMR's
+have been allocated and will receive shares under Entra's Long Term Incentive
+Program, as approved by the Annual General Meeting on 23 April 2021. The shares
+will have a vesting period of five years, whereof 1/3 matures after three years,
+new 1/3 after four years and the remaining 1/3 after five years:
+
+Name of the PDMR:                        | Sonja Horn                          
+-------------------------------------------------------------------------------
+Postition of the PDMR:                   | CEO                                 
+-------------------------------------------------------------------------------
+Initial notification or amendment:       | Initial notification                
+-------------------------------------------------------------------------------
+Name of the issuer:                      | Entra ASA                           
+-------------------------------------------------------------------------------
+Legal Entity Identifier (LEI) of the     | 549300APU14LQKTYCH34                
+issuer:                                  |                                     
+-------------------------------------------------------------------------------
+Description of the financial instrument: | ISIN NO0010716418                   
+-------------------------------------------------------------------------------
+Nature of the transaction:               | Allocation of shares under Long Term
+                                         | Incentive Program                   
+-------------------------------------------------------------------------------
+Aggregate volume:                        | 7,103                               
+-------------------------------------------------------------------------------
+Aggregate price:                         | 178.7                               
+-------------------------------------------------------------------------------
+Date of the transaction:                 | 07.03.2022                          
+-------------------------------------------------------------------------------
+Place of the transaction:                | Oslo Stock Exchange                 
+
+ 
+
+Name of the PDMR:                        | Anders Landro Olstad                
+-------------------------------------------------------------------------------
+Postition of the PDMR:                   | CFO                                 
+-------------------------------------------------------------------------------
+Initial notification or amendment:       | Initial notification                
+-------------------------------------------------------------------------------
+Name of the issuer:                      | Entra ASA                           
+-------------------------------------------------------------------------------
+Legal Entity Identifier (LEI) of the     | 549300APU14LQKTYCH34                
+issuer:                                  |                                     
+-------------------------------------------------------------------------------
+Description of the financial instrument: | ISIN NO0010716418                   
+-------------------------------------------------------------------------------
+Nature of the transaction:               | Allocation of shares under Long Term
+                                         | Incentive Program                   
+-------------------------------------------------------------------------------
+Aggregate volume:                        | 5,967                               
+-------------------------------------------------------------------------------
+Aggregate price:                         | 178.7                               
+-------------------------------------------------------------------------------
+Date of the transaction:                 | 07.03.2022                          
+-------------------------------------------------------------------------------
+Place of the transaction:                | Oslo Stock Exchange                 
+
+ 
+
+Name of the PDMR:                        | Kjetil Hoff                         
+-------------------------------------------------------------------------------
+Postition of the PDMR:                   | COO                                 
+-------------------------------------------------------------------------------
+Initial notification or amendment:       | Initial notification                
+-------------------------------------------------------------------------------
+Name of the issuer:                      | Entra ASA                           
+-------------------------------------------------------------------------------
+Legal Entity Identifier (LEI) of the     | 549300APU14LQKTYCH34                
+issuer:                                  |                                     
+-------------------------------------------------------------------------------
+Description of the financial instrument: | ISIN NO0010716418                   
+-------------------------------------------------------------------------------
+Nature of the transaction:               | Allocation of shares under Long Term
+                                         | Incentive Program                   
+-------------------------------------------------------------------------------
+Aggregate volume:                        | 2,851                               
+-------------------------------------------------------------------------------
+Aggregate price:                         | 178.7                               
+-------------------------------------------------------------------------------
+Date of the transaction:                 | 07.03.2022                          
+-------------------------------------------------------------------------------
+Place of the transaction:                | Oslo Stock Exchange                 
+
+ 
+
+Name of the PDMR:                        | Tore Bakken                          
+--------------------------------------------------------------------------------
+Postition of the PDMR                    | EVP Market and Commercial Real Estate
+                                         | Development                          
+--------------------------------------------------------------------------------
+Initial notification or amendment:       | Initial notification                 
+--------------------------------------------------------------------------------
+Name of the issuer:                      | Entra ASA                            
+--------------------------------------------------------------------------------
+Legal Entity Identifier (LEI) of the     | 549300APU14LQKTYCH34                 
+issuer:                                  |                                      
+                                         |                                      
+--------------------------------------------------------------------------------
+Description of the financial instrument: | ISIN NO0010716418                    
+--------------------------------------------------------------------------------
+Nature of the transaction:               | Allocation of shares under Long Term 
+                                         | Incentive Program                    
+--------------------------------------------------------------------------------
+Aggregate volume:                        | 2,652                                
+--------------------------------------------------------------------------------
+Aggregate price:                         | 178.7                                
+--------------------------------------------------------------------------------
+Date of the transaction:                 | 07.03.2022                           
+--------------------------------------------------------------------------------
+Place of the transaction:                | Oslo Stock Exchange                  
+
+ 
+
+Name of the PDMR:                        | Per Ola Ulseth                      
+-------------------------------------------------------------------------------
+Postition of the PDMR:                   | EVP Project Development             
+-------------------------------------------------------------------------------
+Initial notification or amendment:       | Initial notification                
+-------------------------------------------------------------------------------
+Name of the issuer:                      | Entra ASA                           
+-------------------------------------------------------------------------------
+Legal Entity Identifier (LEI) of the     | 549300APU14LQKTYCH34                
+issuer:                                  |                                     
+-------------------------------------------------------------------------------
+Description of the financial instrument: | ISIN NO0010716418                   
+-------------------------------------------------------------------------------
+Nature of the transaction:               | Allocation of shares under Long Term
+                                         | Incentive Program                   
+-------------------------------------------------------------------------------
+Aggregate volume:                        | 2,652                               
+-------------------------------------------------------------------------------
+Aggregate price:                         | 178.7                               
+-------------------------------------------------------------------------------
+Date of the transaction:                 | 07.03.2022                          
+-------------------------------------------------------------------------------
+Place of the transaction:                | Oslo Stock Exchange                 
+
+ 
+
+Name of the PDMR:                        | Hallgeir Østrem                     
+-------------------------------------------------------------------------------
+Postition of the PDMR:                   | EVP Legal and Procurement           
+-------------------------------------------------------------------------------
+Initial notification or amendment:       | Initial notification                
+-------------------------------------------------------------------------------
+Name of the issuer:                      | Entra ASA                           
+-------------------------------------------------------------------------------
+Legal Entity Identifier (LEI) of the     | 549300APU14LQKTYCH34                
+issuer:                                  |                                     
+                                         |                                     
+-------------------------------------------------------------------------------
+Description of the financial instrument: | ISIN NO0010716418                   
+-------------------------------------------------------------------------------
+Nature of the transaction:               | Allocation of shares under Long Term
+                                         | Incentive Program                   
+-------------------------------------------------------------------------------
+Aggregate volume:                        | 1,654                               
+-------------------------------------------------------------------------------
+Aggregate price:                         | 178.7                               
+-------------------------------------------------------------------------------
+Date of the transaction:                 | 07.03.2022                          
+-------------------------------------------------------------------------------
+Place of the transaction:                | Oslo Stock Exchange                 
+
+ 
+
+Name of the PDMR:                        | Kristine Marie Hilberg              
+-------------------------------------------------------------------------------
+Postition of the PDMR:                   | EVP HR and organisation             
+-------------------------------------------------------------------------------
+Initial notification or amendment:       | Initial notification                
+-------------------------------------------------------------------------------
+Name of the issuer:                      | Entra ASA                           
+-------------------------------------------------------------------------------
+Legal Entity Identifier (LEI) of the     | 549300APU14LQKTYCH34                
+issuer:                                  |                                     
+-------------------------------------------------------------------------------
+Description of the financial instrument: | ISIN NO0010716418                   
+-------------------------------------------------------------------------------
+Nature of the transaction:               | Allocation of shares under Long Term
+                                         | Incentive Program                   
+-------------------------------------------------------------------------------
+Aggregate volume:                        | 2,122                               
+-------------------------------------------------------------------------------
+Aggregate price:                         | 178.7                               
+-------------------------------------------------------------------------------
+Date of the transaction:                 | 07.03.2022                          
+-------------------------------------------------------------------------------
+Place of the transaction:                | Oslo Stock Exchange                 
+
+This is information that Entra ASA is obliged to make public pursuant to article
+19 of the EU Market Abuse Regulation and subject to the disclosure requirements
+pursuant to Section 5-12 the Norwegian Securities Trading Act.
+
+CONTACTS
+
+ * Anders Olstad, CFO, +47 900 22 559, ao@entra.no 
+
+ATTACHMENTS
+
+Download announcement as PDF.pdf -
+https://kommunikasjon.ntb.no/ir-files/16126567/1257/1679/Download%20announcement
+%20as%20PDF.pdf

@@ -1,0 +1,14 @@
+Selskap: 		Selvaag Bolig ASA
+
+Primærinnsiders navn: 	Christopher Brunvoll
+
+Stilling/verv:		Varamedlem styret Selvaag 
+Bolig ASA
+
+Type Transaksjon: 	Salg
+
+Antall aksjer:		4753
+
+Kurs:			31,10
+
+Primærinnsiders beholdning etter handelen: 4000

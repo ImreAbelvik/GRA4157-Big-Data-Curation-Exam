@@ -1,0 +1,6 @@
+Vem: Jakob Cardell, VD Webstep AB
+Typ: Sålt
+Antal: 5.000 st aktier
+Datum för transaktion: 2020-03-20
+Kurs: 14,80
+Behållning efter transaktion: 20.020 st

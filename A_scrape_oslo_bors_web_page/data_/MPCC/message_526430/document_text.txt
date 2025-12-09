@@ -1,0 +1,16 @@
+With reference to Section 4-2 of the Norwegian Securities Trading Act ("STA"), kindly note the following primary insider trade:
+ 
+Name of listed entity:	MPC Container Ships ASA
+ISIN number:	NO0010791353
+Stock ticker:	MPCC
+Name of primary insider	Darren Maupin
+Relation to listed entity:	Member of the Board of Directors
+Trade:	620,437 shares received
+Date:	26.02.2021
+Average price:	NOK 6.32 per share
+Primary insider’s total shareholdings post-trade:	1,129,083
+Primary insider’s percentage shareholding post-trade:	0.2864%
+ 
+Note further that the transaction is not a share purchase but represents a PIK fund redemption from Pilgrim Global ICAV where Mr. Maupin serves as Director. The transaction has been planned since late 2020. The amount of shares received and the timing of the transaction has been outside the control of Mr. Maupin.
+ 
+Mr. Maupin has declared that he has fulfilled his duty to investigate whether in possession of inside information related to MPC Container Ships ASA ("MPCC"), cf. STA Section 3-2 and 3-6. He has concluded that he does not for the time being possess information of a precise nature which is likely to have a significant effect on the share price of MPCC or related financial instruments.

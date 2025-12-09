@@ -1,0 +1,28 @@
+Notification by entity closely associated to persons discharging managerial responsibilities. 
+
+Details of the person closely associated: 
+Serious AS (org no 999 249 582) and Sølve Nilsen
+
+The reason for the notification: 
+Serious AS is controlled by Sølve Nilsen 
+
+The name of the relevant issuer: 
+Petrolia SE (org no SE14). 
+LEI: 213800314VQ2TXFPB471 
+
+Description and the identifier of the financial instrument: 
+ISIN: CY0102630916 Ticker at EURONEXT Oslo Børs: “PSE” 
+
+The nature of the transaction(s): 
+Restructuring. Shares from Serious AS moved to Sølve Nilsen
+
+The date and place of the transaction(s): 
+25 October 2023 off market 
+
+The price and volume of the transaction(s): 
+25 October 2023: 194,971 shares at NOK 4.35 per share, Total NOK 848 123.85
+
+This information is subject to the disclosure pursuant to article 19 of the EU Market Abuse Regulation, as implemented in the Norwegian Securities Trading Act. 
+
+Contact: 
+Sølve Nilsen (CFO) Mobile: +47 951 79 269 Solve.nilsen@petrolia.eu

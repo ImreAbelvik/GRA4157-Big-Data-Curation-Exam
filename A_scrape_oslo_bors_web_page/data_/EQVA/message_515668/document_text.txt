@@ -1,0 +1,10 @@
+Name of notifier: Svein Ove Farstad
+Reason for notification: Own trading
+Name of issuer of the financial instrument: Havyard Group ASA 
+Description of the financial instrument: Shares 
+Type of transaction: Purchase
+Time for the transaction: 15 October 2020 at [time]
+Marketplace for the transaction: Oslo Børs
+Price per share: 6,3 NOK
+Transaction volume:160
+New holding of shares after the transaction:  1095 NOK

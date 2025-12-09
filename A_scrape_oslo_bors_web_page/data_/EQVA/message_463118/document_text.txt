@@ -1,0 +1,10 @@
+Name of notifier: Rafi Holding AS, v/ Erling Keiseraas
+Reason for notification: [Notinfier’s own trading or trading by close associates] Innsider (styremedlem MMC First Process AS)
+Name of issuer of the financial instrument: HYARD
+Description of the financial instrument: Share
+Type of transaction: [Sale, purchase, exchange or subscription] Salg
+Time of transaction: 12.11
+Marketplace for transaction: Oslo Børs 
+Price per share: 10,7788
+Transaction of volume: 5000
+New holding after the transaction: 10000

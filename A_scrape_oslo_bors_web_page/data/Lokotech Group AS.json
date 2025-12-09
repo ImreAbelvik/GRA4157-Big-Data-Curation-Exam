@@ -1,0 +1,582 @@
+[
+  {
+    "date": "16.07.2025 12:00",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Mandatory Notification of Trade by Primary Insider\nMandatory Notification of Trade by Primary Insider\nW\nW\nMandatory Notification of Trade by Primary Insider",
+    "link": "/message/651362",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.07.2025 15:35",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Mandatory Notification of Trade\nMandatory Notification of Trade\nW\nW\nMandatory Notification of Trade",
+    "link": "/message/651063",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.06.2025 14:15",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Mandatory Notification of Trade by Primary Insider\nMandatory Notification of Trade by Primary Insider\nW\nW\nMandatory Notification of Trade by Primary Insider",
+    "link": "/message/650367",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.06.2025 08:45",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Mandatory Notification of Trade\nMandatory Notification of Trade\nW\nW\nMandatory Notification of Trade",
+    "link": "/message/650201",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.06.2025 19:00",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/648290",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2025 18:00",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Meldingspliktig overførsel fra primærinnsider i Lokotech Group AS til 100% kontrollerte holdingselskap\nMeldingspliktig overførsel fra primærinnsider i Lokotech Group AS til 100% kontrollerte holdingselskap\nW\nW\nMeldingspliktig overførsel fra primærinnsider i Lokotech Group AS til 100% kontrollerte holdingselskap",
+    "link": "/message/647406",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2025 14:30",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "INCREASED SUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES\nINCREASED SUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES\nW\nW\nINCREASED SUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES",
+    "link": "/message/646929",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2025 08:45",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "MANDATORY NOTIFICATION OF TRADE\nMANDATORY NOTIFICATION OF TRADE\nW\nW\nMANDATORY NOTIFICATION OF TRADE",
+    "link": "/message/646880",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.05.2025 11:12",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "SUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES\nSUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES\nW\nW\nSUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES",
+    "link": "/message/646019",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.05.2025 08:00",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "SUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES\nSUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES\nW\nW\nSUBSCRIPTIONS IN THE PARTIALLY UNDERWRITTEN RIGHTS ISSUE BY PRIMARY INSIDERS AND THEIR CLOSE ASSOCIATES",
+    "link": "/message/645975",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.05.2025 18:00",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Meldepliktig handel - overførsel fra primærinnsider til eget heleid holdingselskap\nMeldepliktig handel - overførsel fra primærinnsider til eget heleid holdingselskap\nW\nW\nMeldepliktig handel - overførsel fra primærinnsider til eget heleid holdingselskap",
+    "link": "/message/645216",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.04.2025 20:00",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Lokotech Group AS (OSE: LOKO) Meldingspliktig handel\nLokotech Group AS (OSE: LOKO) Meldingspliktig handel\nW\nW\nLokotech Group AS (OSE: LOKO) Meldingspliktig handel",
+    "link": "/message/642865",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.02.2025 10:38",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Meldingspliktig overførsel fra primærinnsider i Lokotech Group AS til heleid holdingselskap\nMeldingspliktig overførsel fra primærinnsider i Lokotech Group AS til heleid holdingselskap\nW\nW\nMeldingspliktig overførsel fra primærinnsider i Lokotech Group AS til heleid holdingselskap",
+    "link": "/message/639424",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.02.2025 21:48",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Meldingspliktig overførsel fra primærinnsider i Lokotech Group AS til heleid holdingselskap (OSE: LOKO)\nMeldingspliktig overførsel fra primærinnsider i Lokotech Group AS til heleid holdingselskap (OSE: LOKO)\nW\nW\nMeldingspliktig overførsel fra primærinnsider i Lokotech Group AS til heleid holdingselskap (OSE: LOKO)",
+    "link": "/message/639388",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.01.2025 12:09",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Utøvelse av opsjoner og salg av askjer fra primærinnsider\nUtøvelse av opsjoner og salg av askjer fra primærinnsider\nW\nW\nUtøvelse av opsjoner og salg av askjer fra primærinnsider",
+    "link": "/message/635982",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.12.2024 14:40",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Utøvelse av opsjoner og kjøp av aksjer fra primærinnsider\nUtøvelse av opsjoner og kjøp av aksjer fra primærinnsider\nW\nW\nUtøvelse av opsjoner og kjøp av aksjer fra primærinnsider",
+    "link": "/message/635625",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.12.2024 17:00",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Utøvelse av opsjoner og salg av aksjer fra primærinnsidere til blant annet en nærstående\nUtøvelse av opsjoner og salg av aksjer fra primærinnsidere til blant annet en nærstående\nW\nW\nUtøvelse av opsjoner og salg av aksjer fra primærinnsidere til blant annet en nærstående",
+    "link": "/message/635494",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.11.2024 13:43",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Meldingspliktig handel fra primærinnsider i Lokotech Group AS (OSE: LOKO)\nMeldingspliktig handel fra primærinnsider i Lokotech Group AS (OSE: LOKO)\nW\nW\nMeldingspliktig handel fra primærinnsider i Lokotech Group AS (OSE: LOKO)",
+    "link": "/message/632624",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.11.2024 14:48",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Meldingspliktig handel fra primærinnsider i Lokotech Group AS (OSE: LOKO)\nMeldingspliktig handel fra primærinnsider i Lokotech Group AS (OSE: LOKO)\nW\nW\nMeldingspliktig handel fra primærinnsider i Lokotech Group AS (OSE: LOKO)",
+    "link": "/message/631966",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.11.2024 13:47",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Lokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider\nLokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider\nW\nW\nLokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/631598",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.04.2024 09:50",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Korrigert: Lokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider\nKorrigert: Lokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider\nW\nW\nKorrigert: Lokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/617099",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.04.2024 15:05",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Lokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider\nLokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider\nW\nW\nLokotech Group AS (OSE: LOKO) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/617026",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.08.2023 12:11",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS: Meldingspliktige handler fra Primærinnsider - Beholdning ikke endret.\nHarmonychain AS: Meldingspliktige handler fra Primærinnsider - Beholdning ikke endret.\nW\nW\nHarmonychain AS: Meldingspliktige handler fra Primærinnsider - Beholdning ikke endret.",
+    "link": "/message/598183",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.08.2023 12:11",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/597822",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.08.2023 14:06",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/596120",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.06.2023 11:09",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/593316",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.06.2023 10:42",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/593312",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.06.2023 10:17",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/593083",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.05.2023 13:11",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/589248",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.04.2023 16:12",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/588833",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.04.2023 15:04",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/588457",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.04.2023 12:36",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/587646",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.03.2023 13:06",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/586898",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2023 16:06",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/586163",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2023 15:57",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.",
+    "link": "/message/586162",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2023 15:54",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/586161",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.03.2023 12:31",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.",
+    "link": "/message/585975",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.03.2023 10:29",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/585964",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.12.2022 12:35",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/577656",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.10.2022 09:19",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.",
+    "link": "/message/573393",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.10.2022 09:15",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.",
+    "link": "/message/572677",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.10.2022 13:53",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.",
+    "link": "/message/572569",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.09.2022 14:52",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider.",
+    "link": "/message/572187",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.09.2022 16:40",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider\nW\nW\nHarmonychain AS (OSE: HMONY) Meldingspliktig handel fra Primærinnsider",
+    "link": "/message/571568",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.09.2022 14:17",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Meldingspliktig Handel fra Primærinnsider\nMeldingspliktig Handel fra Primærinnsider\nW\nW\nMeldingspliktig Handel fra Primærinnsider",
+    "link": "/message/571440",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2022 09:31",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Mandatory notification of purchase of securities from primary insider\nHarmonychain: Mandatory notification of purchase of securities from primary insider\nW\nW\nHarmonychain: Mandatory notification of purchase of securities from primary insider",
+    "link": "/message/565230",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2022 09:31",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider\nHarmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider\nW\nW\nHarmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider",
+    "link": "/message/565229",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2022 09:46",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Mandatory notification of purchase of securities from primary insider\nHarmonychain: Mandatory notification of purchase of securities from primary insider\nW\nW\nHarmonychain: Mandatory notification of purchase of securities from primary insider",
+    "link": "/message/562621",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2022 09:46",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider\nHarmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider\nW\nW\nHarmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider",
+    "link": "/message/562622",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2022 08:09",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Mandatory notification of purchase of securities from primary insiders\nHarmonychain: Mandatory notification of purchase of securities from primary insiders\nW\nW\nHarmonychain: Mandatory notification of purchase of securities from primary insiders",
+    "link": "/message/562473",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2022 08:09",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider\nHarmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider\nW\nW\nHarmonychain: Obligatorisk melding om kjøp av verdipapir fra primærinnsider",
+    "link": "/message/562472",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.04.2022 12:54",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Mandatory notification of trade by primary insider\nHarmonychain: Mandatory notification of trade by primary insider\nW\nW\nHarmonychain: Mandatory notification of trade by primary insider",
+    "link": "/message/558666",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.04.2022 12:54",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Obligatorisk melding om handel fra primærinnsider\nHarmonychain: Obligatorisk melding om handel fra primærinnsider\nW\nW\nHarmonychain: Obligatorisk melding om handel fra primærinnsider",
+    "link": "/message/558665",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.04.2022 18:31",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Totalt 11 millioner opsjoner frivillig frasagt vederlagsfritt\nTotalt 11 millioner opsjoner frivillig frasagt vederlagsfritt\nW\nW\nTotalt 11 millioner opsjoner frivillig frasagt vederlagsfritt",
+    "link": "/message/558427",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.04.2022 23:14",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Meldepliktig handel for primærinnsidere\nHarmonychain: Meldepliktig handel for primærinnsidere\nW\nW\nHarmonychain: Meldepliktig handel for primærinnsidere",
+    "link": "/message/558425",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.04.2022 23:10",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Harmonychain: Meldepliktig handel for primærinnsidere\nHarmonychain: Meldepliktig handel for primærinnsidere\nW\nW\nHarmonychain: Meldepliktig handel for primærinnsidere",
+    "link": "/message/558424",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.06.2021 09:49",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Innsiderapportering ifm. avholdt generalforsamling\nInnsiderapportering ifm. avholdt generalforsamling\nW\nW\nInnsiderapportering ifm. avholdt generalforsamling",
+    "link": "/message/534887",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.06.2021 14:55",
+    "market": "MERK",
+    "IssuerID": "LOKO",
+    "message": "Innsiderapportering ifm. avholdt generalforsamling\nInnsiderapportering ifm. avholdt generalforsamling\nW\nW\nInnsiderapportering ifm. avholdt generalforsamling",
+    "link": "/message/534820",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "date": "23.12.2022 11:11",
+    "market": "MERK",
+    "IssuerID": "HKY",
+    "message": "Havila Kystruten AS : Mandatory notificaton of trade\nHavila Kystruten AS : Mandatory notificaton of trade\nW\nW\nHavila Kystruten AS : Mandatory notificaton of trade",
+    "link": "/message/579123",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.12.2022 11:11",
+    "market": "MERK",
+    "IssuerID": "HKY",
+    "message": "Havila Kystruten AS : Meldepliktig handel\nHavila Kystruten AS : Meldepliktig handel\nW\nW\nHavila Kystruten AS : Meldepliktig handel",
+    "link": "/message/579122",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2022 12:59",
+    "market": "MERK",
+    "IssuerID": "HKY",
+    "message": "Havila Kystruten AS: Tildeling av aksjer til primærinnsider\nHavila Kystruten AS: Tildeling av aksjer til primærinnsider\nW\nW\nHavila Kystruten AS: Tildeling av aksjer til primærinnsider",
+    "link": "/message/578989",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2022 12:59",
+    "market": "MERK",
+    "IssuerID": "HKY",
+    "message": "Havila Kystruten AS: Mandatory notification of trade\nHavila Kystruten AS: Mandatory notification of trade\nW\nW\nHavila Kystruten AS: Mandatory notification of trade",
+    "link": "/message/578988",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

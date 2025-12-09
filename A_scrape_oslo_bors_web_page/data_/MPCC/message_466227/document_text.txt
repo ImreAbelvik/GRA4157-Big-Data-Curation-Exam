@@ -1,0 +1,19 @@
+Name of listed entity:	MPC Container Ships ASA
+
+ISIN number:	    NO0010791353
+
+Stock ticker:	MPCC
+
+Name of primary insider:	Tobias Junge
+
+Relation to listed entity:	Senior Vice President
+
+Trade:	2,750 shares purchased
+
+Date:	19.12.2018
+
+Average price:	NOK 32.90 per share
+
+Primary insider’s total shareholdings post-trade:	2,750 shares
+
+Primary insider’s percentage shareholding post-trade:	0.0033%

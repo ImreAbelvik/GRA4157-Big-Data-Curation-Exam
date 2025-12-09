@@ -1,0 +1,52 @@
+[
+  {
+    "date": "23.11.2023 13:02",
+    "market": "XOSL",
+    "IssuerID": "EIOF",
+    "message": "EIOF – Trade by primary insiders and close associates\nEIOF – Trade by primary insiders and close associates\nW\nW\nEIOF – Trade by primary insiders and close associates",
+    "link": "/message/604755",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2023 14:32",
+    "market": "XOSL",
+    "IssuerID": "EIOF",
+    "message": "EIOF - Trade by primary insiders and close associates\nEIOF - Trade by primary insiders and close associates\nW\nW\nEIOF - Trade by primary insiders and close associates",
+    "link": "/message/586145",
+    "Corr": "",
+    "Attach": "5",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.11.2021 17:30",
+    "market": "XOSL",
+    "IssuerID": "EIOF",
+    "message": "EIOF – Notifiable trading\nEIOF – Notifiable trading\nW\nW\nEIOF – Notifiable trading",
+    "link": "/message/547749",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.11.2021 11:24",
+    "market": "XOSL",
+    "IssuerID": "EIOF",
+    "message": "EIOF – Notifiable trading\nEIOF – Notifiable trading\nW\nW\nEIOF – Notifiable trading",
+    "link": "/message/547202",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.03.2018 10:56",
+    "market": "XOSL",
+    "IssuerID": "EIOF",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/446241",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

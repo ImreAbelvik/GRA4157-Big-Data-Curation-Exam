@@ -1,0 +1,632 @@
+[
+  {
+    "date": "20.10.2025 17:10",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktige handel\nMeldepliktige handel\nW\nW\nMeldepliktige handel",
+    "link": "/message/657519",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.10.2025 17:10",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/657520",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.10.2025 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA: Meldepliktige handel\nNordic Financials ASA: Meldepliktige handel\nW\nW\nNordic Financials ASA: Meldepliktige handel",
+    "link": "/message/657099",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.10.2025 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA: Mandatory notification of trade\nNordic Financials ASA: Mandatory notification of trade\nW\nW\nNordic Financials ASA: Mandatory notification of trade",
+    "link": "/message/657100",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.09.2025 10:40",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Utøvelse av tegningsretter\nNordic Financials ASA – Utøvelse av tegningsretter\nW\nW\nNordic Financials ASA – Utøvelse av tegningsretter",
+    "link": "/message/655559",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.09.2025 10:40",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Exercise of Subscription Rights\nNordic Financials ASA – Exercise of Subscription Rights\nW\nW\nNordic Financials ASA – Exercise of Subscription Rights",
+    "link": "/message/655560",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.07.2025 17:34",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel av primærinnsidere\nMeldepliktig handel av primærinnsidere\nW\nW\nMeldepliktig handel av primærinnsidere",
+    "link": "/message/651324",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.07.2025 17:34",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "NOTIFICATION OF TRADE BY PRIMARY INSIDERS\nNOTIFICATION OF TRADE BY PRIMARY INSIDERS\nW\nW\nNOTIFICATION OF TRADE BY PRIMARY INSIDERS",
+    "link": "/message/651323",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.07.2025 10:43",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Handel av primærinnsider\nNordic Financials ASA – Handel av primærinnsider\nW\nW\nNordic Financials ASA – Handel av primærinnsider",
+    "link": "/message/650876",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.07.2025 10:43",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Trading by Primary Insider\nNordic Financials ASA – Trading by Primary Insider\nW\nW\nNordic Financials ASA – Trading by Primary Insider",
+    "link": "/message/650875",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.07.2025 17:35",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Handel av primærinnsider\nNordic Financials ASA – Handel av primærinnsider\nW\nW\nNordic Financials ASA – Handel av primærinnsider",
+    "link": "/message/650838",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.07.2025 17:35",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Trading by Primary Insider\nNordic Financials ASA – Trading by Primary Insider\nW\nW\nNordic Financials ASA – Trading by Primary Insider",
+    "link": "/message/650839",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.07.2025 08:50",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Endelige resultater i fortrinnsrettsemisjonen og meldepliktige handler\nNordic Financials ASA – Endelige resultater i fortrinnsrettsemisjonen og meldepliktige handler\nW\nW\nNordic Financials ASA – Endelige resultater i fortrinnsrettsemisjonen og meldepliktige handler",
+    "link": "/message/650440",
+    "Corr": "",
+    "Attach": "5",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.07.2025 08:50",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Final results of the Rights Issue and mandatory notifications of trade\nNordic Financials ASA – Final results of the Rights Issue and mandatory notifications of trade\nW\nW\nNordic Financials ASA – Final results of the Rights Issue and mandatory notifications of trade",
+    "link": "/message/650441",
+    "Corr": "",
+    "Attach": "5",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.06.2025 14:00",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen\nNordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen\nW\nW\nNordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen",
+    "link": "/message/650255",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.06.2025 14:00",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Subscription by primary insiders in the rights issue\nNordic Financials ASA – Subscription by primary insiders in the rights issue\nW\nW\nNordic Financials ASA – Subscription by primary insiders in the rights issue",
+    "link": "/message/650256",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.06.2025 09:02",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Subscription by primary insiders in the rights issue\nNordic Financials ASA – Subscription by primary insiders in the rights issue\nW\nW\nNordic Financials ASA – Subscription by primary insiders in the rights issue",
+    "link": "/message/650089",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.06.2025 09:00",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen\nNordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen\nW\nW\nNordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen",
+    "link": "/message/650088",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.06.2025 14:00",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Meldepliktige handel\nNordic Financials ASA – Meldepliktige handel\nW\nW\nNordic Financials ASA – Meldepliktige handel",
+    "link": "/message/650031",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.06.2025 14:00",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Mandatory notification of trade\nNordic Financials ASA – Mandatory notification of trade\nW\nW\nNordic Financials ASA – Mandatory notification of trade",
+    "link": "/message/650032",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.06.2025 19:35",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel av primærinnsidere\nMeldepliktig handel av primærinnsidere\nW\nW\nMeldepliktig handel av primærinnsidere",
+    "link": "/message/649975",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.06.2025 19:35",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory Notification of Trading by Primary Insiders\nMandatory Notification of Trading by Primary Insiders\nW\nW\nMandatory Notification of Trading by Primary Insiders",
+    "link": "/message/649976",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.06.2025 00:25",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel av primærinnsidere\nMeldepliktig handel av primærinnsidere\nW\nW\nMeldepliktig handel av primærinnsidere",
+    "link": "/message/649550",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.06.2025 00:25",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory Notification of Trading by Primary Insiders\nMandatory Notification of Trading by Primary Insiders\nW\nW\nMandatory Notification of Trading by Primary Insiders",
+    "link": "/message/649551",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.06.2025 17:45",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory Notification of Trading by Primary Insiders\nMandatory Notification of Trading by Primary Insiders\nW\nW\nMandatory Notification of Trading by Primary Insiders",
+    "link": "/message/649328",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.06.2025 17:45",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel av primærinnsidere\nMeldepliktig handel av primærinnsidere\nW\nW\nMeldepliktig handel av primærinnsidere",
+    "link": "/message/649329",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.05.2025 17:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA - Obligatorisk melding om aksjehandel fra primærinnsidere\nNordic Financials ASA - Obligatorisk melding om aksjehandel fra primærinnsidere\nW\nW\nNordic Financials ASA - Obligatorisk melding om aksjehandel fra primærinnsidere",
+    "link": "/message/647915",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.05.2025 17:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory Notification of Share Trading by Primary Insiders\nMandatory Notification of Share Trading by Primary Insiders\nW\nW\nMandatory Notification of Share Trading by Primary Insiders",
+    "link": "/message/647916",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.04.2025 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Handel av primærinnsider\nNordic Financials ASA – Handel av primærinnsider\nW\nW\nNordic Financials ASA – Handel av primærinnsider",
+    "link": "/message/643773",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.04.2025 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – trade by primary insider\nNordic Financials ASA – trade by primary insider\nW\nW\nNordic Financials ASA – trade by primary insider",
+    "link": "/message/643774",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.03.2025 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen\nNordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen\nW\nW\nNordic Financials ASA – Tegning av primærinnsidere i fortrinnsrettsemisjonen",
+    "link": "/message/641686",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.03.2025 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Nordic Financials ASA – Subscription by primary insiders in the rights issue\nNordic Financials ASA – Subscription by primary insiders in the rights issue\nW\nW\nNordic Financials ASA – Subscription by primary insiders in the rights issue",
+    "link": "/message/641687",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.12.2024 10:03",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "AEGA ASA - Mandatory notification of sale of shares by primary insider\nAEGA ASA - Mandatory notification of sale of shares by primary insider\nW\nW\nAEGA ASA - Mandatory notification of sale of shares by primary insider",
+    "link": "/message/634649",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.10.2024 10:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "AEGA ASA - Mandatory notification of sale of shares by primary insider\nAEGA ASA - Mandatory notification of sale of shares by primary insider\nW\nW\nAEGA ASA - Mandatory notification of sale of shares by primary insider",
+    "link": "/message/630076",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.10.2024 21:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "AEGA ASA - Mandatory notification of sale of shares by primary insider\nAEGA ASA - Mandatory notification of sale of shares by primary insider\nW\nW\nAEGA ASA - Mandatory notification of sale of shares by primary insider",
+    "link": "/message/630024",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.10.2024 21:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Aega ASA - Mandatory notification of sale of shares by close associate to primary insider\nAega ASA - Mandatory notification of sale of shares by close associate to primary insider\nW\nW\nAega ASA - Mandatory notification of sale of shares by close associate to primary insider",
+    "link": "/message/630025",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.10.2024 16:35",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "AEGA ASA - Mandatory notification of sale of shares by primary insider\nAEGA ASA - Mandatory notification of sale of shares by primary insider\nW\nW\nAEGA ASA - Mandatory notification of sale of shares by primary insider",
+    "link": "/message/630015",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.10.2024 18:40",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "AEGA ASA - Mandatory notification of sale of shares by primary insider\nAEGA ASA - Mandatory notification of sale of shares by primary insider\nW\nW\nAEGA ASA - Mandatory notification of sale of shares by primary insider",
+    "link": "/message/629924",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.09.2024 17:55",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "AEGA ASA - Mandatory notification of sale of shares by primary insider\nAEGA ASA - Mandatory notification of sale of shares by primary insider\nW\nW\nAEGA ASA - Mandatory notification of sale of shares by primary insider",
+    "link": "/message/627776",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.01.2024 17:55",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory notification of purchase of shares by primary insider\nMandatory notification of purchase of shares by primary insider\nW\nW\nMandatory notification of purchase of shares by primary insider",
+    "link": "/message/608483",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.01.2022 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory notification of trade by primary insider Nils P. Skaset\nMandatory notification of trade by primary insider Nils P. Skaset\nW\nW\nMandatory notification of trade by primary insider Nils P. Skaset",
+    "link": "/message/551791",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.01.2022 16:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel av primærinnsider Nils P. Skaset\nMeldepliktig handel av primærinnsider Nils P. Skaset\nW\nW\nMeldepliktig handel av primærinnsider Nils P. Skaset",
+    "link": "/message/551792",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2021 20:35",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory notification of trade by primary insider\nMandatory notification of trade by primary insider\nW\nW\nMandatory notification of trade by primary insider",
+    "link": "/message/549358",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2021 20:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory notification of purchase of shares and reallocations by primary insider\nMandatory notification of purchase of shares and reallocations by primary insider\nW\nW\nMandatory notification of purchase of shares and reallocations by primary insider",
+    "link": "/message/549357",
+    "Corr": "",
+    "Attach": "4",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.11.2021 21:05",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Aega ASA – Re-allokering av enkelte enheter utstedt i fortrinnsrettsemisjonen i selskapet\nAega ASA – Re-allokering av enkelte enheter utstedt i fortrinnsrettsemisjonen i selskapet\nW\nW\nAega ASA – Re-allokering av enkelte enheter utstedt i fortrinnsrettsemisjonen i selskapet",
+    "link": "/message/546367",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.11.2021 21:05",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Aega ASA – Re-allocations of certain units issued in the rights issue in the company\nAega ASA – Re-allocations of certain units issued in the rights issue in the company\nW\nW\nAega ASA – Re-allocations of certain units issued in the rights issue in the company",
+    "link": "/message/546368",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.12.2020 17:20",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/519687",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.10.2020 15:21",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "AEGA - meldepliktig handel\nAEGA - meldepliktig handel\nW\nW\nAEGA - meldepliktig handel",
+    "link": "/message/516873",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.09.2020 16:13",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Kjøp av aksjer i AEGA ASA\nKjøp av aksjer i AEGA ASA\nW\nW\nKjøp av aksjer i AEGA ASA",
+    "link": "/message/513713",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.06.2020 08:30",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Trades by primary insiders\nTrades by primary insiders\nW\nW\nTrades by primary insiders",
+    "link": "/message/507415",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.09.2018 15:29",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel Primærinsider\nMeldepliktig handel Primærinsider\nW\nW\nMeldepliktig handel Primærinsider",
+    "link": "/message/458944",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.12.2017 11:47",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel Primærinsider\nMeldepliktig handel Primærinsider\nW\nW\nMeldepliktig handel Primærinsider",
+    "link": "/message/441242",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.08.2017 21:36",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel Primærinsider\nMeldepliktig handel Primærinsider\nW\nW\nMeldepliktig handel Primærinsider",
+    "link": "/message/433351",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.08.2017 18:54",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Notification of Primary Insider's Trade\nNotification of Primary Insider's Trade\nW\nW\nNotification of Primary Insider's Trade",
+    "link": "/message/433184",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.08.2017 21:31",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel Primærinsider\nMeldepliktig handel Primærinsider\nW\nW\nMeldepliktig handel Primærinsider",
+    "link": "/message/432788",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.10.2015 08:39",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/386735",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.10.2015 08:45",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/386675",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.04.2015 15:45",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/376385",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.04.2015 16:27",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/375364",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.03.2015 16:43",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/372768",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.02.2015 16:28",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/370724",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.02.2015 16:28",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/370402",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.02.2015 17:00",
+    "market": "XOAX",
+    "IssuerID": "NOFIN",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/370305",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

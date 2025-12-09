@@ -1,0 +1,72 @@
+[
+  {
+    "date": "12.03.2025 13:54",
+    "market": "XOSL",
+    "IssuerID": "NOL",
+    "message": "NOL: Mandatory notification of insider transaction\nNOL: Mandatory notification of insider transaction\nW\nW\nNOL: Mandatory notification of insider transaction",
+    "link": "/message/641017",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.02.2025 08:59",
+    "market": "XOSL",
+    "IssuerID": "NOL",
+    "message": "NOL: Mandatory notification of insider transaction\nNOL: Mandatory notification of insider transaction\nW\nW\nNOL: Mandatory notification of insider transaction",
+    "link": "/message/637751",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.09.2024 11:43",
+    "market": "XOSL",
+    "IssuerID": "NOL",
+    "message": "NOL: Mandatory Notification of Trade\nNOL: Mandatory Notification of Trade\nW\nW\nNOL: Mandatory Notification of Trade",
+    "link": "/message/627589",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.08.2024 20:27",
+    "market": "XOSL",
+    "IssuerID": "NOL",
+    "message": "NOL – Mandatory notification of trade\nNOL – Mandatory notification of trade\nW\nW\nNOL – Mandatory notification of trade",
+    "link": "/message/625863",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.06.2024 10:13",
+    "market": "XOSL",
+    "IssuerID": "NOL",
+    "message": "NOL: Major Shareholding Notification; Mandatory Offer\nNOL: Major Shareholding Notification; Mandatory Offer\nW\nW\nNOL: Major Shareholding Notification; Mandatory Offer",
+    "link": "/message/621971",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.06.2024 09:46",
+    "market": "XOSL",
+    "IssuerID": "NOL",
+    "message": "NOL – Mandatory notification of trade\nNOL – Mandatory notification of trade\nW\nW\nNOL – Mandatory notification of trade",
+    "link": "/message/621967",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.03.2023 13:04",
+    "market": "XOSL",
+    "IssuerID": "NOL",
+    "message": "NOL - Mandatory notification of trade by primary insider\nNOL - Mandatory notification of trade by primary insider\nW\nW\nNOL - Mandatory notification of trade by primary insider",
+    "link": "/message/585032",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

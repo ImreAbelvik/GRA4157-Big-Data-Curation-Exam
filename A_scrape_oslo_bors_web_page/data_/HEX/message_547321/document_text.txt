@@ -1,0 +1,65 @@
+Reference is made to the announcement on 22 May 2018, in which Hexagon
+Composites ASA (the "Company") announced the grant of 1,200,000 share options to
+employees under its employee share option program, each at a strike price of NOK
+20.85 per share. Following the distribution of 15% of the shares in Hexagon
+Purus ASA as dividend in kind on 14 December 2020, the strike price has been
+adjusted by NOK 4.095 to "make whole" the 2018 options holders. The adjusted
+strike price is NOK 16.755 per share.
+
+Of the 1,200,000 options, 800,000 options were granted to senior executives and
+managers listed as primary insiders
+
+The following primary insider has exercised options on 18 November 2021,
+following the closing of insider positions in the Company. The Company settled
+the exercised options with treasury shares. After the transaction, the Company
+holds 967,955 shares in treasury. The table below shows the movements of the
+primary insider's accounts.
+
++----------+----------+----------+---------+---------+--------+--------+-------+
+|          |          |          |         |         |Shares  |        |       |
+|          |          |          |         |         |held    |        |       |
+|          |          |          |         |         |after   |        |       |
+|          |          |          |         |         |exercise|        |       |
+|          |          |          |Shares   |Shares   |of      |Number  |       |
+|          |          |          |received |held     |options |of      |       |
+|          |          |          |upon     |before   |today   |options |       |
+|          |          |          |exercise |exercise |and sale|held    |Number |
+|Primary   |          |Options   |of       |of       |of      |after   |of PSUs|
+|insider   |Title     |exercised |options  |options  |shares  |exercise|held   |
++----------+----------+----------+---------+---------+--------+--------+-------+
+|          |President |          |         |         |        |        |       |
+|          |Hexagon   |          |         |         |        |        |       |
+|Jack      |Digital   |          |         |         |        |        |       |
+|Schimenti |Wave      |80,000    |63,370   |139,639  |203,009 |0       |155,530|
++----------+----------+----------+---------+---------+--------+--------+-------+
+
+To  settle the tax obligation resulting  from the option exercise, the following
+individual has sold shares representing 50% of the total 2018 options exercised:
+
++---------------+-----------------+--------------+--------------+--------------+
+|               |                 |              |              |Total   shares|
+|               |                 |Number      of|Share    price|held after the|
+|Primary insider|Title            |shares sold   |sold          |sale          |
++---------------+-----------------+--------------+--------------+--------------+
+|               |President Hexagon|              |              |              |
+|Jack Schimenti |Digital Wave     |40,000        |38.52 NOK     |163,009       |
++---------------+-----------------+--------------+--------------+--------------+
+
+This  information is subject to the  disclosure requirements pursuant to Section
+5-12 the Norwegian Securities Trading Act
+
+The announcement is made by the contact person.
+
+For more information:
+
+Hiva Ghiri, VP Investor Relations, Hexagon Composites
+
+Telephone: +47 958 66 790 | hiva.ghiri@hexagongroup.com
+
+About Hexagon Composites
+
+Hexagon delivers safe and innovative solutions for a cleaner energy future. Our
+
+solutions enable storage, transportation and conversion to clean energy in a
+
+wide range of mobility, industrial and consumer applications.

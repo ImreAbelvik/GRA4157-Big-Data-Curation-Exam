@@ -1,0 +1,19 @@
+Name of notifier: Reese Worth Mc Neel 
+
+Reason for notification: Sale of own shares 
+
+Name of issuer of the financial instrument: Sevan Marine ASA 
+
+Description of the financial instrument: Shares
+
+Type of transaction: Sale
+
+Time for the transaction: 27 September 2018, 13:55
+
+Marketplace for the transaction: Oslo Stock Exchange 
+
+Price per share: 16,1139
+
+Transaction volume: 13 840
+
+New holding after the transaction: 0

@@ -1,0 +1,58 @@
+TietoEVRY Corporation     MANAGERS' TRANSACTIONS    23 December 2019 11.00 EET
+
+TietoEVRY Corporation: Managers' transactions - Solidium, Timo Ahopelto
+
+Person subject to the notification requirement
+Name: Solidium Oy
+Position: Closely associated person
+
+Person discharging managerial responsibilities in issuer
+Name: Timo Ahopelto
+Position: Member of the Board
+
+Issuer
+Name: TietoEVRY Corporation
+LEI:  549300EW2KM4KROKQV31
+Notification type: Initial Notification
+Reference number: 549300EW2KM4KROKQV31_20191219221058_14
+
+Transaction date
+20 December 2019
+
+Nature of the transaction
+Acquisition
+This transaction relates to the conditional share sale and purchase as announced
+on 20 June
+
+Instrument
+Type: Share
+ISIN: FI0009000277
+
+Transaction details
+Volume: 4 392 500
+Unit price: EUR 27.60
+Volume: 50 000
+Unit price: EUR 27.60
+
+Aggregated transactions
+Volume: 4 442 500
+Volume weighted average price: EUR 27.60
+Number of transactions: 2
+
+For further information, please contact:
+Tanja Lounevirta, Head of Investor Relations, tel. +358 50 321 7510,
+tanja.lounevirta (at) tieto.com
+TIETOEVRY CORPORATION
+DISTRIBUTION
+NASDAQ Helsinki
+Oslo Børs
+Principal Media
+
+TietoEVRY creates digital advantage for businesses and society. We are a leading
+digital services and software company with local presence and global
+capabilities. Our Nordic values and heritage steer our success.
+Headquartered in Finland, TietoEVRY employs around 24 000 experts globally. The
+company serves thousands of enterprise and public sector customers in more than
+90 countries. TietoEVRY's annual turnover is approximately EUR 3 billion and its
+shares are listed on the NASDAQ in Helsinki and Stockholm as well as on the Oslo
+Børs. www.tietoevry.com

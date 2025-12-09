@@ -1,0 +1,62 @@
+[
+  {
+    "date": "25.03.2024 06:00",
+    "market": "MERK",
+    "IssuerID": "ISLAX",
+    "message": "Icelandic Salmon - Mandatory notification of trade\nIcelandic Salmon - Mandatory notification of trade\nW\nW\nIcelandic Salmon - Mandatory notification of trade",
+    "link": "/message/614476",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.03.2024 15:00",
+    "market": "MERK",
+    "IssuerID": "ISLAX",
+    "message": "Mandatory notification of trade: Exercise of share options by primary insider\nMandatory notification of trade: Exercise of share options by primary insider\nW\nW\nMandatory notification of trade: Exercise of share options by primary insider",
+    "link": "/message/614019",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.11.2023 15:43",
+    "market": "MERK",
+    "IssuerID": "ISLAX",
+    "message": "Mandatory notification of trade: Acquisition of shares by close associate to primary insider\nMandatory notification of trade: Acquisition of shares by close associate to primary insider\nW\nW\nMandatory notification of trade: Acquisition of shares by close associate to primary insider",
+    "link": "/message/603569",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.12.2021 10:31",
+    "market": "MERK",
+    "IssuerID": "ISLAX",
+    "message": "Mandatory notification of trade – Primary insider\nMandatory notification of trade – Primary insider\nW\nW\nMandatory notification of trade – Primary insider",
+    "link": "/message/549893",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.11.2021 07:00",
+    "market": "MERK",
+    "IssuerID": "ISLAX",
+    "message": "Icelandic Salmon AS : Exercise of share option\nIcelandic Salmon AS : Exercise of share option\nW\nW\nIcelandic Salmon AS : Exercise of share option",
+    "link": "/message/547160",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.10.2021 13:19",
+    "market": "MERK",
+    "IssuerID": "ISLAX",
+    "message": "Icelandic Salmon AS: Mandatory notification of trade\nIcelandic Salmon AS: Mandatory notification of trade\nW\nW\nIcelandic Salmon AS: Mandatory notification of trade",
+    "link": "/message/545574",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

@@ -1,0 +1,21 @@
+Navn på meldepliktig: 
+Trond Vegard Andersen
+
+Navn på utsteder: 
+Gjensidige Forsikring ASA
+
+Beskrivelse av det finansielle instrument: 
+Aksje
+
+Type transaksjon: 
+Kjøp av aksjer
+
+Kurs og volum:
+27 aksjer til kurs 130,7652
+
+Transaksjonsdato: 14. oktober 2014
+
+Beholdning av aksjer ette transaksjonen:
+På personlig konto:       1778
+På konto forvaltet:       27
+Samlet beholdning:        1805

@@ -1,0 +1,499 @@
+Luxembourg  -  05 October  2020 -  Subsea  7 S.A.  (Oslo Børs: SUBC, ADR: SUBCY)
+announces  mandatory notification of the following share transactions by primary
+insiders:
+
++------+-----------------------------------------------------------------------+
+|1     |Details of the person discharging managerial responsibilities/person   |
+|      |closely associated                                                     |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Jean Cahuzac                         |
++------+---------------------------------+-------------------------------------+
+|2     |Reason for the notification                                            |
++------+---------------------------------+-------------------------------------+
+|a)    |Position/status                  |Non-Executive Director               |
++------+---------------------------------+-------------------------------------+
+|b)    |Initial notification/ Amendment  |Initial Notification                 |
++------+---------------------------------+-------------------------------------+
+|3     |Details of the issuer, emission allowance market participant, auction  |
+|      |platform, auctioneer or auction monitor                                |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Subsea 7 S.A.                        |
++------+---------------------------------+-------------------------------------+
+|b)    |LEI                              |222100AIF0CBCY80AH62                 |
++------+---------------------------------+-------------------------------------+
+|4     |Details of the transaction(s): section to be repeated for (i) each type|
+|      |of instrument; (ii) each type of transaction; (iii) each date; and (iv)|
+|      |each place where transactions have been conducted                      |
++------+---------------------------------+-------------------------------------+
+|a)    |Description of the financial     |Subsea 7 S.A. Shares                 |
+|      |instrument, type of instrument   |                                     |
+|      |Identification code              |                                     |
+|      |                                 |                                     |
+|      |                                 |Oslo Børs: SUBC                      |
+|      |                                 |ISIN LU0075646355                    |
++------+---------------------------------+-------------------------------------+
+|b (i) |Nature of the transaction        |Vesting (award) of performance shares|
++------+---------------------------------+-------------------------------------+
+|c (i) |Price(s) and volume(s)           |Volume: 13,585                       |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|b (ii)|Nature of the transaction        |Sale of Shares to satisfy tax charge |
+|      |                                 |on vesting of performance shares     |
++------+---------------------------------+-------------------------------------+
+|c (ii)|Price(s) and volume(s)           |Volume: 6,014                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|d)    |Aggregated information           |Aggregate volume: 9,800              |
+|      |                                 |Aggregate price: NOK 66.5062         |
++------+---------------------------------+-------------------------------------+
+|e)    |Date of the transaction          |2020 - 10 - 02 (2 October 2020)      |
++------+---------------------------------+-------------------------------------+
+|f)    |Place of the transaction         |b(i): Outside a trading venue        |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |b(ii):  The Oslo  Bors Stock Exchange|
+|      |                                 |OSE                                  |
++------+---------------------------------+-------------------------------------+
+|      |Instruments owned by Primary     |Owned Shares: 178,042                |
+|      |Insider after the transaction    |Performance Shares: 60,000           |
+|      |completed                        |                                     |
+|      |                                 |Restricted Shares: Nil               |
+|      |                                 |Options: Nil                         |
++------+---------------------------------+-------------------------------------+
+
+
++------+-----------------------------------------------------------------------+
+|1     |Details of the person discharging managerial responsibilities/person   |
+|      |closely associated                                                     |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |John Evans                           |
++------+---------------------------------+-------------------------------------+
+|2     |Reason for the notification                                            |
++------+---------------------------------+-------------------------------------+
+|a)    |Position/status                  |Chief Executive Officer              |
++------+---------------------------------+-------------------------------------+
+|b)    |Initial notification/ Amendment  |Initial Notification                 |
++------+---------------------------------+-------------------------------------+
+|3     |Details of the issuer, emission allowance market participant, auction  |
+|      |platform, auctioneer or auction monitor                                |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Subsea 7 S.A.                        |
++------+---------------------------------+-------------------------------------+
+|b)    |LEI                              |222100AIF0CBCY80AH62                 |
++------+---------------------------------+-------------------------------------+
+|4     |Details of the transaction(s): section to be repeated for (i) each type|
+|      |of instrument; (ii) each type of transaction; (iii) each date; and (iv)|
+|      |each place where transactions have been conducted                      |
++------+---------------------------------+-------------------------------------+
+|a)    |Description of the financial     |Subsea 7 S.A. Shares                 |
+|      |instrument, type of instrument   |                                     |
+|      |Identification code              |                                     |
+|      |                                 |                                     |
+|      |                                 |Oslo Børs: SUBC                      |
+|      |                                 |ISIN LU0075646355                    |
++------+---------------------------------+-------------------------------------+
+|b (i) |Nature of the transaction        |Vesting (award) of performance shares|
++------+---------------------------------+-------------------------------------+
+|c (i) |Price(s) and volume(s)           |Volume: 21,367                       |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|b (ii)|Nature of the transaction        |Sale of Shares to satisfy tax charge |
+|      |                                 |on vesting of performance shares     |
++------+---------------------------------+-------------------------------------+
+|c (ii)|Price(s) and volume(s)           |Volume: 10,104                       |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|d)    |Aggregated information           |Aggregate volume: 15,736             |
+|      |                                 |Aggregate price: NOK 66.5062         |
++------+---------------------------------+-------------------------------------+
+|e)    |Date of the transaction          |2020 - 10 - 02 (2 October 2020)      |
++------+---------------------------------+-------------------------------------+
+|f)    |Place of the transaction         |b(i): Outside a trading venue        |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |b(ii): The Oslo Bors Stock Exchange  |
+|      |                                 |OSE                                  |
++------+---------------------------------+-------------------------------------+
+|      |Instruments owned by Primary     |Owned Shares: 81,873                 |
+|      |Insider after the transaction    |Performance Shares: 120,196          |
+|      |completed                        |                                     |
+|      |                                 |Restricted Shares: Nil               |
+|      |                                 |Options: Nil                         |
++------+---------------------------------+-------------------------------------+
+
+
++------+-----------------------------------------------------------------------+
+|1     |Details of the person discharging managerial responsibilities/person   |
+|      |closely associated                                                     |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Ricardo Rosa                         |
++------+---------------------------------+-------------------------------------+
+|2     |Reason for the notification                                            |
++------+---------------------------------+-------------------------------------+
+|a)    |Position/status                  |Chief Financial Officer              |
++------+---------------------------------+-------------------------------------+
+|b)    |Initial notification/ Amendment  |Initial Notification                 |
++------+---------------------------------+-------------------------------------+
+|3     |Details of the issuer, emission allowance market participant, auction  |
+|      |platform, auctioneer or auction monitor                                |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Subsea 7 S.A.                        |
++------+---------------------------------+-------------------------------------+
+|b)    |LEI                              |222100AIF0CBCY80AH62                 |
++------+---------------------------------+-------------------------------------+
+|4     |Details of the transaction(s): section to be repeated for (i) each type|
+|      |of instrument; (ii) each type of transaction; (iii) each date; and (iv)|
+|      |each place where transactions have been conducted                      |
++------+---------------------------------+-------------------------------------+
+|a)    |Description of the financial     |Subsea 7 S.A. Shares                 |
+|      |instrument, type of instrument   |                                     |
+|      |Identification code              |                                     |
+|      |                                 |                                     |
+|      |                                 |Oslo Børs: SUBC                      |
+|      |                                 |ISIN LU0075646355                    |
++------+---------------------------------+-------------------------------------+
+|b (i) |Nature of the transaction        |Vesting (award) of performance shares|
++------+---------------------------------+-------------------------------------+
+|c (i) |Price(s) and volume(s)           |Volume: 16,855                       |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|b (ii)|Nature of the transaction        |Sale of Shares to satisfy tax charge |
+|      |                                 |on vesting of performance shares     |
++------+---------------------------------+-------------------------------------+
+|c (ii)|Price(s) and volume(s)           |Volume: 7,970                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|d)    |Aggregated information           |Aggregate volume: 12, 413            |
+|      |                                 |Aggregate price: NOK 66.5062         |
++------+---------------------------------+-------------------------------------+
+|e)    |Date of the transaction          |2020- 10 - 02 (2 October 2020)       |
++------+---------------------------------+-------------------------------------+
+|f)    |Place of the transaction         |b(i): Outside a trading venue        |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |b(ii): The Oslo Bors Stock Exchange  |
+|      |                                 |OSE                                  |
++------+---------------------------------+-------------------------------------+
+|      |Instruments owned by Primary     |Owned Shares: 42,345                 |
+|      |Insider after the transaction    |Performance Shares: 89,356           |
+|      |completed                        |                                     |
+|      |                                 |Restricted Shares: Nil               |
+|      |                                 |Options: Nil                         |
++------+---------------------------------+-------------------------------------+
+
+
++------+-----------------------------------------------------------------------+
+|1     |Details of the person discharging managerial responsibilities/person   |
+|      |closely associated                                                     |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Nathalie Louys                       |
++------+---------------------------------+-------------------------------------+
+|2     |Reason for the notification                                            |
++------+---------------------------------+-------------------------------------+
+|a)    |Position/status                  |General Counsel                      |
++------+---------------------------------+-------------------------------------+
+|b)    |Initial notification/ Amendment  |Initial Notification                 |
++------+---------------------------------+-------------------------------------+
+|3     |Details of the issuer, emission allowance market participant, auction  |
+|      |platform, auctioneer or auction monitor                                |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Subsea 7 S.A.                        |
++------+---------------------------------+-------------------------------------+
+|b)    |LEI                              |222100AIF0CBCY80AH62                 |
++------+---------------------------------+-------------------------------------+
+|4     |Details of the transaction(s): section to be repeated for (i) each type|
+|      |of instrument; (ii) each type of transaction; (iii) each date; and (iv)|
+|      |each place where transactions have been conducted                      |
++------+---------------------------------+-------------------------------------+
+|a)    |Description of the financial     |Subsea 7 S.A. Shares                 |
+|      |instrument, type of instrument   |                                     |
+|      |Identification code              |                                     |
+|      |                                 |                                     |
+|      |                                 |Oslo Børs: SUBC                      |
+|      |                                 |ISIN LU0075646355                    |
++------+---------------------------------+-------------------------------------+
+|b (i) |Nature of the transaction        |Vesting (award) of performance shares|
++------+---------------------------------+-------------------------------------+
+|c (i) |Price(s) and volume(s)           |Volume: 10,325                       |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|b (ii)|Nature of the transaction        |Sale of Shares to satisfy tax charge |
+|      |                                 |on vesting of performance shares     |
++------+---------------------------------+-------------------------------------+
+|c (ii)|Price(s) and volume(s)           |Volume: 4,883                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|d)    |Aggregated information           |Aggregate volume: 7,604              |
+|      |                                 |Aggregate price: NOK 66.5062         |
++------+---------------------------------+-------------------------------------+
+|e)    |Date of the transaction          |2020 - 10 - 02 (2 October 2020)      |
++------+---------------------------------+-------------------------------------+
+|f)    |Place of the transaction         |b(i): Outside a trading venue        |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |b(ii): The Oslo Bors Stock Exchange  |
+|      |                                 |OSE                                  |
++------+---------------------------------+-------------------------------------+
+|      |Instruments owned by Primary     |Owned Shares: 27,663                 |
+|      |Insider after the transaction    |Performance Shares: 59,098           |
+|      |completed                        |                                     |
+|      |                                 |Restricted Shares: Nil               |
+|      |                                 |Options: Nil                         |
++------+---------------------------------+-------------------------------------+
+
+
++-----+------------------------------------------------------------------------+
+|1    |Details of the person discharging managerial responsibilities/person    |
+|     |closely associated                                                      |
++-----+---------------------------------+--------------------------------------+
+|a)   |Name                             |Stuart Fitzgerald                     |
++-----+---------------------------------+--------------------------------------+
+|2    |Reason for the notification                                             |
++-----+---------------------------------+--------------------------------------+
+|a)   |Position/status                  |Executive Vice President - Alliances &|
+|     |                                 |Strategy                              |
++-----+---------------------------------+--------------------------------------+
+|b)   |Initial notification/ Amendment  |Initial Notification                  |
++-----+---------------------------------+--------------------------------------+
+|3    |Details of the issuer, emission allowance market participant, auction   |
+|     |platform, auctioneer or auction monitor                                 |
++-----+---------------------------------+--------------------------------------+
+|a)   |Name                             |Subsea 7 S.A.                         |
++-----+---------------------------------+--------------------------------------+
+|b)   |LEI                              |222100AIF0CBCY80AH62                  |
++-----+---------------------------------+--------------------------------------+
+|4    |Details of the transaction(s): section to be repeated for (i) each type |
+|     |of instrument; (ii) each type of transaction; (iii) each date; and (iv) |
+|     |each place where transactions have been conducted                       |
++-----+---------------------------------+--------------------------------------+
+|a)   |Description of the financial     |Subsea 7 S.A. Shares                  |
+|     |instrument, type of instrument   |                                      |
+|     |Identification code              |                                      |
+|     |                                 |                                      |
+|     |                                 |Oslo Børs: SUBC                       |
+|     |                                 |ISIN LU0075646355                     |
++-----+---------------------------------+--------------------------------------+
+|b (i)|Nature of the transaction        |Vesting (award) of performance shares |
++-----+---------------------------------+--------------------------------------+
+|c (i)|Price(s) and volume(s)           |Volume: 5,093                         |
+|     |                                 |Price: NOK 66.5062                    |
++-----+---------------------------------+--------------------------------------+
+|d)   |Aggregated information           |Aggregate volume: 5,093               |
+|     |                                 |Aggregate price: NOK 66.5062          |
++-----+---------------------------------+--------------------------------------+
+|e)   |Date of the transaction          |2020 - 10 - 02 (2 October 2020)       |
++-----+---------------------------------+--------------------------------------+
+|f)   |Place of the transaction         |Outside a trading venue               |
++-----+---------------------------------+--------------------------------------+
+|     |Instruments owned by Primary     |Owned Shares: 18,774                  |
+|     |Insider after the transaction    |Performance Shares: 73,704            |
+|     |completed                        |                                      |
+|     |                                 |Restricted Shares: Nil                |
+|     |                                 |Options: Nil                          |
++-----+---------------------------------+--------------------------------------+
+
+
++------+-----------------------------------------------------------------------+
+|1     |Details of the person discharging managerial responsibilities/person   |
+|      |closely associated                                                     |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Kate Lyne                            |
++------+---------------------------------+-------------------------------------+
+|2     |Reason for the notification                                            |
++------+---------------------------------+-------------------------------------+
+|a)    |Position/status                  |Executive Vice President - Human     |
+|      |                                 |Resources                            |
++------+---------------------------------+-------------------------------------+
+|b)    |Initial notification/ Amendment  |Initial Notification                 |
++------+---------------------------------+-------------------------------------+
+|3     |Details of the issuer, emission allowance market participant, auction  |
+|      |platform, auctioneer or auction monitor                                |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Subsea 7 S.A.                        |
++------+---------------------------------+-------------------------------------+
+|b)    |LEI                              |222100AIF0CBCY80AH62                 |
++------+---------------------------------+-------------------------------------+
+|4     |Details of the transaction(s): section to be repeated for (i) each type|
+|      |of instrument; (ii) each type of transaction; (iii) each date; and (iv)|
+|      |each place where transactions have been conducted                      |
++------+---------------------------------+-------------------------------------+
+|a)    |Description of the financial     |Subsea 7 S.A. Shares                 |
+|      |instrument, type of instrument   |                                     |
+|      |Identification code              |                                     |
+|      |                                 |                                     |
+|      |                                 |Oslo Børs: SUBC                      |
+|      |                                 |ISIN LU0075646355                    |
++------+---------------------------------+-------------------------------------+
+|b (i) |Nature of the transaction        |Vesting (award) of performance shares|
++------+---------------------------------+-------------------------------------+
+|c (i) |Price(s) and volume(s)           |Volume: 6,052                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|b (ii)|Nature of the transaction        |Sale of Shares to satisfy tax charge |
+|      |                                 |on vesting of performance shares     |
++------+---------------------------------+-------------------------------------+
+|c (ii)|Price(s) and volume(s)           |Volume: 2,862                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|d)    |Aggregated information           |Aggregate volume: 4,457              |
+|      |                                 |Aggregate price: NOK 66.5062         |
++------+---------------------------------+-------------------------------------+
+|e)    |Date of the transaction          |2020 - 10 - 02 (2 October 2020)      |
++------+---------------------------------+-------------------------------------+
+|f)    |Place of the transaction         |b(i): Outside a trading venue        |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |b(ii): The Oslo Bors Stock Exchange  |
+|      |                                 |OSE                                  |
++------+---------------------------------+-------------------------------------+
+|      |Instruments owned by Primary     |Owned Shares: 14,491                 |
+|      |Insider after the transaction    |Performance Shares: 43,258           |
+|      |completed                        |                                     |
+|      |                                 |Restricted Shares: Nil               |
+|      |                                 |Options: Nil                         |
++------+---------------------------------+-------------------------------------+
+
+
++------+-----------------------------------------------------------------------+
+|1     |Details of the person discharging managerial responsibilities/person   |
+|      |closely associated                                                     |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Phillip Simons                       |
++------+---------------------------------+-------------------------------------+
+|2     |Reason for the notification                                            |
++------+---------------------------------+-------------------------------------+
+|a)    |Position/status                  |Executive Vice President - Projects &|
+|      |                                 |Operations                           |
++------+---------------------------------+-------------------------------------+
+|b)    |Initial notification/ Amendment  |Initial Notification                 |
++------+---------------------------------+-------------------------------------+
+|3     |Details of the issuer, emission allowance market participant, auction  |
+|      |platform, auctioneer or auction monitor                                |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Subsea 7 S.A.                        |
++------+---------------------------------+-------------------------------------+
+|b)    |LEI                              |222100AIF0CBCY80AH62                 |
++------+---------------------------------+-------------------------------------+
+|4     |Details of the transaction(s): section to be repeated for (i) each type|
+|      |of instrument; (ii) each type of transaction; (iii) each date; and (iv)|
+|      |each place where transactions have been conducted                      |
++------+---------------------------------+-------------------------------------+
+|a)    |Description of the financial     |Subsea 7 S.A. Shares                 |
+|      |instrument, type of instrument   |                                     |
+|      |Identification code              |                                     |
+|      |                                 |                                     |
+|      |                                 |Oslo Børs: SUBC                      |
+|      |                                 |ISIN LU0075646355                    |
++------+---------------------------------+-------------------------------------+
+|b (i) |Nature of the transaction        |Vesting (award) of performance shares|
++------+---------------------------------+-------------------------------------+
+|c (i) |Price(s) and volume(s)           |Volume: 8,600                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|b (ii)|Nature of the transaction        |Sale of Shares to satisfy tax charge |
+|      |                                 |on vesting of performance shares     |
++------+---------------------------------+-------------------------------------+
+|c (ii)|Price(s) and volume(s)           |Volume: 4,153                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|d)    |Aggregated information           |Aggregate volume: 6,377              |
+|      |                                 |Aggregate price: NOK 66.5062         |
++------+---------------------------------+-------------------------------------+
+|e)    |Date of the transaction          |2020- 10 - 02 (2 October 2020)       |
++------+---------------------------------+-------------------------------------+
+|f)    |Place of the transaction         |b(i): Outside a trading venue        |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |b(ii): The Oslo Bors Stock Exchange  |
+|      |                                 |OSE                                  |
++------+---------------------------------+-------------------------------------+
+|      |Instruments owned by Primary     |Owned Shares: 4,447                  |
+|      |Insider after the transaction    |Performance Shares:  58,387          |
+|      |completed                        |                                     |
+|      |                                 |Restricted Shares: Nil               |
+|      |                                 |Options: Nil                         |
++------+---------------------------------+-------------------------------------+
+
+
++------+-----------------------------------------------------------------------+
+|1     |Details of the person discharging managerial responsibilities/person   |
+|      |closely associated                                                     |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Stephen McNeill                      |
++------+---------------------------------+-------------------------------------+
+|2     |Reason for the notification                                            |
++------+---------------------------------+-------------------------------------+
+|a)    |Position/status                  |Executive Vice President - Renewables|
++------+---------------------------------+-------------------------------------+
+|b)    |Initial notification/ Amendment  |Initial Notification                 |
++------+---------------------------------+-------------------------------------+
+|3     |Details of the issuer, emission allowance market participant, auction  |
+|      |platform, auctioneer or auction monitor                                |
++------+---------------------------------+-------------------------------------+
+|a)    |Name                             |Subsea 7 S.A.                        |
++------+---------------------------------+-------------------------------------+
+|b)    |LEI                              |222100AIF0CBCY80AH62                 |
++------+---------------------------------+-------------------------------------+
+|4     |Details of the transaction(s): section to be repeated for (i) each type|
+|      |of instrument; (ii) each type of transaction; (iii) each date; and (iv)|
+|      |each place where transactions have been conducted                      |
++------+---------------------------------+-------------------------------------+
+|a)    |Description of the financial     |Subsea 7 S.A. Shares                 |
+|      |instrument, type of instrument   |                                     |
+|      |Identification code              |                                     |
+|      |                                 |                                     |
+|      |                                 |Oslo Børs: SUBC                      |
+|      |                                 |ISIN LU0075646355                    |
++------+---------------------------------+-------------------------------------+
+|b (i) |Nature of the transaction        |Vesting (award) of performance shares|
++------+---------------------------------+-------------------------------------+
+|c (i) |Price(s) and volume(s)           |Volume: 9,241                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|b (ii)|Nature of the transaction        |Sale of Shares to satisfy tax charge |
+|      |                                 |on vesting of performance shares     |
++------+---------------------------------+-------------------------------------+
+|c (ii)|Price(s) and volume(s)           |Volume: 4,463                        |
+|      |                                 |Price: NOK 66.5062                   |
++------+---------------------------------+-------------------------------------+
+|d)    |Aggregated information           |Aggregate volume: 6,852              |
+|      |                                 |Aggregate price: NOK 66.5062         |
++------+---------------------------------+-------------------------------------+
+|e)    |Date of the transaction          |2020 - 10 - 02 (2 October 2020)      |
++------+---------------------------------+-------------------------------------+
+|f)    |Place of the transaction         |b(i): Outside a trading venue        |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |                                     |
+|      |                                 |b(ii): The Oslo Bors Stock Exchange  |
+|      |                                 |OSE                                  |
++------+---------------------------------+-------------------------------------+
+|      |Instruments owned by Primary     |Owned Shares: 4,778                  |
+|      |Insider after the transaction    |Performance Shares: 58,718           |
+|      |completed                        |                                     |
+|      |                                 |Restricted Shares: Nil               |
+|      |                                 |Options: Nil                         |
++------+---------------------------------+-------------------------------------+
+
+*********************************************************************************
+Subsea  7 is a global leader  in the delivery of  offshore projects and services
+for  the  evolving  energy  industry,  creating  sustainable  value by being the
+industry's  partner and employer of choice  in delivering the efficient offshore
+solutions the world needs.
+
+Subsea 7 is listed on the Oslo Børs (SUBC), ISIN LU0075646355, LEI
+222100AIF0CBCY80AH62.
+*********************************************************************************
+
+Contact for investment community enquiries:
+Katherine Tonks
+Head of Investor Relations
+Tel +442082105568
+Katherine.Tonks@subsea7.com (mailto:Katherine.Tonks@subsea7.com)
+www.subsea7.com (http://www.subsea7.com)

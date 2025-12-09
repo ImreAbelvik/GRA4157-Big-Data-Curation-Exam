@@ -1,0 +1,32 @@
+[
+  {
+    "date": "02.06.2022 13:41",
+    "market": "XOAM, MERK",
+    "IssuerID": "ROMER",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/564006",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.05.2022 21:52",
+    "market": "XOAM, MERK",
+    "IssuerID": "ROMER",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/563823",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.05.2022 08:00",
+    "market": "XOAM, MERK",
+    "IssuerID": "ROMER",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/563707",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

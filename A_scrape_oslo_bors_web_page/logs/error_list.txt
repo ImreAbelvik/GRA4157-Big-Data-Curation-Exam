@@ -1,0 +1,12 @@
+ERROR WITH ISSUER: 5th Planet Games A/S
+[Errno 2] No such file or directory: 'data/5th Planet Games A/S.json'
+ERROR WITH ISSUER: Cadeler A/S
+[Errno 2] No such file or directory: 'data/Cadeler A/S.json'
+ERROR WITH ISSUER: DFDS A/S
+[Errno 2] No such file or directory: 'data/DFDS A/S.json'
+ERROR WITH ISSUER: Bakkafrost P/f
+[Errno 2] No such file or directory: 'data/Bakkafrost P/f.json'
+ERROR WITH ISSUER: Napatech A/S
+[Errno 2] No such file or directory: 'data/Napatech A/S.json'
+ERROR WITH ISSUER: Tryg Forsikring A/S
+[Errno 2] No such file or directory: 'data/Tryg Forsikring A/S.json'

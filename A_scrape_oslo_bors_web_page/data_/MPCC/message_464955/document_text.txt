@@ -1,0 +1,12 @@
+With reference to Section 4-2 of the Norwegian Securities Trading Act ("STA"), kindly note the following primary insider trade:
+
+Name of listed entity:                     MPC Container Ships ASA
+ISIN number:                               NO0010791353
+Stock ticker:                              MPCC
+Name of primary insider                   Philipp S. Niesing
+Relation to listed entity:                Strategic Projects 
+* Trade:                                        buy 3,000 shares 
+Date:                                          December 3rd, 2018
+Average price:                                 NOK 39.00 per share
+Primary insider’s total shareholdings post-trade:    3,000 shares
+Primary insider’s percentage shareholding post-trade:  0.0036%

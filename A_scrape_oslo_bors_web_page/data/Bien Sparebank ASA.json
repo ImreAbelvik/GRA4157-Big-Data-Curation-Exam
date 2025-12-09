@@ -1,0 +1,82 @@
+[
+  {
+    "date": "13.08.2025 12:22",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/652673",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.05.2025 17:12",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/645823",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.11.2024 11:39",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/631381",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.08.2024 16:25",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsider\nMeldepliktig handel for primærinnsider\nW\nW\nMeldepliktig handel for primærinnsider",
+    "link": "/message/625849",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.05.2024 13:25",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/618313",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.12.2023 14:32",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/607229",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.11.2023 13:27",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/603367",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.12.2022 22:14",
+    "market": "XOSL, XOAM",
+    "IssuerID": "BIEN",
+    "message": "Meldepliktig handel for primærinnsidere med nærstående\nMeldepliktig handel for primærinnsidere med nærstående\nW\nW\nMeldepliktig handel for primærinnsidere med nærstående",
+    "link": "/message/577609",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

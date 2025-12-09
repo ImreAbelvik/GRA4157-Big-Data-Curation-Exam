@@ -1,0 +1,10 @@
+Name of listed entity: MPC Container Ships ASA
+ISIN number: NO0010791353
+Stock ticker: MPCC
+Name of primary insider: STAR Spike Ltd.
+Relation to listed entity: Shareholder represented on the company's Board of Directors
+Trade: 711,500 shares purchased
+Date: 11.10.2018
+Average price: NOK 42.00 per share
+Primary insider's total shareholdings post-trade: 16,346,000 shares
+Primary insider's percentage shareholding post-trade: 19.4011%

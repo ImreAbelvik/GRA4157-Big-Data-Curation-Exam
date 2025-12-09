@@ -1,0 +1,27 @@
+Name of notifier:
+SVEIN OVE FARSTAD
+
+Reason for notification: [Notifier's own trading or trading by close associates]
+
+Name of issuer of the financial instrument: [Name of Company]
+Havyard Group ASA
+
+Description of the financial instrument:
+Shares
+
+Type of transaction: [Sale, purchase, exchange or subscription]
+Sale
+
+Time for the transaction:
+05.01.2021
+
+Marketplace for the transaction: [Oslo Børs]
+
+Price per share:
+20,90 NOK
+
+Transaction volume:
+160
+
+New holding after the transaction:
+0

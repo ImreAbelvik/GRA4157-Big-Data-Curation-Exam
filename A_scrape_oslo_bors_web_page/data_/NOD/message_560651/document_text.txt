@@ -1,0 +1,57 @@
+NOD: Exercise of employee share options, performance shares & restricted share units 
+
+On April 29, 2022, employees in Nordic Semiconductor ASA have exercised 544,498 options, 111,626 performance shares (“PSUs”) and 492,780 restricted share units (“RSUs”) in Nordic Semiconductor ASA.  
+
+The options contracts were granted to employees in 2019 with a "cap" of three times strike price. Upon exercise, the company has the right to settle its option contracts in cash by paying the difference between the share price and the strike price, with a maximum settlement fee equal to the difference between the "cap" and the strike price. Based on the current share price, the Board has authorized the company to exercise its right to settle its options contracts in cash by paying the difference between the "cap" and the strike price for outstanding 2019 options vesting in first half 2022, which have all reached cap. This option settlement will result in a cash payment of NOK 43,759,926 (~USD 4.7 million). There are no more outstanding options after this exercise. 
+
+The vested PSUs were granted to the executive management team May 3, 2019, as part of the long-term incentive program approved by the Annual general meeting held on April 24th, 2019. The performance shares were issued conditional upon the achievement of a certain set of objectives. At the end of the performance period, all performance KPIs have been achieved and the max threshold of two times the numbers of shares was met. The Board of Directors has authorized the use of treasury shares to settle the vested shares. 
+
+The vested RSUs were granted to all employees April 29, 2020, as part of the long-term incentive program approved by the Annual general meeting held on April 22, 2020. The Board of Directors has authorized the use of treasury shares to settle the vested shares. 
+
+On April 29, 2022, the primary insiders mentioned below ordered for a portion of the received shares to be immediately sold by a third party in order to cover the tax liability. 
+
+EVP Product Management, Kjetil Holstad, has transferred the rights for 3,811 shares. 
+SVP Quality & Sustainability, Ebbe Rømcke, has transferred the rights for 4,268 shares. 
+SVP Legal, Marianne Frydenlund, has transferred the rights for 3,506 shares. 
+Employee representative, Joel Stapleton, has transferred the rights for 575 shares. 
+
+On April 29, 2022, employees excluding primary insiders, ordered for 246,280 shares to be immediately sold by a third party. 
+
+In total 604,406 treasury shares will be used, of which 258,440 shares will be sold and 345,966 shares will be transferred to employees. 
+
+The sales amount will be finally determined on the basis of the price subsequently obtained by the third party in the market and will be announced in a separate stock exchange notice when known. 
+
+All expenses related to the vested options, PSUs and RSUs have already been recognized in previous quarters, and the settlement has no net impact on the operating expenses of the company in the current or future quarters.  
+
+Subsequent to the transaction, Nordic Semiconductor holds 1,214,631 own shares. There will be no share capital increase to cover the exercise of share options, PSUs and RSUs. 
+An overview of options, PSUs and RSUs exercised by primary insiders is described below:  
+
+Chief Executive Officer, Svenn-Tore Larsen, has exercised 12,721 share options and 26,872 PSUs. Following this transaction, he holds 1,932,272 shares, 21,554 RSUs and 16,834 performance shares in the Company.  
+
+Chief Financial Officer, Pål Elstad, has exercised 7,880 share options and 12,804 PSUs. Following this transaction, he holds 31,650 shares, 9,401 RSUs and 9,401 performance shares in the Company.  
+
+Chief Technology Officer, Svein-Egil Nielsen, has exercised 9,381 share options and 15,244 PSUs. Following this transaction, he holds 32,244 shares, 10,627 RSUs and 10,627 performance shares in the Company.  
+
+EVP Sales and Marketing, Geir Langeland, has exercised 8,256 share options and 13,414 PSUs. Following this transaction, he holds 201,114 shares, 12,760 RSUs and 9,810 performance shares in the Company.  
+
+EVP Supply Chain, Ole Fredrik Morken, has exercised 6,567 share options and 10,670 PSUs. Following this transaction, he holds 190,670 shares, 7,566 RSUs and 7,566 performance shares in the Company.  
+
+SVP Quality & Sustainability, Ebbe Rømcke, has exercised 5,254 share options and 8,536 PSUs. Following this transaction, he holds 74,168 shares, 6,335 RSUs and 6,335 performance shares in the Company.  
+
+EVP People & Communication, Katarina Finneng, has exercised 6,667 share options. Following this transaction, she holds 600 shares, 7,765 RSUs and 7,765 performance shares in the Company.  
+
+SVP Legal, Marianne Frydenlund, has exercised 4,315 share options and 7,012 PSUs. Following this transaction, she holds 6,006 shares, 5,927 RSUs and 5,927 performance shares in the Company.  
+
+EVP Product Management, Kjetil Holstad, has exercised 4,691 share options and 7,622 PSUs. Following this transaction, he holds 10,415 shares, 6,432 RSUs and 6,432 performance shares in the Company.  
+
+SVP Investor Relations, Ståle Ytterdal, has exercised 5,816 share options and 9,452 PSUs. Following this transaction, he holds 135,452 shares, 6,480 RSUs and 6,480 performance shares in the Company.  
+
+Employee Representative, Jon Helge Nistad, has exercised 927 share options and 600 RSUs. Following this transaction, he holds 600 shares and 298 RSUs.  
+
+Employee Representative, Susheel Raj Nuguru, has exercised 855 share options and 600 RSUs. Following this transaction, he holds 600 shares and 286 RSUs.  
+
+Employee Representative, Morten Dammen has exercised 1,186 share options and 1,150 RSUs. Following this transaction, he holds 1,150 shares and 2,107 RSUs.  
+
+Employee Representative, Joel Stapleton has exercised 1,095 share options and 1,150 RSUs. Following this transaction, he holds 575 shares and 3,093 RSUs.  
+
+For further information, contact: Pål Elstad, CFO +47 99 166 293.

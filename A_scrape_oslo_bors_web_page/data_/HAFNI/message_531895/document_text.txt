@@ -1,0 +1,113 @@
+HAFNIA LIMITED: Award of shares and share options
+
+30 April 2021
+
+The Board of Directors of Hafnia Limited (the "Company") has approved the award of shares and share options to the senior management of the Company under the Company's bonus and long-term incentive plan.
+
+Mikael Skov, CEO, has been awarded 1,357,632 options and 93,243 shares. After the award of the options and the shares, Mikael Skov holds a total of 4,087,896 share options and 919,711 shares.
+
+Perry van Echtelt, CFO, has been awarded 296,112 share options. After the award of the share options, Perry van Echtelt holds a total of 888,336 share options and 40,285 shares.
+
+The options will vest three years from the award date and expire six years after the award date. The strike price at the award date for the options awarded in 2021 is NOK 19.16. 
+
+Please see further details in the attached document.
+
+* * *
+
+For further information, please contact:
+
+Mikael Skov
+CEO Hafnia Limited
++65 8533 8900
+
+About Hafnia:
+
+Hafnia is one of the world's leading oil product tanker owners and operators. The Company provides transportation of oil and oil products to leading national and international oil companies, major chemical companies, as well as trading and utility companies. Hafnia operates a fleet of 184 vessels in pools including newbuilds, of which 101 are owned or chartered-in including six owned LR2s, 35 owned or chartered-in LR1s, 47 owned or chartered-in MRs and 13 owned Handy vessels. 
+
+Hafnia is a global company with offices in Singapore, Copenhagen and Houston and presence in Mumbai. The Company is part of BW Group, an international shipping group that has worked in oil and gas transportation, floating gas infrastructure, environmental technologies and deep-water production for over 80 years.
+
+
+1 	Details of the person discharging managerial responsibilities/person closely associated
+a)	Name	Mikael Skov
+2 	Reason for the notification 
+a)	Position/status	CEO
+b)	Initial notification/Amendment	Initial 
+3 	Details of issuer
+a)	Name	Hafnia Limited
+b)	LEI	549300WO3JBM1IK73M35
+4 	Details of the transaction(s): section to be repeated for (i) each type of instrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted 
+a)	Description of the financial instrument, type of instrument
+Identification code	Options with shares in Hafnia Limited (ISIN: BMG4233B1090) as underlying 
+b)	Nature of the transaction	Granting of stock options to employee as part of his remuneration package.
+ 
+c)	Price(s) and volume(s)	Price(s)	Volume(s)
+ 0	 1,357,632
+
+ 
+d)	Aggregated information
+—	Aggregated volume
+—	Price
+	Price(s)	Volume(s)
+ 0	 1,357,632
+
+ 
+e)	Date of the transaction	2021-03-09; (UTC )
+f)	Place of the transaction	Outside a trading venue
+
+ 
+1 	Details of the person discharging managerial responsibilities/person closely associated
+a)	Name	Mikael Skov
+2 	Reason for the notification 
+a)	Position/status	CEO
+b)	Initial notification/Amendment	Initial 
+3 	Details of issuer
+a)	Name	Hafnia Limited
+b)	LEI	549300WO3JBM1IK73M35
+4 	Details of the transaction(s): section to be repeated for (i) each type of instrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted 
+a)	Description of the financial instrument, type of instrument
+Identification code	Shares in Hafnia Limited (ISIN: BMG4233B1090) as underlying 
+b)	Nature of the transaction	Receiving shares as part of remuneration package.
+ 
+c)	Price(s) and volume(s)	Price(s)	Volume(s)
+ 15.735	 93,243
+
+ 
+d)	Aggregated information
+—	Aggregated volume
+—	Price
+	Price(s)	Volume(s)
+ 15,375	 93,243
+
+ 
+e)	Date of the transaction	2021-03-09; (UTC )
+f)	Place of the transaction	Oslo Stock Exchange
+MIC: XOSL
+
+ 
+
+1 	Details of the person discharging managerial responsibilities/person closely associated
+a)	Name	Perry van Echtelt
+2 	Reason for the notification 
+a)	Position/status	CFO
+b)	Initial notification/Amendment	Initial 
+3 	Details of issuer
+a)	Name	Hafnia Limited
+b)	LEI	549300WO3JBM1IK73M35
+4 	Details of the transaction(s): section to be repeated for (i) each type of instrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted 
+a)	Description of the financial instrument, type of instrument
+Identification code	Options with shares in Hafnia Limited (ISIN: BMG4233B1090) as underlying 
+b)	Nature of the transaction	Granting of stock options to employee as part of his remuneration package.
+ 
+c)	Price(s) and volume(s)	Price(s)	Volume(s)
+ 0	 296,112
+
+ 
+d)	Aggregated information
+—	Aggregated volume
+—	Price
+	Price(s)	Volume(s)
+ 0	 296,112
+
+ 
+e)	Date of the transaction	2021-03-09; (UTC )
+f)	Place of the transaction	Outside a trading venue

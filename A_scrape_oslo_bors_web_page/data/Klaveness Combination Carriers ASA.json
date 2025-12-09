@@ -1,0 +1,312 @@
+[
+  {
+    "date": "15.05.2025 22:01",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Mandatory notification of trade\nKCC: Mandatory notification of trade\nW\nW\nKCC: Mandatory notification of trade",
+    "link": "/message/646607",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.03.2025 17:55",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transactions by primary insiders\nKCC: Transactions by primary insiders\nW\nW\nKCC: Transactions by primary insiders",
+    "link": "/message/642681",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.05.2024 16:00",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transactions by primary insiders\nKCC: Transactions by primary insiders\nW\nW\nKCC: Transactions by primary insiders",
+    "link": "/message/619262",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2024 16:15",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Mandatory notification of trade\nKCC: Mandatory notification of trade\nW\nW\nKCC: Mandatory notification of trade",
+    "link": "/message/611173",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.11.2023 14:21",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Exercise of share options (PDMR notice)\nKCC: Exercise of share options (PDMR notice)\nW\nW\nKCC: Exercise of share options (PDMR notice)",
+    "link": "/message/603055",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.09.2023 16:20",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transaction by primary insider\nKCC: Transaction by primary insider\nW\nW\nKCC: Transaction by primary insider",
+    "link": "/message/599284",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.09.2023 14:06",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Exercise of warrants and transactions by closely associated parties of primary insiders\nKCC: Exercise of warrants and transactions by closely associated parties of primary insiders\nW\nW\nKCC: Exercise of warrants and transactions by closely associated parties of primary insiders",
+    "link": "/message/598854",
+    "Corr": "",
+    "Attach": "5",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.09.2023 12:50",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Exercise of warrants and transactions by closely associated parties of primary insiders\nKCC: Exercise of warrants and transactions by closely associated parties of primary insiders\nW\nW\nKCC: Exercise of warrants and transactions by closely associated parties of primary insiders",
+    "link": "/message/598832",
+    "Corr": "",
+    "Attach": "4",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.06.2023 14:30",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transaction by closely associated party of a primary insider\nKCC: Transaction by closely associated party of a primary insider\nW\nW\nKCC: Transaction by closely associated party of a primary insider",
+    "link": "/message/594554",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.06.2023 14:12",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transactions by primary insider\nKCC: Transactions by primary insider\nW\nW\nKCC: Transactions by primary insider",
+    "link": "/message/593975",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.06.2023 14:37",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Correction: Transaction by closely associated party of a primary insider\nKCC: Correction: Transaction by closely associated party of a primary insider\nW\nW\nKCC: Correction: Transaction by closely associated party of a primary insider",
+    "link": "/message/592486",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.06.2023 14:31",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transaction by primary insider\nKCC: Transaction by primary insider\nW\nW\nKCC: Transaction by primary insider",
+    "link": "/message/592381",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.05.2023 08:53",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transaction by primary insider\nKCC: Transaction by primary insider\nW\nW\nKCC: Transaction by primary insider",
+    "link": "/message/591754",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.05.2023 14:52",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Transaction by closely associated party of a primary insider\nKCC: Transaction by closely associated party of a primary insider\nW\nW\nKCC: Transaction by closely associated party of a primary insider",
+    "link": "/message/591695",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.03.2023 07:16",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Disclosure of large shareholding and transaction by closely associated party of a primary insider\nKCC: Disclosure of large shareholding and transaction by closely associated party of a primary insider\nW\nW\nKCC: Disclosure of large shareholding and transaction by closely associated party of a primary insider",
+    "link": "/message/583937",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.02.2023 08:57",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Settlement of share options (PDMR notice)\nKCC: Settlement of share options (PDMR notice)\nW\nW\nKCC: Settlement of share options (PDMR notice)",
+    "link": "/message/583480",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.05.2022 10:35",
+    "market": "XOSL",
+    "IssuerID": "KCC",
+    "message": "KCC: Disclosure of shareholding and transactions by closely associated parties of a primary insider\nKCC: Disclosure of shareholding and transactions by closely associated parties of a primary insider\nW\nW\nKCC: Disclosure of shareholding and transactions by closely associated parties of a primary insider",
+    "link": "/message/561989",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.12.2021 11:09",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "KCC: Internal shareholder reorganisation - disclosure of shareholding and transactions by closely associated parties of a primary insider\nKCC: Internal shareholder reorganisation - disclosure of shareholding and transactions by closely associated parties of a primary insider\nW\nW\nKCC: Internal shareholder reorganisation - disclosure of shareholding and transactions by closely associated parties of a primary insider",
+    "link": "/message/548996",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.11.2021 09:05",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Klaveness Combination Carriers ASA – Transactions by closely associated party of a primary insider\nKlaveness Combination Carriers ASA – Transactions by closely associated party of a primary insider\nW\nW\nKlaveness Combination Carriers ASA – Transactions by closely associated party of a primary insider",
+    "link": "/message/545951",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.11.2021 08:39",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Klaveness Combination Carriers ASA – Key information regarding subsequent offering\nKlaveness Combination Carriers ASA – Key information regarding subsequent offering\nW\nW\nKlaveness Combination Carriers ASA – Key information regarding subsequent offering",
+    "link": "/message/545940",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.11.2021 08:30",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Klaveness Combination Carriers ASA – Transactions by closely associated party of a primary insider\nKlaveness Combination Carriers ASA – Transactions by closely associated party of a primary insider\nW\nW\nKlaveness Combination Carriers ASA – Transactions by closely associated party of a primary insider",
+    "link": "/message/545938",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.03.2020 20:25",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/499857",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.03.2020 10:55",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/499791",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.03.2020 19:44",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/499728",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2020 19:15",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/499389",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.03.2020 12:26",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insiders\nMandatory notification of trade by Primary Insiders\nW\nW\nMandatory notification of trade by Primary Insiders",
+    "link": "/message/498022",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.03.2020 14:47",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/497795",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.03.2020 16:17",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/497669",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.03.2020 17:48",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/497274",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.12.2019 19:10",
+    "market": "XOSL, XOAX",
+    "IssuerID": "KCC",
+    "message": "Mandatory notification of trade by Primary Insider\nMandatory notification of trade by Primary Insider\nW\nW\nMandatory notification of trade by Primary Insider",
+    "link": "/message/492722",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.12.2019 08:40",
+    "market": "XOAX, XOAM",
+    "IssuerID": "KCC",
+    "message": "Grant of share options\nGrant of share options\nW\nW\nGrant of share options",
+    "link": "/message/492675",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

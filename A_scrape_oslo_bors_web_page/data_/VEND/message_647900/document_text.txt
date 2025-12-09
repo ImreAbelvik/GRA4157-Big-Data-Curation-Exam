@@ -1,0 +1,77 @@
+Oslo, Norway -- Elliptic Labs (OSE: ELABS), a global AI software company and
+leader in Virtual Smart Sensors, has issued an update regarding the granting
+of share options under the Company's long-term share option program.
+
+The board of directors has resolved to grant a total of 275,000 share options
+to certain members of the Board. The resolution to grant these options was
+made at the Annual General Meeting (AGM) held on May 21, 2025.
+
+Each option, when exercised, carries the right to acquire one share in the
+Company. The strike price for these options is NOK 9.36, which is the 10-day
+average volume-weighted share price prior to calling the 2025 AGM. The price
+of the Options to the Board is based on the Black & Scholes model.
+
+With this new grant, the total number of options outstanding in the Company
+now permits employees, management and Board of directors to potentially
+acquire up to 7,759,442 shares in aggregate, which is approximately 6.9% of
+the total diluted share capital.
+
+Grant Details:
+
+* Svenn Tore Larsen (Chair) has been granted 98,000 share options. Following
+  the grant, Larsen holds 154,000 share options in the Company.
+* Ingrid Leisner (Member) has been granted 59,000 share options. Following the
+  grant, Leitner holds 93,000 share options in the Company.
+* Berit Svendsen (Member) has been granted 59,000 share options. Following the
+  grant, Svendsen 93,000 share options and 18,000 shares in the Company
+* Svein Egil Nielsen (Member) has been granted 59,000 share options. Following
+  the grant, Nielsen holds 93,000 share options in the Company
+
+Edvin Austbø (Member) has chosen not to receive options. He will receive the
+standard remuneration of 300,000 NOK in accordance with the resolution made at
+the Annual General Meeting.
+
+Structure:
+The Options will have a vesting period until the date that is 12 months after
+the date of the 2025 AGM ("Vesting Date") and can only be exercised between
+the Vesting Date and the date that is 24 months after the date of the 2025 AGM
+("Expiry Date"). In the event a member of the Board resigns or is not
+re-elected prior to the Vesting Date, the Options will lapse, except a number
+of Options representing the period served since the 2025 AGM until the date of
+resignation, pro rata in relation to the period from the 2025 AGM until the
+Vesting Date.
+
+Contacts
+Investor Relations: 
+Lars Holmøy
+Lars.Holmoy@ellipticlabs.com
+
+PR Contact:
+Patrick Tsui
+pr@ellipticlabs.com
+
+About Elliptic Labs
+Elliptic Labs' AI Virtual Smart Sensor PlatformTM brings contextual
+intelligence to devices, enhancing user experiences. Our technology uses
+proprietary deep neural networks to create AI-powered Virtual Smart Sensors
+that improve personalization, privacy, and productivity.
+
+Currently deployed in over 500 million devices, our platform works across all
+devices, operating systems, platforms, and applications.  By utilizing
+system-level telemetry data to cloud-based Large Language Models (LLMs), the
+AI Virtual Smart Sensor Platform delivers the unrivaled capability to utilize
+output data from every available data source. This approach allows devices to
+better understand and respond to their environment, making technology more
+intuitive and user-friendly. At Elliptic Labs, we're not just adapting to the
+future of technology -- we're actively shaping it. Our goal is to continue
+pushing the boundaries of contextual intelligence, creating more intuitive and
+powerful experiences for users worldwide.
+
+Elliptic Labs is headquartered in Norway with presence in the USA, China,
+South-Korea, Taiwan, and Japan. The company is listed on the Oslo Stock
+Exchange.  Its technology and IP are developed in Norway and are solely owned
+by the company.
+
+This information has been submitted pursuant to the Securities Trading Act §
+5-12 and MAR Article 17. The information was submitted for publication at
+2025-05-28 15:30 CEST.

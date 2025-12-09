@@ -1,0 +1,67 @@
+Copenhagen, 2015-03-20 13:57 CET (GLOBE NEWSWIRE) --
+Announcement no. 21
+
+
+
+
+
+In accordance with section 28a of the Danish Securities Trading Act, DFDS A/S
+is disclosing information on trading in the shares and associated securities of
+DFDS A/S undertaken by senior employees or their related parties. 
+
+
+Niels Smedegaard
+
+Exercise of options
+
+Name: Niels Smedegaard
+Cause: CEO of DFDS
+
+Issuer: DFDS A/S
+ISIN: DK0010259027
+Designation: Share options
+Transaction: Exercise of share options
+Trading date: 20 March 2015
+
+
+
+NAME             TRANSACTION              NO      PRICE    TOTAL PURCHASE PRICE,
+                                                                             DKK
+Niels            Exercise of share        10,000  442.00               4,420,000
+ Smedegaard       options                                                       
+
+
+
+NAME             TRANSACTION              NO      PRICE    TOTAL PURCHASE PRICE,
+                                                                             DKK
+Niels            Exercise of share        15,000  346.00               5,190,000
+ Smedegaard       options                                                       
+
+
+
+Torben Carlsen
+
+Exercise of options
+
+Name: Torben Carlsen
+Cause: CFO of DFDS
+
+Issuer: DFDS A/S
+ISIN: DK0010259027
+Designation: Share options
+Transaction: Exercise of share options
+Trading date: 20 March 2015
+
+
+
+NAME           TRANSACTION               NO      PRICE    TOTAL  PURCHASE PRICE,
+                                                                             DKK
+Torben         Exercise of share         10,000  442.00                4,420,000
+ Carlsen        options                                                         
+
+
+
+NAME            TRANSACTION              NO      PRICE     TOTAL PURCHASE PRICE,
+                                                                             DKK
+Torben Carlsen  Exercise of share        15,000  346.00                5,190,000
+                 options

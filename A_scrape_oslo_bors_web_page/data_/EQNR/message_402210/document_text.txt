@@ -1,0 +1,25 @@
+
+
+
+This is a correction of the announcement from 08:24 10.05.2016 CEST. Reason for
+the correction: Missing number in the share trading reporting of a primary
+insider's spouse.
+
+Some shares of a primary insider's spouse was missing in the reporting of share
+trading on behalf of Statoil ASA (OSE:STL, NYSE:STO) on 10 May 2016.
+
+As a participant in Statoil's Long Term Incentive share saving program, primary
+insider Hans Jakob Hegge in Statoil ASA has on 10 May 2016 been allocated shares
+at an average price of NOK 136,38 per share:
+
+Name: Hans Jakob Hegge
+Allocated shares: 122
+New share holding: 26185
+
+This information is subject to the disclosure requirements pursuant to section
+5-12 of the Norwegian Securities Trading Act.
+
+
+
+[HUG#2013881] 
+    

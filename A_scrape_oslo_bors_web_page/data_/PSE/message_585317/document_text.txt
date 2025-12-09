@@ -1,0 +1,36 @@
+Notification by entity closely associated to persons discharging managerial responsibilities.
+
+Details of the person closely associated:	
+ Petrolia Invest AS (org no 992 848 405)
+	
+The reason for the notification: 
+ Petrolia Invest AS is a 100% owned Norwegian subsidiary of the Issuer 
+
+The name of the relevant issuer:
+ Petrolia SE (org no SE14). 
+ LEI: 213800314VQ2TXFPB471
+
+Description and the identifier of the financial instrument: 
+ ISIN: CY0102630916
+ Ticker at EURONEXT Oslo Børs: “PSE” 
+ 	
+The nature of the transaction(s):
+ Acquisition
+
+The date and place of the transaction(s): 
+ 14 and 15 March 2023 at EURONEXT Oslo Børs
+
+The price and volume of the transaction(s):
+ 14 March 2023: 52,071 shares at NOK 4.1882 per share, Total NOK 218,083.45
+ 15 March 2023: 47,929 shares at NOK 4.0308 per share, Total NOK 193,192.21
+
+ Total acquisition is thus 100,000 shares at an average cost of NOK 4.11276 per share.
+ Total NOK 411,275.98
+
+
+This information is subject to the disclosure pursuant to article 19 of the EU Market Abuse Regulation, as implemented in the Norwegian Securities Trading Act.
+
+Contact:
+ Sølve Nilsen (CFO)
+ Mobile: +47 951 79 269
+ Solve.nilsen@petrolia.eu

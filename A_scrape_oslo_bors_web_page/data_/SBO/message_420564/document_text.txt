@@ -1,0 +1,10 @@
+Selskap (utsteder): Selvaag Bolig ASA
+Primærinnsiders navn (nærståendes, dersom det er 
+nærstående som handler): Magnus Kristiansen
+Stilling/verv: Konsernregnskapssjef / Varamedlem 
+styret Selvaag Bolig ASA
+Type transaksjon (kjøp, salg, tegning, bytte etc): Kjøp
+Antall aksjer (andre finansielle instrumenter): 1.002
+Kurs (NOK): 40,90
+Marked (Oslo Børs/annet marked): Oslo Børs
+Primærinnsiders beholdning etter handelen: 10.000

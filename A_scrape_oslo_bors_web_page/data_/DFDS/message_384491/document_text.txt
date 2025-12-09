@@ -1,0 +1,41 @@
+Announcement no. 69
+
+
+
+In accordance with section 28a of the Danish Securities Trading Act, DFDS A/S
+is disclosing information on trading in the shares and associated securities of
+DFDS A/S undertaken by senior employees or their related parties. 
+
+
+
+
+
+Niels Smedegaard
+
+Sale of shares
+
+Name:             Niels Smedegaard
+
+Cause:             CEO of DFDS
+
+
+Issuer:             DFDS A/S
+
+ISIN:               DK0010259027
+
+Trading place:  OMX Copenhagen
+
+Designation:    Shares
+
+Transaction:    Sale
+
+Trading date:   27 August 2015
+
+
+
+
+
+NAME              TRANSACTION     NO.     PRICE  TOTAL VALUE, DKK
+-----------------------------------------------------------------
+Niels Smedegaard  Sale         15,000  1,065.71        15,985,620
+-----------------------------------------------------------------

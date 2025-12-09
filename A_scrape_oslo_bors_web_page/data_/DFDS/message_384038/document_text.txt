@@ -1,0 +1,79 @@
+Copenhagen, 2015-08-21 17:30 CEST (GLOBE NEWSWIRE) --
+In accordance with section 28a of the Danish Securities Trading Act, DFDS A/S
+is dis-closing information on trading in the shares and associated securities
+of DFDS A/S undertaken by senior employees or their related parties. 
+
+
+
+Niels Smedegaard
+Sale of shares
+Name: Niels Smedegaard
+Cause: CEO of DFDS
+
+Issuer: DFDS A/S
+ISIN: DK0010259027
+Trading place: OMX Copenhagen
+Designation: Shares
+Transaction: Sale
+Trading date: 21 August 2015
+
+            NAME  TRANSACTION     NO.     PRICE  TOTAL VALUE, DKK
+-----------------------------------------------------------------
+Niels Smedegaard         Sale  20,000  1,042.71        20,854,140
+-----------------------------------------------------------------
+
+                                                                                
+
+
+
+Torben Carlsen
+Exercise of options
+Name: Torben Carlsen
+Cause: CFO of DFDS
+
+Issuer: DFDS A/S
+ISIN: DK0010259027
+Designation: Share options
+Transaction: Exercise of share options
+Trading date: 20 August 2015
+
+
+
+          NAME                TRANSACTION    NO.   PRICE  TOTAL VALUE, DKK
+--------------------------------------------------------------------------
+Torben Carlsen  Exercise of share options  8,524  346.00         2,949,304
+--------------------------------------------------------------------------
+
+                                                                                
+
+
+
+Sale of shares
+Name: Torben Carlsen
+Cause: CFO of DFDS
+
+Issuer: DFDS A/S
+ISIN: DK0010259027
+Trading place: OMX Copenhagen
+Designation: Shares
+Transaction: Sale
+Trading date: 21 August 2015
+
+NAME            TRANSACTION     NO.     PRICE  TOTAL VALUE, DKK
+---------------------------------------------------------------
+Torben Carlsen  Sale         16,000  1,038.25        16,612,000
+---------------------------------------------------------------
+
+
+
+Contact
+
+
+         Niels Smedegaard, CEO
+         +45 33 42 34 00
+         
+         Torben Carlsen, CFO
+         +45 33 42 32 01
+         
+         Søren Brøndholt Nielsen, IR
+         +45 33 42 33 59

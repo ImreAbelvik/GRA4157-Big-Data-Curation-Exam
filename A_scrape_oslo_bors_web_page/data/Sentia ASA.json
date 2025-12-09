@@ -1,0 +1,62 @@
+[
+  {
+    "date": "10.09.2025 21:31",
+    "market": "XOSL",
+    "IssuerID": "SNTIA",
+    "message": "Primærinnsiderhandel\nPrimærinnsiderhandel\nW\nW\nPrimærinnsiderhandel",
+    "link": "/message/655084",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.09.2025 21:31",
+    "market": "XOSL",
+    "IssuerID": "SNTIA",
+    "message": "Mandatory notification of trade from primary insiders\nMandatory notification of trade from primary insiders\nW\nW\nMandatory notification of trade from primary insiders",
+    "link": "/message/655083",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.06.2025 17:07",
+    "market": "XOSL",
+    "IssuerID": "SNTIA",
+    "message": "Sentia: Meldepliktig handel\nSentia: Meldepliktig handel\nW\nW\nSentia: Meldepliktig handel",
+    "link": "/message/649154",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.06.2025 22:11",
+    "market": "XOSL",
+    "IssuerID": "SNTIA",
+    "message": "SENTIA Mandatory notification of trade from primary insiders\nSENTIA Mandatory notification of trade from primary insiders\nW\nW\nSENTIA Mandatory notification of trade from primary insiders",
+    "link": "/message/648913",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.06.2025 13:15",
+    "market": "XOSL",
+    "IssuerID": "SNTIA",
+    "message": "APPLICATION BY PRIMARY INSIDER\nAPPLICATION BY PRIMARY INSIDER\nW\nW\nAPPLICATION BY PRIMARY INSIDER",
+    "link": "/message/648451",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.06.2025 23:02",
+    "market": "XOSL",
+    "IssuerID": "SNTIA",
+    "message": "APPLICATIONS BY PRIMARY INSIDERS\nAPPLICATIONS BY PRIMARY INSIDERS\nW\nW\nAPPLICATIONS BY PRIMARY INSIDERS",
+    "link": "/message/648296",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

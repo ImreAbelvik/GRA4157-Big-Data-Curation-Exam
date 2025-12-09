@@ -1,0 +1,11 @@
+SIEM INDUSTRIES S.A. which is represented on the board of Subsea 7 S.A. by Kristian Siem announces that
+it has on 17 December 2020 terminated two OTC Call Option structures with underlying shares being Subsea 7
+S.A.(OSE symbol SUBC) shares. The terminated structures are for an aggregate of 2,629,000 shares, with
+details as follows:
+
+Expiry          Underlying shares        Strike Price NOK
+2021 May 21     349,000                  94
+2021 May 23     2,280,000                103
+
+Following this transaction, the total number of put and call options available to Siem Industries SA. is
+8,172,200 and the aggregate number of shares held by Siem Industries SA. remains unchanged at 73,522,977.

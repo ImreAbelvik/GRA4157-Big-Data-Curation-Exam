@@ -1,0 +1,272 @@
+[
+  {
+    "date": "11.09.2025 18:02",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility Group Holding ASA: Mandatory notification of trade\nLINK Mobility Group Holding ASA: Mandatory notification of trade\nW\nW\nLINK Mobility Group Holding ASA: Mandatory notification of trade",
+    "link": "/message/655250",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.06.2025 08:10",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility – Mandatory notification of trade\nLINK Mobility – Mandatory notification of trade\nW\nW\nLINK Mobility – Mandatory notification of trade",
+    "link": "/message/650194",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.11.2024 12:05",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Mandatory notification of trade\nLINK Mobility - Mandatory notification of trade\nW\nW\nLINK Mobility - Mandatory notification of trade",
+    "link": "/message/633382",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.07.2024 19:12",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/622885",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.06.2024 11:31",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Mandatory notification of trade\nLINK Mobility - Mandatory notification of trade\nW\nW\nLINK Mobility - Mandatory notification of trade",
+    "link": "/message/620626",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.10.2023 11:33",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Exercise of RSUs into shares\nLINK Mobility - Exercise of RSUs into shares\nW\nW\nLINK Mobility - Exercise of RSUs into shares",
+    "link": "/message/602398",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.06.2023 15:55",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Mandatory notification of trade\nLINK Mobility - Mandatory notification of trade\nW\nW\nLINK Mobility - Mandatory notification of trade",
+    "link": "/message/594560",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.06.2023 18:30",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Employee Share Purchase Program (ESPP) share issuance\nLINK Mobility - Employee Share Purchase Program (ESPP) share issuance\nW\nW\nLINK Mobility - Employee Share Purchase Program (ESPP) share issuance",
+    "link": "/message/592508",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.06.2023 20:25",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Amendment of LTI Program and grant of LTI share options to management\nLINK Mobility - Amendment of LTI Program and grant of LTI share options to management\nW\nW\nLINK Mobility - Amendment of LTI Program and grant of LTI share options to management",
+    "link": "/message/592308",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.11.2022 15:55",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Employee share purchase program (ESPP) share issuance\nLINK Mobility - Employee share purchase program (ESPP) share issuance\nW\nW\nLINK Mobility - Employee share purchase program (ESPP) share issuance",
+    "link": "/message/576673",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.11.2022 17:45",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Exercise of RSUs into shares\nLINK Mobility - Exercise of RSUs into shares\nW\nW\nLINK Mobility - Exercise of RSUs into shares",
+    "link": "/message/575698",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.09.2022 20:19",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Grant of options to chairperson\nLINK Mobility - Grant of options to chairperson\nW\nW\nLINK Mobility - Grant of options to chairperson",
+    "link": "/message/570391",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.06.2022 15:35",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility - Employee share purchase program (ESPP) share issuance\nLINK Mobility - Employee share purchase program (ESPP) share issuance\nW\nW\nLINK Mobility - Employee share purchase program (ESPP) share issuance",
+    "link": "/message/564177",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.12.2021 12:18",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility – Issuance of LTI share options to management\nLINK Mobility – Issuance of LTI share options to management\nW\nW\nLINK Mobility – Issuance of LTI share options to management",
+    "link": "/message/549416",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.11.2021 18:39",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/548035",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.11.2021 17:58",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility – Exercise of RSUs into shares\nLINK Mobility – Exercise of RSUs into shares\nW\nW\nLINK Mobility – Exercise of RSUs into shares",
+    "link": "/message/546689",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.11.2021 20:55",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/545876",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.06.2021 16:23",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/536937",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.06.2021 13:58",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/536829",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.06.2021 13:36",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Disclosure of large shareholding\nDisclosure of large shareholding\nW\nW\nDisclosure of large shareholding",
+    "link": "/message/536779",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.06.2021 09:43",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/536562",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.03.2021 11:15",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/529466",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.03.2021 16:35",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/529284",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.03.2021 10:28",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/529054",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2021 16:40",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/528676",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.03.2021 15:58",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "Trade subject to notification for primary insiders\nTrade subject to notification for primary insiders\nW\nW\nTrade subject to notification for primary insiders",
+    "link": "/message/527176",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.10.2020 07:30",
+    "market": "XOSL",
+    "IssuerID": "LINK",
+    "message": "LINK Mobility – Allocation of shares to primary insiders\nLINK Mobility – Allocation of shares to primary insiders\nW\nW\nLINK Mobility – Allocation of shares to primary insiders",
+    "link": "/message/515938",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

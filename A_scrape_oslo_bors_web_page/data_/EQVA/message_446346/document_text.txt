@@ -1,0 +1,10 @@
+Name of notifier: Frank-Levi Kvalsund
+Reason for notification: [Notinfier's own trading]
+Name of issuer of the financial instrument: HYARD
+Description of the financial instrument: Share
+Type of transaction: [purchase]
+Time of transaction: 13.03.2018
+Marketplace for transaction: Oslo Børs
+Price per share: NOK; 14,00
+Transaction of volume: 1.500
+New holding after the transaction: 3.656

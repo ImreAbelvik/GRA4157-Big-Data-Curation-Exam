@@ -1,0 +1,9 @@
+Navn meldepliktig: Bjarte Gudmundsen
+Bakgrunn for melding: Salg av aksjer fra primærinnsider Utsteder av finansielt instrument: Bouvet ASA 
+Beskrivelse av det finansielle instrumentet: Aksjer 
+Type transaksjon: Salg 
+Dato: 18.11.2020 
+Markedsplass for transaksjonen: Oslo Børs 
+Gjennomsnittlig kurs: 654,76 NOK 
+Antall: 4000 
+Ny beholdning etter transaksjonen: 7053

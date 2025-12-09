@@ -1,0 +1,42 @@
+[
+  {
+    "date": "12.02.2024 16:59",
+    "market": "XOSL, XOAM",
+    "IssuerID": "STORB",
+    "message": "Storebrand Boligkreditt AS: Meldepliktig handel i obligasjoner\nStorebrand Boligkreditt AS: Meldepliktig handel i obligasjoner\nW\nW\nStorebrand Boligkreditt AS: Meldepliktig handel i obligasjoner",
+    "link": "/message/610534",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.02.2024 16:59",
+    "market": "XOSL, XOAM",
+    "IssuerID": "STORB",
+    "message": "Storebrand Boligkreditt AS: Notice of transaction in bonds\nStorebrand Boligkreditt AS: Notice of transaction in bonds\nW\nW\nStorebrand Boligkreditt AS: Notice of transaction in bonds",
+    "link": "/message/610533",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.02.2024 15:36",
+    "market": "XOSL, XOAM",
+    "IssuerID": "STORB",
+    "message": "Storebrand Boligkreditt AS: Notice of transaction in bonds\nStorebrand Boligkreditt AS: Notice of transaction in bonds\nW\nW\nStorebrand Boligkreditt AS: Notice of transaction in bonds",
+    "link": "/message/610289",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.02.2024 15:36",
+    "market": "XOSL, XOAM",
+    "IssuerID": "STORB",
+    "message": "Storebrand Boligkreditt AS: Meldepliktig handel i obligasjoner\nStorebrand Boligkreditt AS: Meldepliktig handel i obligasjoner\nW\nW\nStorebrand Boligkreditt AS: Meldepliktig handel i obligasjoner",
+    "link": "/message/610288",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

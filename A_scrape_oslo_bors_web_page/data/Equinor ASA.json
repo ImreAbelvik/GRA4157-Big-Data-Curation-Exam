@@ -1,0 +1,2612 @@
+[
+  {
+    "date": "22.05.2025 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/647131",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.05.2025 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/647130",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.02.2025 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/638756",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.02.2025 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/638755",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.02.2025 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/638009",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.02.2025 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/638008",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.12.2024 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/634424",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.12.2024 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/634423",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.10.2024 13:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/630437",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.10.2024 13:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/630436",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.06.2024 13:27",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/621782",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.06.2024 13:27",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/621781",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.05.2024 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/619172",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.05.2024 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/619171",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.04.2024 13:26",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Notifiable trading - Equinor ASA\nNotifiable trading - Equinor ASA\nW\nW\nNotifiable trading - Equinor ASA",
+    "link": "/message/617334",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.04.2024 13:26",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Meldepliktig handel - Equinor ASA\nMeldepliktig handel - Equinor ASA\nW\nW\nMeldepliktig handel - Equinor ASA",
+    "link": "/message/617333",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.02.2024 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/610355",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.02.2024 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/610354",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.02.2024 14:24",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/610083",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.02.2024 14:24",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/610082",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.11.2023 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/604297",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.11.2023 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/604296",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.10.2023 14:21",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/602533",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.10.2023 14:21",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/602532",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.10.2023 13:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/602417",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.10.2023 13:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/602416",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2023 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/591027",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2023 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/591026",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.05.2023 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/590828",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.05.2023 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/590827",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.05.2023 14:13",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/589567",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.05.2023 14:13",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/589566",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.02.2023 07:54",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/581974",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.02.2023 07:54",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/581973",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.11.2022 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/576128",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.11.2022 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/576127",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.10.2022 10:22",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/574307",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "31.10.2022 10:22",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/574306",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.09.2022 07:30",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/572045",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.09.2022 07:30",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/572044",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.08.2022 14:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/569850",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.08.2022 14:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/569849",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.08.2022 11:50",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/567680",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.08.2022 11:50",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/567679",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2022 09:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Correction: Equinor ASA - Notifiable trading\nCorrection: Equinor ASA - Notifiable trading\nW\nW\nCorrection: Equinor ASA - Notifiable trading",
+    "link": "/message/562832",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2022 09:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Korreksjon: Equinor ASA - Meldepliktig handel\nKorreksjon: Equinor ASA - Meldepliktig handel\nW\nW\nKorreksjon: Equinor ASA - Meldepliktig handel",
+    "link": "/message/562831",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2022 10:03",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/557419",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2022 10:03",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/557418",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.01.2022 16:09",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/551878",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.01.2022 16:09",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/551879",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.01.2022 07:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor's share savings plan allocates shares\nEquinor's share savings plan allocates shares\nW\nW\nEquinor's share savings plan allocates shares",
+    "link": "/message/551566",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.01.2022 07:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinors aksjespareprogram viderefordeler aksjer\nEquinors aksjespareprogram viderefordeler aksjer\nW\nW\nEquinors aksjespareprogram viderefordeler aksjer",
+    "link": "/message/551565",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.01.2022 15:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/551148",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.01.2022 15:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/551147",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.12.2021 08:12",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/550521",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.12.2021 08:12",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/550520",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.12.2021 12:47",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/549006",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.12.2021 12:47",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/549005",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.10.2021 17:01",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/545428",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.10.2021 17:01",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/545427",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.10.2021 15:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/545261",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.10.2021 15:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktige handler\nEquinor ASA: Meldepliktige handler\nW\nW\nEquinor ASA: Meldepliktige handler",
+    "link": "/message/545262",
+    "Corr": "",
+    "Attach": "3",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.09.2021 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/541914",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.09.2021 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/541913",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.09.2021 12:23",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/541688",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.09.2021 12:23",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/541687",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.08.2021 15:07",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/541165",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.08.2021 15:07",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/541164",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.07.2021 14:17",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/538698",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.07.2021 14:17",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/538697",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2021 16:44",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/536306",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2021 16:44",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/536305",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2021 14:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/536280",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2021 14:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/536279",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.01.2021 10:56",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/522919",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.01.2021 10:56",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/522920",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.06.2020 07:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/506935",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.06.2020 07:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/506934",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.03.2020 07:30",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Notifiable trading - Equinor ASA\nNotifiable trading - Equinor ASA\nW\nW\nNotifiable trading - Equinor ASA",
+    "link": "/message/497287",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.03.2020 07:30",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Meldepliktig handel - Equinor ASA\nMeldepliktig handel - Equinor ASA\nW\nW\nMeldepliktig handel - Equinor ASA",
+    "link": "/message/497286",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.09.2019 13:48",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/485422",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.09.2019 13:48",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/485421",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.08.2019 07:40",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Notifiable trading – Equinor ASA\nNotifiable trading – Equinor ASA\nW\nW\nNotifiable trading – Equinor ASA",
+    "link": "/message/483421",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.08.2019 07:40",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Meldepliktig handel - Equinor ASA\nMeldepliktig handel - Equinor ASA\nW\nW\nMeldepliktig handel - Equinor ASA",
+    "link": "/message/483420",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.08.2019 11:21",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel – Korrigert melding\nEquinor ASA: Meldepliktig handel – Korrigert melding\nW\nW\nEquinor ASA: Meldepliktig handel – Korrigert melding",
+    "link": "/message/483108",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.08.2019 11:21",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading – Correction\nEquinor ASA: Notifiable trading – Correction\nW\nW\nEquinor ASA: Notifiable trading – Correction",
+    "link": "/message/483107",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.08.2019 13:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/482691",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.08.2019 13:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/482690",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.08.2019 11:21",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/482590",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.08.2019 11:21",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/482589",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.08.2019 11:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Meldepliktig handel - Equinor ASA\nMeldepliktig handel - Equinor ASA\nW\nW\nMeldepliktig handel - Equinor ASA",
+    "link": "/message/482100",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.08.2019 11:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Notifiable trading – Equinor ASA\nNotifiable trading – Equinor ASA\nW\nW\nNotifiable trading – Equinor ASA",
+    "link": "/message/482099",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.07.2019 11:31",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Meldepliktige handler - Equinor ASA\nMeldepliktige handler - Equinor ASA\nW\nW\nMeldepliktige handler - Equinor ASA",
+    "link": "/message/481903",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.07.2019 11:31",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Notifiable trading – Equinor ASA\nNotifiable trading – Equinor ASA\nW\nW\nNotifiable trading – Equinor ASA",
+    "link": "/message/481902",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.05.2019 15:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/476381",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.05.2019 15:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/476380",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2019 12:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/472751",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2019 12:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/472750",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.02.2019 17:47",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/470623",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.02.2019 17:47",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/470622",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.02.2019 12:08",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/469281",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.02.2019 12:08",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/469280",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.10.2018 08:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/462249",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "29.10.2018 08:11",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/462248",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.09.2018 09:38",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/458652",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.09.2018 09:38",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/458651",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.06.2018 14:22",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/453811",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.06.2018 14:22",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/453810",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.06.2018 11:23",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Notifiable trading\nEquinor ASA: Notifiable trading\nW\nW\nEquinor ASA: Notifiable trading",
+    "link": "/message/453123",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.06.2018 11:23",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Equinor ASA: Meldepliktig handel\nEquinor ASA: Meldepliktig handel\nW\nW\nEquinor ASA: Meldepliktig handel",
+    "link": "/message/453122",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.05.2018 15:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/451208",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.05.2018 15:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/451207",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2018 13:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/451016",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2018 13:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/451015",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2018 10:39",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/450983",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2018 10:39",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/450982",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.05.2018 12:16",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/450237",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.05.2018 12:16",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/450236",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.04.2018 20:44",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/448007",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.04.2018 20:44",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/448006",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2017 13:15",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/441509",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2017 13:15",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/441508",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.11.2017 10:09",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/437764",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.11.2017 10:09",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/437763",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2017 08:01",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/427979",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2017 08:01",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/427978",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.04.2017 08:04",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/425075",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.04.2017 08:04",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/425074",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.01.2017 07:31",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil's share saving plan allocates shares\nStatoil ASA: Statoil's share saving plan allocates shares\nW\nW\nStatoil ASA: Statoil's share saving plan allocates shares",
+    "link": "/message/418182",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.01.2017 07:31",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/418181",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.01.2017 07:34",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/417943",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.01.2017 07:34",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/417942",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.12.2016 08:28",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Allocation of Dividend Shares to primary insiders\nStatoil ASA: Allocation of Dividend Shares to primary insiders\nW\nW\nStatoil ASA: Allocation of Dividend Shares to primary insiders",
+    "link": "/message/416028",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.12.2016 08:28",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Tildeling av Utbytteaksjer til primærinnsidere\nStatoil ASA: Tildeling av Utbytteaksjer til primærinnsidere\nW\nW\nStatoil ASA: Tildeling av Utbytteaksjer til primærinnsidere",
+    "link": "/message/416027",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2016 08:29",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/415905",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.12.2016 08:29",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil's share saving plan allocates shares\nStatoil ASA: Statoil's share saving plan allocates shares\nW\nW\nStatoil ASA: Statoil's share saving plan allocates shares",
+    "link": "/message/415904",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.12.2016 07:02",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/415680",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.12.2016 07:02",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/415679",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.11.2016 07:18",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/413996",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.11.2016 07:18",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/413995",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.11.2016 07:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/413739",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.11.2016 07:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/413737",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.10.2016 07:30",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/411468",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.10.2016 07:30",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/411467",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.10.2016 07:53",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/411255",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.10.2016 07:53",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/411254",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.09.2016 07:52",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Tildeling av Utbytteaksjer til primærinnsidere\nStatoil ASA: Tildeling av Utbytteaksjer til primærinnsidere\nW\nW\nStatoil ASA: Tildeling av Utbytteaksjer til primærinnsidere",
+    "link": "/message/409917",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.09.2016 07:52",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Allocation of Dividend Shares to primary insiders\nStatoil ASA: Allocation of Dividend Shares to primary insiders\nW\nW\nStatoil ASA: Allocation of Dividend Shares to primary insiders",
+    "link": "/message/409916",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.09.2016 07:34",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/409781",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.09.2016 07:34",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/409780",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.09.2016 07:36",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/409592",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.09.2016 07:36",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/409591",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.08.2016 07:53",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "KORREKSJON: Statoils aksjespareprogram viderefordeler aksjer\nKORREKSJON: Statoils aksjespareprogram viderefordeler aksjer\nW\nW\nKORREKSJON: Statoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/407503",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.08.2016 07:29",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/407495",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.08.2016 07:29",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/407494",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.08.2016 07:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/407303",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.08.2016 07:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/407302",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.07.2016 07:57",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/406105",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.07.2016 07:57",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil's share saving plan allocates shares\nStatoil ASA: Statoil's share saving plan allocates shares\nW\nW\nStatoil ASA: Statoil's share saving plan allocates shares",
+    "link": "/message/406104",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.07.2016 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/406046",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.07.2016 08:00",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/406044",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.06.2016 08:57",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: KORREKSJON: Feil ved rapportering av tildeling av Utbytteaksjer til primærinnsidere\nStatoil ASA: KORREKSJON: Feil ved rapportering av tildeling av Utbytteaksjer til primærinnsidere\nW\nW\nStatoil ASA: KORREKSJON: Feil ved rapportering av tildeling av Utbytteaksjer til primærinnsidere",
+    "link": "/message/404850",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.06.2016 08:57",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: CORRECTION: Error in reporting allocation of Dividend Shares to primary insiders\nStatoil ASA: CORRECTION: Error in reporting allocation of Dividend Shares to primary insiders\nW\nW\nStatoil ASA: CORRECTION: Error in reporting allocation of Dividend Shares to primary insiders",
+    "link": "/message/404849",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.06.2016 07:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Allocation of Dividend Shares to primary insiders\nStatoil ASA: Allocation of Dividend Shares to primary insiders\nW\nW\nStatoil ASA: Allocation of Dividend Shares to primary insiders",
+    "link": "/message/404716",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.06.2016 07:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Tildeling av Utbytteaksjer til primærinnsidere\nStatoil ASA: Tildeling av Utbytteaksjer til primærinnsidere\nW\nW\nStatoil ASA: Tildeling av Utbytteaksjer til primærinnsidere",
+    "link": "/message/404715",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2016 12:36",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/404410",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2016 12:36",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil's share saving plan allocates shares\nStatoil ASA: Statoil's share saving plan allocates shares\nW\nW\nStatoil ASA: Statoil's share saving plan allocates shares",
+    "link": "/message/404409",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.06.2016 07:23",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/404246",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.06.2016 07:23",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/404245",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2016 07:59",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Primærinnsidere deltar i Statoils utbytteaksjeprogram\nStatoil ASA: Primærinnsidere deltar i Statoils utbytteaksjeprogram\nW\nW\nStatoil ASA: Primærinnsidere deltar i Statoils utbytteaksjeprogram",
+    "link": "/message/402478",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2016 07:59",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Primary insiders to participate in Statoil's scrip dividend programme\nStatoil ASA: Primary insiders to participate in Statoil's scrip dividend programme\nW\nW\nStatoil ASA: Primary insiders to participate in Statoil's scrip dividend programme",
+    "link": "/message/402477",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2016 12:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil's share saving plan allocates shares\nStatoil ASA: Statoil's share saving plan allocates shares\nW\nW\nStatoil ASA: Statoil's share saving plan allocates shares",
+    "link": "/message/402410",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2016 12:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/402409",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2016 10:53",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Correction: Statoil ASA: Error in reporting of trade subject to notification\nCorrection: Statoil ASA: Error in reporting of trade subject to notification\nW\nW\nCorrection: Statoil ASA: Error in reporting of trade subject to notification",
+    "link": "/message/402210",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2016 10:53",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Korreksjon: Statoil ASA: Feil ved rapportering av meldepliktig handel\nKorreksjon: Statoil ASA: Feil ved rapportering av meldepliktig handel\nW\nW\nKorreksjon: Statoil ASA: Feil ved rapportering av meldepliktig handel",
+    "link": "/message/402209",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2016 06:51",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/402068",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2016 06:51",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/402067",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.05.2016 08:24",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/401448",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.05.2016 08:24",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/401447",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.04.2016 07:27",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil's share saving plan allocates shares\nStatoil ASA: Statoil's share saving plan allocates shares\nW\nW\nStatoil ASA: Statoil's share saving plan allocates shares",
+    "link": "/message/399577",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.04.2016 07:27",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/399576",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.04.2016 07:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/399363",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.04.2016 07:06",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/399362",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.03.2016 05:47",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/397675",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.03.2016 05:47",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/397674",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2016 07:17",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/397342",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2016 07:17",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/397341",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.02.2016 07:07",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/395274",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.02.2016 07:07",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/395273",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2016 08:15",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/395051",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2016 08:15",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/395050",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.01.2016 08:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/393358",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.01.2016 08:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/393357",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.01.2016 07:50",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/393155",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.01.2016 07:50",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/393154",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.12.2015 13:50",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "CORRECTION: Error in reporting of trade subject to notification\nCORRECTION: Error in reporting of trade subject to notification\nW\nW\nCORRECTION: Error in reporting of trade subject to notification",
+    "link": "/message/391868",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.12.2015 13:50",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "KORREKSJON: Feil ved rapportering av meldepliktig handel\nKORREKSJON: Feil ved rapportering av meldepliktig handel\nW\nW\nKORREKSJON: Feil ved rapportering av meldepliktig handel",
+    "link": "/message/391867",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.12.2015 09:18",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/391525",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.12.2015 09:18",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/391524",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.12.2015 07:55",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/391312",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.12.2015 07:55",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/391311",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.11.2015 12:04",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/390371",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.11.2015 12:04",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/390370",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.11.2015 12:16",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/389566",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.11.2015 12:16",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/389565",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.11.2015 07:34",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/389460",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.11.2015 07:34",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/389459",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.10.2015 06:56",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/387353",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.10.2015 06:56",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/387352",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.10.2015 07:35",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/387203",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.10.2015 07:35",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/387202",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.09.2015 11:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/385620",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.09.2015 11:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/385619",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.09.2015 07:56",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/385512",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.09.2015 07:56",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/385511",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.08.2015 07:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/383683",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.08.2015 07:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/383682",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.08.2015 07:46",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/383499",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.08.2015 07:46",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/383498",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.07.2015 13:15",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/382257",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.07.2015 13:15",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/382256",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.07.2015 07:20",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/382144",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.07.2015 07:20",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/382143",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2015 06:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/380448",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.06.2015 06:58",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/380447",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.06.2015 07:25",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/380372",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.06.2015 07:25",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/380371",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.05.2015 12:22",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/378620",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.05.2015 12:22",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/378619",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2015 12:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/378508",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2015 12:33",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/378507",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2015 12:36",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "KORREKSJON: Meldepliktig handel Statoil ASA\nKORREKSJON: Meldepliktig handel Statoil ASA\nW\nW\nKORREKSJON: Meldepliktig handel Statoil ASA",
+    "link": "/message/378355",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2015 12:36",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "CORRECTION: Notifiable trading Statoil ASA\nCORRECTION: Notifiable trading Statoil ASA\nW\nW\nCORRECTION: Notifiable trading Statoil ASA",
+    "link": "/message/378354",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2015 08:29",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil US Employee share savings plan viderefordeler aksjer\nStatoil US Employee share savings plan viderefordeler aksjer\nW\nW\nStatoil US Employee share savings plan viderefordeler aksjer",
+    "link": "/message/378323",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2015 08:29",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil US Employee Share Savings plan allocates shares\nStatoil US Employee Share Savings plan allocates shares\nW\nW\nStatoil US Employee Share Savings plan allocates shares",
+    "link": "/message/378322",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2015 06:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/378215",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2015 06:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/378214",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.05.2015 08:08",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/377180",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.05.2015 08:08",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/377179",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.04.2015 13:13",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil US Employee share savings plan viderefordeler aksjer\nStatoil ASA: Statoil US Employee share savings plan viderefordeler aksjer\nW\nW\nStatoil ASA: Statoil US Employee share savings plan viderefordeler aksjer",
+    "link": "/message/375945",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.04.2015 13:13",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil US Employee Share Savings plan allocates shares\nStatoil ASA: Statoil US Employee Share Savings plan allocates shares\nW\nW\nStatoil ASA: Statoil US Employee Share Savings plan allocates shares",
+    "link": "/message/375944",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.04.2015 13:32",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoil's share saving plan allocates shares\nStatoil ASA: Statoil's share saving plan allocates shares\nW\nW\nStatoil ASA: Statoil's share saving plan allocates shares",
+    "link": "/message/375645",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.04.2015 13:32",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoil ASA: Statoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/375644",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.04.2015 07:04",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Notifiable trading\nStatoil ASA: Notifiable trading\nW\nW\nStatoil ASA: Notifiable trading",
+    "link": "/message/375470",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.04.2015 07:04",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA: Meldepliktig handel\nStatoil ASA: Meldepliktig handel\nW\nW\nStatoil ASA: Meldepliktig handel",
+    "link": "/message/375469",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.03.2015 10:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Notifiable trading\nStatoil: Notifiable trading\nW\nW\nStatoil: Notifiable trading",
+    "link": "/message/373571",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.03.2015 10:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Meldepliktig handel\nStatoil: Meldepliktig handel\nW\nW\nStatoil: Meldepliktig handel",
+    "link": "/message/373570",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2015 06:49",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Meldepliktig handel\nStatoil: Meldepliktig handel\nW\nW\nStatoil: Meldepliktig handel",
+    "link": "/message/373425",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2015 06:49",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Notifiable trading\nStatoil: Notifiable trading\nW\nW\nStatoil: Notifiable trading",
+    "link": "/message/373424",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.02.2015 06:40",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA - notifiable trading\nStatoil ASA - notifiable trading\nW\nW\nStatoil ASA - notifiable trading",
+    "link": "/message/372131",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.02.2015 06:40",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil ASA - meldepliktig handel\nStatoil ASA - meldepliktig handel\nW\nW\nStatoil ASA - meldepliktig handel",
+    "link": "/message/372130",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.02.2015 08:32",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Notifiable trading\nStatoil: Notifiable trading\nW\nW\nStatoil: Notifiable trading",
+    "link": "/message/371456",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.02.2015 08:32",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Meldepliktig handel\nStatoil: Meldepliktig handel\nW\nW\nStatoil: Meldepliktig handel",
+    "link": "/message/371455",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2015 06:54",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Meldepliktig handel\nStatoil: Meldepliktig handel\nW\nW\nStatoil: Meldepliktig handel",
+    "link": "/message/371231",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2015 06:54",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Notifiable trading\nStatoil: Notifiable trading\nW\nW\nStatoil: Notifiable trading",
+    "link": "/message/371230",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.01.2015 08:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil's share saving plan allocates shares\nStatoil's share saving plan allocates shares\nW\nW\nStatoil's share saving plan allocates shares",
+    "link": "/message/369471",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.01.2015 08:42",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoils aksjespareprogram viderefordeler aksjer\nStatoils aksjespareprogram viderefordeler aksjer\nW\nW\nStatoils aksjespareprogram viderefordeler aksjer",
+    "link": "/message/369470",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.01.2015 08:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil US Employee Share Savings plan allocates shares\nStatoil US Employee Share Savings plan allocates shares\nW\nW\nStatoil US Employee Share Savings plan allocates shares",
+    "link": "/message/369369",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.01.2015 08:45",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil US Employee share savings plan viderefordeler aksjer\nStatoil US Employee share savings plan viderefordeler aksjer\nW\nW\nStatoil US Employee share savings plan viderefordeler aksjer",
+    "link": "/message/369368",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.01.2015 07:19",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Notifiable trading\nStatoil: Notifiable trading\nW\nW\nStatoil: Notifiable trading",
+    "link": "/message/369275",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.01.2015 07:19",
+    "market": "XOSL",
+    "IssuerID": "EQNR",
+    "message": "Statoil: Meldepliktig handel\nStatoil: Meldepliktig handel\nW\nW\nStatoil: Meldepliktig handel",
+    "link": "/message/369274",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

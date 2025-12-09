@@ -1,0 +1,8 @@
+•	Navn på den meldepliktige: Kjartan Reve
+•	Bakgrunn for meldingen: Handel fra primærinnsider 
+•	Navn på utsteder: Sparebanken Øst - SPOG
+•	Beskrivelse av det finansielle instrumentet: Egenkapitalbevis
+•	Type transaksjon: Kjøp
+•	Tidspunkt og marked for transaksjonen: 28.10.2020 kl 09.00 på Oslo Børs
+•	Kurs og volum på transaksjonen: kurs: 46,60 kr volum: 4.000 
+•	Beholdning etter transaksjonen: antall: 4.000

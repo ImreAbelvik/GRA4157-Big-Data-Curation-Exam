@@ -1,0 +1,12 @@
+With reference to Section 4-2 of the Norwegian Securities Trading Act ("STA"), kindly note the following primary insider trade:
+ 
+Name of listed entity:	MPC Container Ships ASA
+ISIN number:	NO0010791353
+Stock ticker:	MPCC
+Name of primary insider	Ulf Holländer
+Relation to listed entity:	Chairman of the Board of Directors
+Trade:	14,085 shares purchased
+Date:	06.03.2019
+Average price:	NOK 30.00 per share
+Primary insider’s total shareholdings post-trade:	14,085 shares
+Primary insider’s percentage shareholding post-trade:	0.0167%

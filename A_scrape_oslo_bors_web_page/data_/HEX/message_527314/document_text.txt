@@ -1,0 +1,64 @@
+Reference is made to the announcement on 22 May, 2018, in which Hexagon
+Composites ASA (the "Company") announced the grant of 1,200,000 share options to
+employees under its employee share option program, each at a strike price of NOK
+20.85 per share. Following the spin-off of Purus and resultant distribution of a
+dividend in kind amounting to 15% of that company, the strike price has been
+adjusted by the fair market value of NOK 4.095 essentially to "make whole" all
+2018 options holders. The new strike price is therefore NOK 16.80 per share.
+
+Of the 1,200,000 options, 800,000 options were granted to senior executives and
+managers listed as primary insiders.
+
+The options may be exercised in part or in full within three weeks following the
+official announcement of the financial results for the fourth quarter of 2020,
+first quarter of 2021 and second quarter of 2021.
+
+The following primary insiders have exercised options on 10 March 2021, the last
+day of the current exercise window.
+
++------------+-----------+----------+----------+----------+----------+---------+
+|            |           |          |Shares    |          |          |         |
+|            |           |          |held      |          |          |         |
+|            |           |          |before    |          |          |         |
+|            |           |Shares    |shares    |          |          |         |
+|            |           |received  |received  |Shares    |Numbers of|         |
+|            |           |upon      |upon      |held after|options   |         |
+|Primary     |Options    |exercise  |exercise  |exercise  |held after|Number of|
+|insider     |exercised  |of options|of options|of options|exercise  |PSUs held|
++------------+-----------+----------+----------+----------+----------+---------+
+|David       |           |          |          |          |          |         |
+|Bandele     |80 000     |67 112    |88 317    |155 429   |0         |121 080  |
++------------+-----------+----------+----------+----------+----------+---------+
+|George      |           |          |          |          |          |         |
+|Siedlecki   |80 000     |67 112    |46 010    |113 122   |0         |121 080  |
++------------+-----------+----------+----------+----------+----------+---------+
+
+The Company has resolved to settle the economic value of the exercised options
+through transfer of shares held in treasury and has therefore initiated the
+transfer of 134 224 treasury shares to the employees as settlement of the
+exercised options. After the transaction, the Company will hold 1 477 153
+treasury shares.
+
+To settle their tax obligation resulting from the option exercise, the following
+individuals have sold some of their shares:
+
++----------------+---------------------+----------------+----------------------+
+|                |                     |Share price sold|Total shares held     |
+|Primary insider |Number of shares sold|                |after the sale        |
++----------------+---------------------+----------------+----------------------+
+|David Bandele   |40 000               |50.9555         |115 429               |
++----------------+---------------------+----------------+----------------------+
+|George Siedlecki|40 000               |50.9555         |73 122                |
++----------------+---------------------+----------------+----------------------+
+
+For more information:
+Hiva Ghiri, VP Investor Relations, Hexagon Composites
+Telephone: +47 958 66 790 | hiva.ghiri@hexagongroup.com
+
+About Hexagon Composites
+Hexagon delivers safe and innovative solutions for a cleaner energy future. Our
+solutions enable storage, transportation and conversion to clean energy in a
+wide range of mobility, industrial and consumer applications.
+
+This information is subject to the disclosure requirements pursuant to Section
+5-12 the Norwegian Securities Trading Act

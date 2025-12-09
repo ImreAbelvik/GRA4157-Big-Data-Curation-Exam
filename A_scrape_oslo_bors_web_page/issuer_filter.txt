@@ -1,0 +1,648 @@
+2020 Bulkers Ltd.
+3T Global Bidco Plc
+4finance S.A
+5th Planet Games A/S
+A/S Eidefoss
+AB Stena Metall Finans
+ABG Sundal Collier Holding ASA
+ABL Group ASA
+ACG HoldCo 1 Limited
+ACL Holdings Limited
+ADS Maritime Holding Plc
+AF Gruppen ASA
+AKA AS
+AKVA group ASA
+AMSC ASA
+AWILCO LNG ASA
+Aasen Sparebank
+Ace Digital AS
+Advanzia Bank S.A.
+Agder Sparebank
+Agder fylkeskommune
+Agilyx ASA
+Aider Konsern AS
+Airswift Global AS
+Airthings ASA
+Akastor ASA
+Aker ASA
+Aker BP ASA
+Aker BioMarine ASA
+Aker Horizons ASA
+Aker Solutions ASA
+Akershus Energi AS
+Akershus fylkeskommune
+Akobo Minerals AB (publ)
+Aktieselskabet Schouw & Co.
+Alver kommune
+Andfjord Salmon Group AS
+Appear ASA
+Aqua Bio Technology ASA
+Archer Limited
+Archer Norge AS
+Arctic Bioscience AS
+Arctic Fish Holding AS
+ArcticZymes Technologies ASA
+Arendal Kommune
+Arendals Fossekompani ASA
+Arribatec Group ASA
+Arva AS
+Asker Kommune
+Askim og Spydeberg Sparebank
+Askøy Kommune
+Asp Data Center AS
+Atea ASA
+Atlantic Sapphire ASA
+Aurskog Sparebank
+Aurskog-Høland kommune
+Austevoll Seafood ASA
+AutoStore Holdings Ltd.
+Avinor AS
+Ax INV1 Holding AS
+Axactor ASA
+Ayfie International AS
+B2 Impact ASA
+BEWi ASA
+BN Bank ASA
+BW Energy Limited
+BW LPG Limited
+BW Offshore Limited
+Bakkafrost P/f
+Bakkegruppen AS
+Baltic Sea Properties AS
+Bamble kommune
+Bane NOR Eiendom AS
+Barramundi Group Ltd.
+Bergen Carbon Solutions AS
+Bergen Kommune
+Bewi Invest AS
+Bien Sparebank ASA
+BioFish Holding AS
+Bjugn Sparebank
+Bjørnafjorden kommune
+Black Sea Property AS
+BlueNord ASA
+Bluewater Holding B.V.
+Boliden AB
+Bonheur ASA
+Borgestad ASA
+Borregaard ASA
+Bouvet ASA
+Brage Finans AS
+Bruton Limited
+Bulk Infrastructure Group AS
+Buskerud fylkeskommune
+Bustadkreditt Sogn og Fjordane AS
+Byggma ASA
+Bærum Kommune
+CMB.TECH NV
+Cadeler A/S
+Cambi ASA
+Capsol Technologies ASA
+Carucel Property AS
+Cavendish Hydrogen ASA
+Chip Bidco AS
+Circio Holding ASA
+Cloudberry Clean Energy ASA
+Coburn Resources Pty Ltd
+CodeLab Capital AS
+Color Group AS
+Compagnie Maritime Monegasque OSV B.V.
+Constellation Oil Services Holding S.A.
+ContextVision AB
+Contships Logistics Corp.
+Cool Company Ltd.
+Cruise Yacht Upper Holdco Ltd.
+Cyviz AS
+DEN NORSKE STAT
+DFDS A/S
+DNB Asset Management AS
+DNB Bank ASA
+DNB Boligkreditt AS
+DNO ASA
+DNV Group AS
+DOF Group ASA
+Danske Bank A/S
+Deep Value Driller AS
+Dellia Group ASA
+Desert Control AS
+Diana Shipping Inc
+Diversified Gas & Oil Corporation
+Dolphin Drilling AS
+Drammen Kommune
+Drangedal Sparebank
+Drangedal kommune
+EAM Solar AS
+EDR Certified Origin Physical Gold Plc
+EXACT Therapeutics AS
+Eidesvik Offshore ASA
+Eidsiva Energi AS
+Eidsvoll kommune
+Eiendomskreditt AS
+Eiendomsspar AS
+Eika Boligkreditt AS
+Eika Gruppen AS
+Ekornes QM Holding AS
+Electromagnetic Geoservices ASA
+Elektroimportøren AS
+Elkem ASA
+Elliptic Laboratories ASA
+Elmera Group ASA
+Elopak ASA
+Endúr ASA
+Enebakk kommune
+Energeia AS
+Engebø Rutile and Garnet AS
+Enity Bank Group AB
+Ensurge Micropower ASA
+Entra ASA
+Envipco Holding N.V.
+Equinor ASA
+Eqva ASA
+Etnedal Sparebank
+Euronav Luxembourg S.A.
+Europris ASA
+Eviny AS
+Excellence Logging Finance 2 PLC
+Extenda Retail Holding 1 AB (publ)
+Fana Sparebank
+Fana Sparebank Boligkreditt AS
+Farsund Kommune
+Felleskjøpet Agri SA
+Ferde AS
+Fertiberia Corporate S.L.U.
+Fibo Group AS
+Finanstilsynet
+Fjaler kommune
+Fjellinjen AS
+Fjord Defence Group ASA
+Flekkefjord Sparebank
+Floatel International Ltd
+Forbes Resources Brazil Holding S.A.
+Forum Energy Technologies, Inc.
+Fredrikstad Kommune
+Fremtind Forsikring AS
+Frende Skadeforsikring AS
+Frogn kommune
+Frontline plc
+Færder kommune
+GLX Holding
+Galileo Global Technologies Ltd
+Genel Energy Finance 4 plc
+Gentian Diagnostics ASA
+Geoquip Marine Services P.L.C
+Gigante Salmon AS
+Giske kommune
+Gjensidige Forsikring ASA
+Gjerdrum kommune
+Gjøvik Kommune
+GoCollective Holding A/S
+Golar LNG Limited
+Golden Energy Offshore Services ASA
+Goodtech ASA
+Green Minerals AS
+Grieg Seafood ASA
+Grimstad kommune
+Grong Sparebank
+Grue Sparebank
+Grøntvedt AS
+Gulf Keystone Petroleum Ltd.
+Gyldendal ASA
+HAV Group ASA
+HMH Holding B.V.
+HX Hold Co Ltd.
+Hafnia Limited
+Hafslund AS
+Haltdalen Sparebank
+Haram Kommune
+Hareid kommune
+Harstad Kommune
+Haugaland Kraft AS
+Haugesund Sparebank
+Haugesund kommune
+Havila Finans AS
+Havila Kystruten AS
+Havila Shipping ASA
+Hawk Infinity Software AS
+Hegra Sparebank
+Helgeland Boligkreditt AS
+Helgeland Kraft AS
+Hermana Holding ASA
+Hexagon Composites ASA
+Hexagon Purus ASA
+Himalaya Shipping Ltd
+Hofseth BioCare ASA
+Hofseth International AS
+Horisont Energi AS
+Hospitality Invest AS
+Huddlestock Fintech AS
+Huddly AS
+Hunter Group ASA
+Hustadvika kommune
+HydrogenPro ASA
+Hynion AS
+Höegh Autoliners ASA
+Hörmann Industries GmbH
+Høland og Setskog Sparebank
+IDEX Biometrics ASA
+INIFY Laboratories AB
+IVAR IKS
+Icelandic Salmon AS
+Indre Fosen kommune
+Indre Østfold kommune
+Induct AS
+Infront AS
+Inin Group AS
+Innlandet fylkeskommune
+Instabank ASA
+Integrated Wind Solutions ASA
+Interoil Exploration and Prod. ASA
+Itera ASA
+JBF Sparebank
+Jinhui Shipping and Transport. Ltd
+Jæren Sparebank
+KISTEFOS AS
+KLP Banken AS
+KLP Boligkreditt AS
+KLP Kommunekreditt AS
+KMC Properties ASA
+Kaldvik AS
+Karbon Equity AS
+Karlsberg Brauerei GmbH
+Karmøy Kommune
+Katjes International GmbH & Co. KG
+Kid ASA
+Kistos Energy (Norway) AS
+Kitron ASA
+Klaveness Combination Carriers ASA
+Klepp Kommune
+Kolibri Beteiligung GmbH
+Kommunalbanken AS
+Komplett ASA
+Kongsberg Automotive ASA
+Kongsberg Gruppen ASA
+Kongsberg Kommune
+Kraft Bank ASA
+Kragerø kommune
+Kredinor AS
+Kredittforeningen for Sparebanker
+Kristiansund Kommune
+Kvam Herad
+Kvinesdal Sparebank
+Landkreditt Bank AS
+Landkreditt Boligkreditt AS
+Landkreditt Forsikring AS
+Larvik Kommune
+Lea Bank AB
+Lerøy Seafood Group ASA
+Levanger kommune
+Lier Kommune
+Lifecare ASA
+Lillehammer Kommune
+Lillesand kommune
+Lillesands Sparebank
+Lillestrøm kommune
+Lime Petroleum Holding AS
+Link Mobility Group Holding ASA
+Loch Duart Plc
+Lokotech Group AS
+Longship Group B.V.
+Lumi Gruppen AS
+Luster Sparebank
+Lyse AS
+Lytix Biopharma AS
+M Vest Water AS
+MPC Container Ships ASA
+MPC Energy Solutions N.V.
+Magnora ASA
+Malvik kommune
+Marker og Eidsberg Sparebank
+MatvareExpressen AS
+Medistim ASA
+Melhus Sparebank
+Midt-Telemark kommune
+Molde Kommune
+Moreld ASA
+Morrow Bank ASA
+Mowi ASA
+Multiconsult ASA
+Mutares SE & CO KGaA
+Måsøval AS
+Møller Mobility Group AS
+Møre Boligkreditt AS
+Møre og Romsdal Fylkeskommune
+N0r5ke Viking I AS
+NEL ASA
+NES Fircroft Bondco AS
+NEXT Biometrics Group ASA
+NORBIT ASA
+NRC Group ASA
+Namsos kommune
+Nannestad kommune
+Napatech A/S
+Navamedic ASA
+Navigator Holdings Ltd
+Nekkar ASA
+Neptune Bidco AS
+Nesodden kommune
+Nidaros Sparebank
+Nittedal Kommune
+NoA Bidco AS
+NorAm Drilling AS
+Norcod AS
+Norconsult ASA
+Nord-Trøndelag Elektrisitetsverk
+Nordea Bank Abp
+Nordea Eiendomskreditt AS
+Nordhealth AS
+Nordic Aqua Partners AS
+Nordic Financials ASA
+Nordic Halibut AS
+Nordic Mining ASA
+Nordic Semiconductor ASA
+Nordic Technology Group AS
+Nordkraft AS
+Norges Bank
+NorgesGruppen ASA
+Norlandia Health & Care Group AS
+Norse Atlantic ASA
+Norsk Hydro ASA
+Norsk Titanium AS
+Norske Skog ASA
+North Energy ASA
+Northern Ocean Ltd.
+Nortura Konsernpensjonskasse
+Nortura SA
+Norwegian Air Shuttle ASA
+Norwegian Block Exchange AS
+Norwegian Property ASA
+Notodden kommune
+Nykode Therapeutics ASA
+Næringsbanken ASA
+OBOS BBL
+OBOS Boligkreditt AS
+OBOS Eiendom AS
+OBOS-banken AS
+OKEA ASA
+Observe Medical ASA
+Ocean GeoLoop AS
+Ocean Sun AS
+Ocean Yield AS
+Odal Sparebank
+Odfjell Drilling Ltd
+Odfjell Rig III Ltd.
+Odfjell SE
+Odfjell Technology Ltd
+Okeanis Eco Tankers Corp.
+Okechamp Global B.V.
+Olav Thon Eiendomsselskap ASA
+Omda AS
+Oncoinvent ASA
+Opdals Sparebank
+Orkla ASA
+Orkla Sparebank
+Oslo Børs
+Oslo Kommune
+Oslofjord Sparebank
+Osterøy Kommune
+Otello Corporation ASA
+Otovo ASA
+PCI Biotech Holding ASA
+Pandion Energy AS
+Panoro Energy ASA
+Paratus Energy Services Ltd.
+Pareto Bank ASA
+Pearl Petroleum Company Limited
+Pelagia Holding AS
+Pembroke Olive Downs Pty Ltd
+PetroNor E&P ASA
+Petrolia SE
+Pexip Holding ASA
+Photocure ASA
+Pioneer Property Group ASA
+Polaris Media ASA
+Polaris Renewable Energy Inc.
+Porsgrunn Kommune
+Posten Bring AS
+Priority 1 Issuer Logist Dsgn Activ Comp
+Prosafe SE
+Protector Forsikring ASA
+Proximar Seafood AS
+Pryme N.V.
+Public Property Invest ASA
+Pyrum Innovations AG
+Questerre Energy Corporation
+REC Silicon ASA
+Rana Gruber ASA
+Rana Kommune
+Reach Subsea ASA
+Rederiaktiebolaget Eckerö
+Refuels N.V.
+Resurs Bank AB (publ)
+Rindal Sparebank
+Ringerike kommune
+Ringerikskraft AS
+River Tech p.l.c.
+Rogaland Fylkeskommune
+Rogaland Sparebank
+Rogaland Sparebank Boligkreditt AS
+RomReal Ltd.
+Romerike Sparebank
+Rælingen Kommune
+RørosBanken
+S.D. Standard ETC Plc
+SATS ASA
+SED Energy Holdings Plc
+SFL Corporation Ltd.
+SP Cruises Intermediate Limited
+SR-Boligkreditt AS
+Saga Pure ASA
+SalMar ASA
+Salmon Evolution ASA
+Samara Asset Group Plc
+Samos Energy Infrastructure Limited
+Sandefjord kommune
+Sandnes kommune
+Santander Consumer Bank AS
+Scana ASA
+Scatec ASA
+Scorpio Tankers Inc.
+Sea1 Offshore Inc.
+Seacrest Petroleo Bermuda Limited
+Seapeak LLC
+Selbu Sparebank
+Selvaag Bolig ASA
+Senja kommune
+Sentia ASA
+Shearwater GeoServices AS
+Shelf Drilling (North Sea) Holdings, Ltd
+Shelf Drilling (North Sea), Ltd.
+Shelf Drilling, Ltd.
+Skagerrak Sparebank
+Skandia GreenPower AS
+Skien Kommune
+Skudenes og Aakra Sparebank
+Skue Sparebank
+SmartCraft ASA
+Smartoptics Group ASA
+Småkraft AS
+SoftOx Solutions AS
+SoftwareOne Holding AG
+Sogn Sparebank
+Sogn og Fjordane Energi AS
+Sogndal kommune
+Soiltech ASA
+Sola kommune
+Solis Bond Company DAC
+Solstad Maritime ASA
+Solstad Offshore ASA
+SpareBank 1 Boligkreditt
+SpareBank 1 Gudbrandsdal
+SpareBank 1 Hallingdal Valdres
+SpareBank 1 Helgeland
+SpareBank 1 Lom og Skjåk
+SpareBank 1 Nord-Norge
+SpareBank 1 Nordmøre
+SpareBank 1 Næringskreditt AS
+SpareBank 1 Ringerike Hadeland
+SpareBank 1 SMN
+SpareBank 1 Sogn og Fjordane
+SpareBank 1 Sør-Norge ASA
+SpareBank 1 Østfold Akershus
+SpareBank 1 Østlandet
+Sparebank 68 grader nord
+Sparebanken Din
+Sparebanken Møre
+Sparebanken Narvik
+Sparebanken Norge
+Sparebanken Norge Boligkreditt AS
+Sparebanken Øst
+Sparebanken Øst Boligkreditt AS
+Spareskillingsbanken
+Spir Group ASA
+Stad Kommune
+Stadsbygd Sparebank
+Stadshypotek AB (publ)
+Stainless Tankers ASA
+StandardCoin AS
+Statkraft AS
+Statnett SF
+Stavanger Kommune
+Steen & Strøm AS
+Steinkjer kommune
+Steinkjerbygg Kf
+Stolt-Nielsen Limited
+Stord Kommune
+Storebrand ASA
+Storebrand Bank ASA
+Storebrand Boligkreditt AS
+Storebrand Livsforsikring AS
+StrongPoint ASA
+Strømmen Sparebank
+Subsea 7 S.A.
+Sula Kommune
+Sunndal kommune
+Sunnfjord kommune
+Sunnhordland Kraftlag AS
+Sveio Kommune
+Swedbank AB
+SØGNE OG GREIPSTAD SPAREBANK
+TEMPTON Personaldienstleistungen
+TGS ASA
+TORM plc
+TRD Campus Holding AS
+TWMA Finance AS
+Techstep ASA
+Tekna Holding ASA
+Telemark fylkeskommune
+Telenor ASA
+Telford Finco
+Tensio AS
+The Kingfish Company N.V.
+The Platform Group AG
+Thon Holding AS
+Thor Medical ASA
+TietoEVRY Oyj
+Time kommune
+Tinde Sparebank
+Tine SA
+Tinn Kommune
+Tinn Sparebank
+Tolga-Os Sparebank
+Tomra Systems ASA
+Treasure ASA
+Troms fylkeskommune
+Tromsø Kommune
+Trondheim Kommune
+Tryg Forsikring A/S
+Trøgstad Sparebank
+Trøndelag Fylkeskommune
+Trøndelag Sparebank
+TrønderEnergi AS
+Tysvær kommune
+Tønsberg kommune
+Ullensaker kommune
+Ullensvang kommune
+Ulstein kommune
+Vadsø Kommune
+Vaksdal kommune
+Valdres Sparebank
+Valle Sparebank
+Vantage Drilling International Ltd
+Varel Oil and Gas Inc.
+Vasakronan AB
+Veas Selvkost AS
+Vegamot AS
+Vegfinans Innlandet AS
+Vegfinans Vestfold og Telemark AS
+Vegfinans Viken AS
+Veidekke ASA
+Vend Marketplaces ASA
+Ventura Offshore Holding Ltd.
+Ventura Offshore Midco Ltd
+Verd Boligkreditt AS
+Verdal kommune
+Vestby kommune
+Vestfold fylkeskommune
+Vestland fylkeskommune
+Vestre Toten kommune
+View Ledger AS
+Vindafjord kommune
+Vinje kommune
+Vistin Pharma ASA
+Vital Energi Midco Limited
+Volda kommune
+Voss Sparebank
+Voss Veksel- og Landmandsbank ASA
+Voss herad
+Vow ASA
+Vår Energi ASA
+Waldorf Energy Finance PLC
+Waldorf Production UK Plc
+Wallenius Wilhelmsen ASA
+Webstep ASA
+Wellbore Integrity Solutions Parent
+Western Bulk Chartering AS
+Whitworth Midco Plc
+Wilh. Wilhelmsen Holding ASA
+Xplora Technologies AS
+Yara International ASA
+Yinson Production Financial Services Pte
+Zalaris ASA
+Zaptec ASA
+Zelluna ASA
+Zenith Energy Ltd
+Ziton A/S
+momox Holding SE
+poLight ASA
+Å Energi AS
+Ålesund kommune
+Ås kommune
+Ørland Sparebank
+Ørland kommune
+Ørskog Sparebank
+Ørsta kommune
+Østfold Energi AS
+Østfold fylkeskommune
+Østre Toten Kommune
+Øyfjellet Wind Investment AS
+Øygarden kommune

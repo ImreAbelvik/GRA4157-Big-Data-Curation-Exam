@@ -1,0 +1,442 @@
+[
+  {
+    "date": "27.12.2023 21:30",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade (flagging)\nEMGS: Mandatory notification of trade (flagging)\nW\nW\nEMGS: Mandatory notification of trade (flagging)",
+    "link": "/message/607667",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.12.2023 13:00",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade\nEMGS: Mandatory notification of trade\nW\nW\nEMGS: Mandatory notification of trade",
+    "link": "/message/606851",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2022 20:00",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Notifiable Trading\nEMGS: Notifiable Trading\nW\nW\nEMGS: Notifiable Trading",
+    "link": "/message/563065",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2022 18:00",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Notifiable Trading\nEMGS: Notifiable Trading\nW\nW\nEMGS: Notifiable Trading",
+    "link": "/message/562921",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.08.2021 13:57",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Updated mandatory notification of trade\nEMGS: Updated mandatory notification of trade\nW\nW\nEMGS: Updated mandatory notification of trade",
+    "link": "/message/539668",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.07.2021 18:25",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Result of bond buy-back and mandatory notification of trade\nEMGS: Result of bond buy-back and mandatory notification of trade\nW\nW\nEMGS: Result of bond buy-back and mandatory notification of trade",
+    "link": "/message/538354",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.05.2018 15:33",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade\nEMGS: Mandatory notification of trade\nW\nW\nEMGS: Mandatory notification of trade",
+    "link": "/message/451700",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.05.2018 15:12",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade and updated overview of subscribing primary insiders' holdings of shares and bonds\nEMGS: Mandatory notification of trade and updated overview of subscribing primary insiders' holdings of shares and bonds\nW\nW\nEMGS: Mandatory notification of trade and updated overview of subscribing primary insiders' holdings of shares and bonds",
+    "link": "/message/450702",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.05.2018 15:50",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade\nEMGS: Mandatory notification of trade\nW\nW\nEMGS: Mandatory notification of trade",
+    "link": "/message/450579",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.05.2018 18:36",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade\nEMGS: Mandatory notification of trade\nW\nW\nEMGS: Mandatory notification of trade",
+    "link": "/message/450299",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.04.2018 15:49",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade\nEMGS: Mandatory notification of trade\nW\nW\nEMGS: Mandatory notification of trade",
+    "link": "/message/449381",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.04.2018 13:39",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade\nEMGS: Mandatory notification of trade\nW\nW\nEMGS: Mandatory notification of trade",
+    "link": "/message/449347",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.04.2018 17:35",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "Mandatory Notification of Trade\nMandatory Notification of Trade\nW\nW\nMandatory Notification of Trade",
+    "link": "/message/449293",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.04.2018 14:57",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS: Mandatory notification of trade\nEMGS: Mandatory notification of trade\nW\nW\nEMGS: Mandatory notification of trade",
+    "link": "/message/449280",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.07.2017 10:56",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "CORRECTION: EMGS - Mandatory notification of trades\nCORRECTION: EMGS - Mandatory notification of trades\nW\nW\nCORRECTION: EMGS - Mandatory notification of trades",
+    "link": "/message/431057",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.07.2017 10:28",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trades\nEMGS - Mandatory notification of trades\nW\nW\nEMGS - Mandatory notification of trades",
+    "link": "/message/431052",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.07.2017 09:51",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS- Meldepliktig handel\nEMGS- Meldepliktig handel\nW\nW\nEMGS- Meldepliktig handel",
+    "link": "/message/430857",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.06.2017 08:30",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/430699",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.06.2017 17:38",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/430483",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.06.2017 10:57",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/430440",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.06.2017 15:47",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/430402",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.03.2017 09:45",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Meldepliktig handel\nEMGS - Meldepliktig handel\nW\nW\nEMGS - Meldepliktig handel",
+    "link": "/message/422501",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.07.2016 08:31",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/405496",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2015 08:30",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/392052",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.12.2015 08:38",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trades\nEMGS - Mandatory notification of trades\nW\nW\nEMGS - Mandatory notification of trades",
+    "link": "/message/391606",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "15.12.2015 08:15",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/391506",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.12.2015 08:25",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "MANDATORY NOTIFICATION OF TRADE\nMANDATORY NOTIFICATION OF TRADE\nW\nW\nMANDATORY NOTIFICATION OF TRADE",
+    "link": "/message/391327",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "11.12.2015 07:55",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/391313",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.12.2015 08:26",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "UPDATE: EMGS - Mandatory notification of trade\nUPDATE: EMGS - Mandatory notification of trade\nW\nW\nUPDATE: EMGS - Mandatory notification of trade",
+    "link": "/message/391172",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.12.2015 08:21",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/391168",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.12.2015 08:00",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/391166",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.12.2015 08:51",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/391095",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.12.2015 11:37",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/391025",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.12.2015 08:26",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/391001",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.12.2015 16:20",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trades\nEMGS - Mandatory notification of trades\nW\nW\nEMGS - Mandatory notification of trades",
+    "link": "/message/390985",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.12.2015 18:07",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/390714",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.06.2015 08:30",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/380708",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.05.2015 08:30",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/378889",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.05.2015 16:29",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade by CFO\nEMGS - Mandatory notification of trade by CFO\nW\nW\nEMGS - Mandatory notification of trade by CFO",
+    "link": "/message/378722",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.02.2015 10:14",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/371010",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.02.2015 15:35",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/370638",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.02.2015 18:51",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/370547",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.01.2015 15:59",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/369521",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.01.2015 11:49",
+    "market": "XOSL",
+    "IssuerID": "EMGS",
+    "message": "EMGS - Mandatory notification of trade\nEMGS - Mandatory notification of trade\nW\nW\nEMGS - Mandatory notification of trade",
+    "link": "/message/369385",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

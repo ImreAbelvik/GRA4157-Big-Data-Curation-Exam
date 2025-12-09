@@ -1,0 +1,7 @@
+Name: Helge Simonnes
+Reason for notification: Trading by close associates
+Type of transaction: Share purchase
+Time for the transaction: 7 June 2019 at 14:03
+Price per share: 8,14
+Transaction volume: 12,000
+New holding after the transaction: 114,000

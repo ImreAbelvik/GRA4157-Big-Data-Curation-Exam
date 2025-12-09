@@ -1,0 +1,79 @@
+Today, primary insider Ole Gunnar Jakobsen, Plant Director, Sarpsborg Site,
+exercised 15,000 stock options at a strike price of NOK 91.56 per share, and in
+separate transactions, purchased and sold the same number of shares.
+
+1.        Details of the person discharging managerial responsibilities/person
+closely associated
+
+a)        Name: Ole Gunnar Jakobsen
+
+2.        Reason for the notification
+a)        Position/status: Plant Director, Sarpsborg Site
+b)        Initial notification/Amendment: Initial notification
+
+3.        Details of the issuer, emission allowance market participant, auction
+platform, auctioneer or auction monitor
+
+a)        Name: Borregaard ASA
+b)        LEI: 5967007LIEEXZXGYXC05
+
+4.        Details of the transaction(s): section to be repeated for (i) each
+type of instrument; (ii) each type of transaction; (iii) each date; and (iv)
+each place where transactions have been conducted
+
+a)      Description of the financial instrument, type of instrument: Stock
+option
+Identification code: N/A
+
+b)        Nature of the transaction: Exercise of stock option linked to a stock
+option programme
+c)        Price(s) and volume(s): NOK 91.56 and 15,000
+d)        Aggregated information
+e)        Date of the transaction: 2021-04-30; 15:30 CET
+f)        Place of the transaction: Outside a trading venue
+
+5.        Details of the transaction(s): section to be repeated for (i) each
+type of instrument; (ii) each type of transaction; (iii) each date; and (iv)
+each place where transactions have been conducted
+
+a)      Description of the financial instrument, type of instrument: Shares
+Identification code: NO0010657505
+
+b)        Nature of the transaction: Purchase of shares linked to a stock option
+programme
+c)        Price(s) and volume(s): NOK 91.56 and 15,000
+d)        Aggregated information
+e)        Date of the transaction: 2021-04-30; 15:30 CET
+f)        Place of the transaction: Outside a trading venue
+
+6.        Details of the transaction(s): section to be repeated for (i) each
+type of instrument; (ii) each type of transaction; (iii) each date; and (iv)
+each place where transactions have been conducted
+a)        Description of the financial instrument, type of instrument: Shares
+
+Identification code: NO0010657505
+
+b)        Nature of the transaction: Sale of shares linked to a stock option
+programme
+c)        Price(s) and volume(s): NOK 179.51 and 15,000
+d)        Aggregated information
+e)        Date of the transaction: 2021-04-30; 15:30 CET
+f)        Place of the transaction: Outside a trading venue
+
+After the transactions, Ole Gunnar Jakobsen owns 32,069 shares and holds 65,000
+stock options in Borregaard.
+
+The total number of outstanding Borregaard stock options following this
+transaction is 1,476,136. Borregaard owns 453,702 treasury shares, representing
+0.45% of the total number of shares outstanding.
+
+Borregaard ASA
+Sarpsborg, 30 April 2021
+
+Contact:
+Dag Arthur Aasbø, Senior Vice President, +47 918 34 108
+
+This information is subject to the disclosure requirements pursuant to Section
+3-1 of the Norwegian Securities Trading Act, cf. Regulation (EU) No 596/2014 of
+the European Parliament and of the Council of 16 April 2014 on market abuse
+(market abuse regulation) Article 19.

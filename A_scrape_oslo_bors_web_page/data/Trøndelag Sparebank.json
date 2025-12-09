@@ -1,0 +1,72 @@
+[
+  {
+    "date": "02.09.2025 16:15",
+    "market": "XOSL, XOAM",
+    "IssuerID": "TRSB",
+    "message": "Trøndelag Sparebank - meldepliktig handel foretatt av nærstående\nTrøndelag Sparebank - meldepliktig handel foretatt av nærstående\nW\nW\nTrøndelag Sparebank - meldepliktig handel foretatt av nærstående",
+    "link": "/message/654515",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.02.2025 07:15",
+    "market": "XOSL, XOAM",
+    "IssuerID": "TRSB",
+    "message": "Trøndelag Sparebank: Meldepliktig handel foretatt av nærstående til primærinnsider\nTrøndelag Sparebank: Meldepliktig handel foretatt av nærstående til primærinnsider\nW\nW\nTrøndelag Sparebank: Meldepliktig handel foretatt av nærstående til primærinnsider",
+    "link": "/message/639116",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.12.2024 15:24",
+    "market": "XOSL, XOAM",
+    "IssuerID": "TRSB",
+    "message": "Trøndelag Sparebank: Meldepliktig handel\nTrøndelag Sparebank: Meldepliktig handel\nW\nW\nTrøndelag Sparebank: Meldepliktig handel",
+    "link": "/message/634079",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.11.2024 18:57",
+    "market": "XOSL, XOAM",
+    "IssuerID": "TRSB",
+    "message": "Trøndelag Sparebank: Meldepliktig handel\nTrøndelag Sparebank: Meldepliktig handel\nW\nW\nTrøndelag Sparebank: Meldepliktig handel",
+    "link": "/message/633336",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.11.2024 14:27",
+    "market": "XOSL, XOAM",
+    "IssuerID": "TRSB",
+    "message": "Trøndelag Sparebank: Meldepliktig handel\nTrøndelag Sparebank: Meldepliktig handel\nW\nW\nTrøndelag Sparebank: Meldepliktig handel",
+    "link": "/message/633034",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.11.2024 08:01",
+    "market": "XOSL, XOAM",
+    "IssuerID": "TRSB",
+    "message": "Trøndelag Sparebank: Meldepliktig handel\nTrøndelag Sparebank: Meldepliktig handel\nW\nW\nTrøndelag Sparebank: Meldepliktig handel",
+    "link": "/message/632944",
+    "Corr": "",
+    "Attach": "2",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.11.2024 19:57",
+    "market": "XOSL, XOAM",
+    "IssuerID": "TRSB",
+    "message": "Trøndelag Sparebank: Primærinnsideres og nærståendes mottak av tegningsretter i forbindelse med fortrinnsrettsemisjonen\nTrøndelag Sparebank: Primærinnsideres og nærståendes mottak av tegningsretter i forbindelse med fortrinnsrettsemisjonen\nW\nW\nTrøndelag Sparebank: Primærinnsideres og nærståendes mottak av tegningsretter i forbindelse med fortrinnsrettsemisjonen",
+    "link": "/message/631984",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

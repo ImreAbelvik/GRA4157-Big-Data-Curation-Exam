@@ -1,0 +1,862 @@
+[
+  {
+    "date": "05.11.2024 14:28",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "NONG: Mandatory notification of trade\nNONG: Mandatory notification of trade\nW\nW\nNONG: Mandatory notification of trade",
+    "link": "/message/631284",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.11.2024 14:28",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "NONG: Meldepliktig handel\nNONG: Meldepliktig handel\nW\nW\nNONG: Meldepliktig handel",
+    "link": "/message/631283",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2022 08:15",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "NONG mandatory notification of trade\nNONG mandatory notification of trade\nW\nW\nNONG mandatory notification of trade",
+    "link": "/message/578950",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.12.2022 08:15",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "NONG meldepliktig handel\nNONG meldepliktig handel\nW\nW\nNONG meldepliktig handel",
+    "link": "/message/578949",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.11.2022 14:57",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "NONG mandatory notification of trade\nNONG mandatory notification of trade\nW\nW\nNONG mandatory notification of trade",
+    "link": "/message/574553",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "02.11.2022 14:57",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "NONG meldepliktig handel\nNONG meldepliktig handel\nW\nW\nNONG meldepliktig handel",
+    "link": "/message/574552",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.05.2022 13:54",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel (NONG)\nMeldepliktig handel (NONG)\nW\nW\nMeldepliktig handel (NONG)",
+    "link": "/message/560950",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.05.2022 13:54",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade (NONG)\nMandatory notification of trade (NONG)\nW\nW\nMandatory notification of trade (NONG)",
+    "link": "/message/560951",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.03.2022 10:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel (NONG)\nMeldepliktig handel (NONG)\nW\nW\nMeldepliktig handel (NONG)",
+    "link": "/message/555833",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.03.2022 10:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade (NONG)\nMandatory notification of trade (NONG)\nW\nW\nMandatory notification of trade (NONG)",
+    "link": "/message/555832",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.06.2021 15:49",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade primary insiders\nMandatory notification of trade primary insiders\nW\nW\nMandatory notification of trade primary insiders",
+    "link": "/message/535630",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.06.2021 15:49",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/535629",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.10.2020 14:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/516868",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "30.10.2020 14:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/516867",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.10.2020 12:00",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/516230",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.10.2020 12:00",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/516229",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.08.2020 09:49",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade (NONG)\nMandatory notification of trade (NONG)\nW\nW\nMandatory notification of trade (NONG)",
+    "link": "/message/511418",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "17.08.2020 09:49",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel (NONG)\nMeldepliktig handel (NONG)\nW\nW\nMeldepliktig handel (NONG)",
+    "link": "/message/511417",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.04.2020 14:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade (NONG)\nMandatory notification of trade (NONG)\nW\nW\nMandatory notification of trade (NONG)",
+    "link": "/message/500706",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "07.04.2020 14:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Tittel Meldepliktig handel (NONG)\nTittel Meldepliktig handel (NONG)\nW\nW\nTittel Meldepliktig handel (NONG)",
+    "link": "/message/500705",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.03.2020 13:39",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel (NONG)\nMeldepliktig handel (NONG)\nW\nW\nMeldepliktig handel (NONG)",
+    "link": "/message/499800",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.03.2020 13:39",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade (NONG)\nMandatory notification of trade (NONG)\nW\nW\nMandatory notification of trade (NONG)",
+    "link": "/message/499799",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2020 13:54",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel (NONG)\nMeldepliktig handel (NONG)\nW\nW\nMeldepliktig handel (NONG)",
+    "link": "/message/499344",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.03.2020 13:54",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade (NONG)\nMandatory notification of trade (NONG)\nW\nW\nMandatory notification of trade (NONG)",
+    "link": "/message/499345",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2019 17:24",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel for primærinnsidere\nMeldepliktig handel for primærinnsidere\nW\nW\nMeldepliktig handel for primærinnsidere",
+    "link": "/message/476587",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2019 17:24",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/476586",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2019 08:07",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge, meldepliktig handel\nSpareBank 1 Nord-Norge, meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge, meldepliktig handel",
+    "link": "/message/472717",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.03.2019 08:07",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge, mandatory notification of trade\nSpareBank 1 Nord-Norge, mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge, mandatory notification of trade",
+    "link": "/message/472716",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.03.2019 10:48",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel for primærinnsider\nMeldepliktig handel for primærinnsider\nW\nW\nMeldepliktig handel for primærinnsider",
+    "link": "/message/471558",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.10.2018 13:28",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/462190",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.10.2018 13:28",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel for primærinnsider\nMeldepliktig handel for primærinnsider\nW\nW\nMeldepliktig handel for primærinnsider",
+    "link": "/message/462189",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "27.08.2018 15:17",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/458158",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.08.2018 13:05",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge: Mandatory notification of trade\nSpareBank 1 Nord-Norge: Mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge: Mandatory notification of trade",
+    "link": "/message/457806",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "22.08.2018 13:05",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel i SpareBank 1 Nord-Norge\nMeldepliktig handel i SpareBank 1 Nord-Norge\nW\nW\nMeldepliktig handel i SpareBank 1 Nord-Norge",
+    "link": "/message/457805",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.08.2018 13:27",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade (NONG)\nMandatory notification of trade (NONG)\nW\nW\nMandatory notification of trade (NONG)",
+    "link": "/message/457065",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "14.08.2018 13:27",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel i SpareBank 1 Nord-Norge\nMeldepliktig handel i SpareBank 1 Nord-Norge\nW\nW\nMeldepliktig handel i SpareBank 1 Nord-Norge",
+    "link": "/message/457064",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.08.2018 09:05",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge: Meldepliktig handel\nSpareBank 1 Nord-Norge: Meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge: Meldepliktig handel",
+    "link": "/message/456747",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.06.2018 14:54",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/453598",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "08.06.2018 13:40",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel NONG\nMeldepliktig handel NONG\nW\nW\nMeldepliktig handel NONG",
+    "link": "/message/453271",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "05.06.2018 09:04",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/452933",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.02.2018 15:37",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel for primærinnsider\nMeldepliktig handel for primærinnsider\nW\nW\nMeldepliktig handel for primærinnsider",
+    "link": "/message/443954",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "28.12.2017 15:03",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel i Sparebank1 Nord-Norge\nMeldepliktig handel i Sparebank1 Nord-Norge\nW\nW\nMeldepliktig handel i Sparebank1 Nord-Norge",
+    "link": "/message/441669",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "24.11.2017 13:50",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel i SpareBank 1 Nord-Norge (NONG)\nMeldepliktig handel i SpareBank 1 Nord-Norge (NONG)\nW\nW\nMeldepliktig handel i SpareBank 1 Nord-Norge (NONG)",
+    "link": "/message/439487",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.06.2017 12:45",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel i Sparebank 1 Nord-Norge ( NONG)\nMeldepliktig handel i Sparebank 1 Nord-Norge ( NONG)\nW\nW\nMeldepliktig handel i Sparebank 1 Nord-Norge ( NONG)",
+    "link": "/message/429320",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2017 07:59",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - sale of own equity certificates\nSpareBank 1 Nord-Norge - sale of own equity certificates\nW\nW\nSpareBank 1 Nord-Norge - sale of own equity certificates",
+    "link": "/message/422683",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.03.2017 07:59",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge: videresalg av egne egenkapitalbevis\nSpareBank 1 Nord-Norge: videresalg av egne egenkapitalbevis\nW\nW\nSpareBank 1 Nord-Norge: videresalg av egne egenkapitalbevis",
+    "link": "/message/422682",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.02.2017 15:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/420747",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "21.02.2017 15:47",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/420746",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.02.2017 10:05",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/420615",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2017 08:26",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Mandatory notification of trade\nMandatory notification of trade\nW\nW\nMandatory notification of trade",
+    "link": "/message/420335",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "16.02.2017 08:26",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "Meldepliktig handel\nMeldepliktig handel\nW\nW\nMeldepliktig handel",
+    "link": "/message/420334",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.06.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge: videresalg av egne egenkapitalbevis\nSpareBank 1 Nord-Norge: videresalg av egne egenkapitalbevis\nW\nW\nSpareBank 1 Nord-Norge: videresalg av egne egenkapitalbevis",
+    "link": "/message/403234",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "01.06.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge: sale of own equity certificates\nSpareBank 1 Nord-Norge: sale of own equity certificates\nW\nW\nSpareBank 1 Nord-Norge: sale of own equity certificates",
+    "link": "/message/403233",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2016 08:38",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/402501",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "23.05.2016 08:38",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/402500",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2016 08:40",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/402382",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "20.05.2016 08:40",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/402381",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/402197",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "19.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/402196",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/402092",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/402091",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/401975",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "13.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/401971",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/401780",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "12.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/401779",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.05.2016 10:26",
+    "market": "XOSL",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/401480",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/401454",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "10.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/401452",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2016 08:34",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/401312",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "09.05.2016 08:34",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/401311",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/401205",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "06.05.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/401204",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.05.2016 08:37",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/401058",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.05.2016 08:37",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/401057",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.03.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/397716",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "18.03.2016 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/397715",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.03.2015 09:10",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel - primærinnsidere\nSpareBank 1 Nord-Norge - meldepliktig handel - primærinnsidere\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel - primærinnsidere",
+    "link": "/message/374154",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.03.2015 09:10",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade - primary insiders\nSpareBank 1 Nord-Norge - mandatory notification of trade - primary insiders\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade - primary insiders",
+    "link": "/message/374153",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.03.2015 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/374137",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "25.03.2015 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/374136",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.03.2015 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/372692",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "04.03.2015 08:30",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/372691",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.03.2015 08:40",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/372593",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "03.03.2015 08:40",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/372592",
+    "Corr": "",
+    "Attach": "",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.02.2015 08:50",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - meldepliktig handel\nSpareBank 1 Nord-Norge - meldepliktig handel\nW\nW\nSpareBank 1 Nord-Norge - meldepliktig handel",
+    "link": "/message/372185",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  },
+  {
+    "date": "26.02.2015 08:50",
+    "market": "XOSL, XOAM",
+    "IssuerID": "NONG",
+    "message": "SpareBank 1 Nord-Norge - mandatory notification of trade\nSpareBank 1 Nord-Norge - mandatory notification of trade\nW\nW\nSpareBank 1 Nord-Norge - mandatory notification of trade",
+    "link": "/message/372184",
+    "Corr": "",
+    "Attach": "1",
+    "Category": "MANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS\nW\nW\nMANDATORY NOTIFICATION OF TRADE PRIMARY INSIDERS"
+  }
+]

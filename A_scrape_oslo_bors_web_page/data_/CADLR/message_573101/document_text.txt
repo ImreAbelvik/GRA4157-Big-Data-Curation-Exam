@@ -1,0 +1,48 @@
+Copenhagen, 13 October 2022: Pursuant to the Market Abuse Regulation article 19, Cadeler A/S ("Cadeler" or the “Company”), shall hereby notify receipt of information of the following transactions made by persons discharging managerial responsibilities in Cadeler and persons closely associated with them in Cadeler's shares and other financial instruments linked thereto in connection with a private placement of Cadeler’s shares.
+
+Reference is made to the stock exchange announcement dated 12 October 2022 concerning the private placement of 32,850,000 new shares with a nominal value of DKK 1 each in the Company (the “Private Placement”). 
+
+1 	Details of the Reporting Person and their Closely Associated Persons
+a)	Name	BW Altor Pte. Ltd.
+2 	Reason for the notification 
+a)	Position/status	Closely associated person to Andreas Sohmen-Pao, chairman of the Board of Directors and Andreas Beroutsos, member of the Board of Directors.
+b)	Initial notification /Amendment	Initial notification
+3 	Details of the issuer, emission allowance market participant, auction platform, auctioneer or auction monitor 
+a)	Name	Cadeler A/S
+b)	LEI	9845008439EUED140282
+4.1 	Details of the transaction(s): section to be repeated for (i) each type of instrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted 
+a)	Description of the financial instrument, type of instrument and identification code
+Shares ISIN DK0061412772
+b)	Nature of the transaction	Lending of shares to DNB Bank ASA in connection with facilitating the settlement of the Private Placement.
+c)	Price(s) and volume(s)	Price(s) in NOK	Volume(s)
+                     N/A	25,933,549
+d)	Aggregated information
+-	Aggregated volume
+-	Price	Average price per share: N/A
+Total number of shares: 25,933,549 shares
+Total price: N/A
+e)	Date of the transaction	13 October 2022
+f)	Place of the transaction	Outside a trading venue
+4.2 	Details of the transaction(s): section to be repeated for (i) each type of instrument; (ii) each type of transaction; (iii) each date; and (iv) each place where transactions have been conducted 
+a)	Description of the financial instrument, type of instrument and identification code	
+Shares ISIN DK0061412772
+b)	Nature of the transaction	Subscription of shares in connection with the Private Placement. 
+c)	Price(s) and volume(s)	Price(s) in NOK	Volume(s)
+NOK 31.0	6,916,451
+d)	Aggregated information
+-	Aggregated volume
+-	Price	Average price per share: NOK 31.0
+Total number of shares: 6,916,451 shares
+Total price: NOK 214,409,981
+e)	Date of the transaction	13 October 2022
+f)	Place of the transaction	Outside a trading venue
+
+For further information, please contact:
+
+Mikkel Gleerup, CEO
++45 3246 3102
+mikkel.gleerup@cadeler.com
+
+About Cadeler:
+
+Cadeler A/S is a key supplier with the offshore wind industry for installation services and operation and maintenance works that provides marine and engineering operations to the offshore wind industry with a strong focus on safety and the environment. Cadeler’s reputation as provider of high-quality offshore wind support services, combined with an innovative vessel design, positioning the company to deliver premium level services to the industry. As a company, Cadeler continues to pursue new levels of efficiency, pushing beyond the current boundaries of the supply chain. Cadeler enables and facilitates the global energy transition towards a future built on renewable energy. Cadeler is listed on the Oslo Stock Exchange (ticker CADLR).
